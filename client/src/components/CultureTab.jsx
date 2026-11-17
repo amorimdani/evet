@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Compass, Landmark, Coffee, History, Sparkles, MapPin, UtensilsCrossed } from 'lucide-react';
 import AudioButton from './AudioButton';
+import TurkeyMap from './TurkeyMap';
 
 export default function CultureTab() {
   const [cultureData, setCultureData] = useState(null);
@@ -129,89 +130,100 @@ export default function CultureTab() {
 
       {/* SEÇÃO 2: AS 7 REGIÕES */}
       {activeSection === 'regions' && (
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 animate-fadeIn">
-          {/* Menu Lateral das Regiões */}
-          <div className="lg:col-span-1 space-y-2">
-            <p className="text-xs font-bold uppercase tracking-wider text-zinc-400 mb-2">
-              Selecione uma região geográfica
-            </p>
-            {cultureData.regions.map(r => {
-              const isSelected = selectedRegion && selectedRegion.id === r.id;
-              return (
-                <button
-                  key={r.id}
-                  onClick={() => setSelectedRegion(r)}
-                  className={`w-full text-left p-3.5 rounded-xl border transition-all flex items-center justify-between ${
-                    isSelected
-                      ? 'border-[#C8102E] bg-red-50/50 dark:bg-red-950/20 text-[#C8102E] dark:text-red-300 font-semibold shadow-sm'
-                      : 'border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900/60 text-zinc-700 dark:text-zinc-300 hover:border-zinc-300 dark:hover:border-zinc-700'
-                  }`}
-                >
-                  <span className="text-sm">{r.name}</span>
-                  <MapPin className="w-4 h-4 opacity-60" />
-                </button>
-              );
-            })}
-          </div>
+        <div className="space-y-8 animate-fadeIn">
+          {/* Mapa Geográfico Interativo da Turquia */}
+          <TurkeyMap
+            selectedRegionId={selectedRegion?.id}
+            onSelectRegion={(regionId) => {
+              const target = cultureData.regions.find(r => r.id === regionId);
+              if (target) setSelectedRegion(target);
+            }}
+          />
 
-          {/* Detalhe da Região Selecionada */}
-          <div className="lg:col-span-2">
-            {selectedRegion && (
-              <div className="p-6 sm:p-8 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900/60 shadow-sm space-y-6">
-                <div>
-                  <div className="flex items-center justify-between mb-2">
-                    <span className="text-xs font-bold text-[#C8102E] uppercase tracking-wider">
-                      Capital / Cidades-Chave: {selectedRegion.capitalCity}
-                    </span>
-                    <AudioButton text={selectedRegion.name.split('(')[0].trim()} />
-                  </div>
-                  <h3 className="text-2xl font-bold font-serif text-zinc-900 dark:text-white mb-3">
-                    {selectedRegion.name}
-                  </h3>
-                  <p className="text-sm text-zinc-600 dark:text-zinc-300 leading-relaxed">
-                    {selectedRegion.description}
-                  </p>
-                </div>
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            {/* Menu Lateral das Regiões */}
+            <div className="lg:col-span-1 space-y-2">
+              <p className="text-xs font-bold uppercase tracking-wider text-zinc-400 mb-2">
+                Lista das 7 Regiões Geográficas
+              </p>
+              {cultureData.regions.map(r => {
+                const isSelected = selectedRegion && selectedRegion.id === r.id;
+                return (
+                  <button
+                    key={r.id}
+                    onClick={() => setSelectedRegion(r)}
+                    className={`w-full text-left p-3.5 rounded-xl border transition-all flex items-center justify-between ${
+                      isSelected
+                        ? 'border-[#C8102E] bg-red-50/50 dark:bg-red-950/20 text-[#C8102E] dark:text-red-300 font-semibold shadow-sm'
+                        : 'border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900/60 text-zinc-700 dark:text-zinc-300 hover:border-zinc-300 dark:hover:border-zinc-700'
+                    }`}
+                  >
+                    <span className="text-sm">{r.name}</span>
+                    <MapPin className="w-4 h-4 opacity-60" />
+                  </button>
+                );
+              })}
+            </div>
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-4 border-t border-zinc-100 dark:border-zinc-800">
+            {/* Detalhe da Região Selecionada */}
+            <div className="lg:col-span-2">
+              {selectedRegion && (
+                <div className="p-6 sm:p-8 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900/60 shadow-sm space-y-6">
                   <div>
-                    <h4 className="text-xs font-bold uppercase tracking-wider text-zinc-400 mb-2 flex items-center gap-1.5">
-                      <Landmark className="w-3.5 h-3.5 text-[#C8102E]" />
-                      Destaques Culturais
-                    </h4>
-                    <ul className="space-y-1.5 text-xs text-zinc-600 dark:text-zinc-400">
-                      {selectedRegion.culturalHighlights.map((ch, idx) => (
-                        <li key={idx} className="flex items-start gap-1.5">
-                          <span className="text-[#C8102E] font-bold">•</span>
-                          <span>{ch}</span>
-                        </li>
-                      ))}
-                    </ul>
+                    <div className="flex items-center justify-between mb-2">
+                      <span className="text-xs font-bold text-[#C8102E] uppercase tracking-wider">
+                        Capital / Cidades-Chave: {selectedRegion.capitalCity}
+                      </span>
+                      <AudioButton text={selectedRegion.name.split('(')[0].trim()} />
+                    </div>
+                    <h3 className="text-2xl font-bold font-serif text-zinc-900 dark:text-white mb-3">
+                      {selectedRegion.name}
+                    </h3>
+                    <p className="text-sm text-zinc-600 dark:text-zinc-300 leading-relaxed">
+                      {selectedRegion.description}
+                    </p>
                   </div>
 
-                  <div>
-                    <h4 className="text-xs font-bold uppercase tracking-wider text-zinc-400 mb-2 flex items-center gap-1.5">
-                      <UtensilsCrossed className="w-3.5 h-3.5 text-[#C8102E]" />
-                      Gastronomia Típica
-                    </h4>
-                    <ul className="space-y-1.5 text-xs text-zinc-600 dark:text-zinc-400">
-                      {selectedRegion.gastronomy.map((g, idx) => (
-                        <li key={idx} className="flex items-start gap-1.5">
-                          <span className="text-emerald-500 font-bold">•</span>
-                          <span>{g}</span>
-                        </li>
-                      ))}
-                    </ul>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-4 border-t border-zinc-100 dark:border-zinc-800">
+                    <div>
+                      <h4 className="text-xs font-bold uppercase tracking-wider text-zinc-400 mb-2 flex items-center gap-1.5">
+                        <Landmark className="w-3.5 h-3.5 text-[#C8102E]" />
+                        Destaques Culturais
+                      </h4>
+                      <ul className="space-y-1.5 text-xs text-zinc-600 dark:text-zinc-400">
+                        {selectedRegion.culturalHighlights.map((ch, idx) => (
+                          <li key={idx} className="flex items-start gap-1.5">
+                            <span className="text-[#C8102E] font-bold">•</span>
+                            <span>{ch}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+
+                    <div>
+                      <h4 className="text-xs font-bold uppercase tracking-wider text-zinc-400 mb-2 flex items-center gap-1.5">
+                        <UtensilsCrossed className="w-3.5 h-3.5 text-[#C8102E]" />
+                        Gastronomia Típica
+                      </h4>
+                      <ul className="space-y-1.5 text-xs text-zinc-600 dark:text-zinc-400">
+                        {selectedRegion.gastronomy.map((g, idx) => (
+                          <li key={idx} className="flex items-start gap-1.5">
+                            <span className="text-emerald-500 font-bold">•</span>
+                            <span>{g}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
                   </div>
+
+                  {selectedRegion.etymologyOrigin && (
+                    <div className="p-3.5 rounded-xl bg-zinc-50 dark:bg-zinc-800/40 text-xs text-zinc-500 dark:text-zinc-400 italic border border-zinc-100 dark:border-zinc-800">
+                      Origem Etimológica: {selectedRegion.etymologyOrigin}
+                    </div>
+                  )}
                 </div>
-
-                {selectedRegion.etymologyOrigin && (
-                  <div className="p-3.5 rounded-xl bg-zinc-50 dark:bg-zinc-800/40 text-xs text-zinc-500 dark:text-zinc-400 italic border border-zinc-100 dark:border-zinc-800">
-                    Origem Etimológica: {selectedRegion.etymologyOrigin}
-                  </div>
-                )}
-              </div>
-            )}
+              )}
+            </div>
           </div>
         </div>
       )}
