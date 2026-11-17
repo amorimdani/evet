@@ -1,0 +1,176 @@
+# -*- coding: utf-8 -*-
+"""
+Evet - Dados Culturais, Históricos, Geográficos e Etimológicos
+100% em Português com detalhes das 7 regiões, tradições, rituais e história da língua.
+"""
+
+CULTURE_DATA = {
+    "regions": [
+        {
+            "id": "marmara",
+            "name": "Região do Mármara (Marmara Bölgesi)",
+            "capitalCity": "Istambul / Bursa",
+            "climate": "Clima de transição mediterrâneo-oceânico com invernos frios e verões quentes",
+            "description": "O coração econômico, cultural e histórico da Turquia. Conecta a Europa e a Ásia pelo lendário Estreito do Bósforo. Abrigou as capitais de três impérios mundiais: Romano, Bizantino e Otomano.",
+            "culturalHighlights": [
+                "Istambul: Hagia Sophia, Mesquita Azul, Palácio Topkapı e o Grande Bazar (Kapalıçarşı)",
+                "Bursa: A primeira capital imperial otomana, berço do İskender Kebap e das termas históricas",
+                "Edirne: A Mesquita Selimiye, obra-prima máxima do arquiteto imperial Mimar Sinan"
+            ],
+            "gastronomy": ["İskender Kebap", "Kestane Şekeri (castanhas glaceadas)", "Midye Tava e Dolma (mexilhões)", "Simit com queijo e chá"],
+            "etymologyOrigin": "O nome 'Marmara' deriva do grego clássico 'marmaros' (mármore), devido às célebres pedreiras de mármore branco da Ilha de Mármara."
+        },
+        {
+            "id": "ege",
+            "name": "Região do Egeu (Ege Bölgesi)",
+            "capitalCity": "Esmirna (İzmir)",
+            "climate": "Clima mediterrâneo clássico, com verões ensolarados e invernos amenos",
+            "description": "Conhecida por sua atmosfera litorânea descontraída, olivais centenários e sítios arqueológicos greco-romanos de importância planetária. É a terra da culinária com azeite de oliva e ervas silvestres.",
+            "culturalHighlights": [
+                "Éfeso (Efes): A monumental Biblioteca de Celso e a Casa da Virgem Maria",
+                "Pamukkale: Os deslumbrantes terraços de calcário branco e a antiga Hierápolis",
+                "Bodrum e Çeşme: Destinos náuticos famosos com o histórico Castelo de São Pedro"
+            ],
+            "gastronomy": ["Azeite de oliva extravirgem", "Pratos com ervas silvestres (Şevket-i bostan, Radika)", "Boyoz de Esmirna", "Kumru"],
+            "etymologyOrigin": "Deriva do Mar Egeu, associado na mitologia ao rei Egeu de Atenas."
+        },
+        {
+            "id": "akdeniz",
+            "name": "Região do Mediterrâneo (Akdeniz Bölgesi)",
+            "capitalCity": "Antália / Adana",
+            "climate": "Clima subtropical mediterrâneo, com mais de 300 dias de sol por ano",
+            "description": "Cercada pelas imponentes Montanhas Taurus (Toros Dağları) e banhada por águas azul-turquesa. É a principal Riviera da Turquia, combinando praias de areia dourada com fértil planície agrícola.",
+            "culturalHighlights": [
+                "Antália e Alanya: Centros históricos murados (Kaleiçi) e cachoeiras de Düden",
+                "Adana: Cidade vibrante na planície de Çukurova, capital da gastronomia de carnes e pimentas",
+                "Rota Lícia: Uma das trilhas de caminhada costeira mais belas do planeta"
+            ],
+            "gastronomy": ["Adana Kebap (picante com pimenta vermelha)", "Şalgam Suyu (bebida fermentada de nabo)", "Tantuni de Mersin", "Laranjas e frutas cítricas de Finike"],
+            "etymologyOrigin": "Em turco, 'Akdeniz' significa literalmente 'Mar Branco' (Ak = Branco, Deniz = Mar), em contraste com o Mar Negro (Kara = Preto) ao norte, segundo a antiga convenção cartográfica nômade túrquica de associar cores aos pontos cardeais."
+        },
+        {
+            "id": "ic-anadolu",
+            "name": "Anatólia Central (İç Anadolu Bölgesi)",
+            "capitalCity": "Ancara (Capital da República) / Konya",
+            "climate": "Continental semiárido, com invernos rigorosos e verões secos e quentes",
+            "description": "O berço da República da Turquia moderna e o epicentro espiritual do sufismo. Paisagem de estepes douradas, cidades subterrâneas e formações vulcânicas surreais.",
+            "culturalHighlights": [
+                "Ancara: O Anıtkabir (monumental mausoléu de Mustafa Kemal Atatürk) e o Museu das Civilizações Anatólicas",
+                "Capadócia (Kapadokya): As chaminés de fadas de Göreme, voos de balão e cidades subterrâneas de Derinkuyu",
+                "Konya: A morada do místico e poeta sufi Mevlânâ Celâleddîn Rûmî e os Dervixes Rodopiantes"
+            ],
+            "gastronomy": ["Mantı de Kayseri (micro-pastéis recheados servidos com iogurte de alho e molho de manteiga)", "Etli Ekmek de Konya (pão fino com carne)", "Pastırma e Sucuk"],
+            "etymologyOrigin": "Anatólia vem do grego 'Anatolē' (onde nasce o sol / o Oriente), enquanto 'İç' significa interior em turco."
+        },
+        {
+            "id": "karadeniz",
+            "name": "Região do Mar Negro (Karadeniz Bölgesi)",
+            "capitalCity": "Trebizonda (Trabzon) / Rize / Samsun",
+            "climate": "Oceânico temperado, a região mais úmida e verdejante de toda a Turquia",
+            "description": "Montanhas íngremes cobertas de densas florestas de pinheiros, planaltos alpinos (yaylalar) e o centro mundial da produção de chá e avelãs.",
+            "culturalHighlights": [
+                "Mosteiro de Sumela: Escavado espetacularmente na rocha viva das falésias de Trebizonda",
+                "Campos de Chá de Rize: A capital do chá turco (*Türk Çayı*)",
+                "Samsun: A cidade portuária onde Atatürk desembarcou em 19 de maio de 1919 para iniciar a Guerra de Libertação"
+            ],
+            "gastronomy": ["Hamsi (anchova fresca preparada de dezenas de formas)", "Mıhlama / Kuymak (fondue de queijo de corda com farinha de milho e manteiga)", "Pão de milho", "Chá preto"],
+            "etymologyOrigin": "'Karadeniz' significa literalmente 'Mar Negro' (Kara = Preto/Norte; Deniz = Mar), pelas águas profundas e céu cinzento e tempestuoso característico."
+        },
+        {
+            "id": "dogu-anadolu",
+            "name": "Anatólia Oriental (Doğu Anadolu Bölgesi)",
+            "capitalCity": "Erzurum / Van / Kars",
+            "climate": "Continental de altitude extrema, com invernos longos, gelados e repletos de neve",
+            "description": "A região de maior altitude média da Turquia, dominada pelo lendário Monte Ararat (Ağrı Dağı) e pelo imenso Lago de Van. Terra de fortalezas de pedra, urartianos e arquitetura russa em Kars.",
+            "culturalHighlights": [
+                "Monte Ararat (Ağrı Dağı): O pico mais alto da Turquia (5.137 m), onde repousaria a Arca de Noé",
+                "Lago de Van: O maior lago salgado de soda da Turquia e a Igreja de Akdamar",
+                "Ruínas de Ani em Kars: A antiga cidade medieval armênia das mil e uma igrejas",
+                "Palácio de İshak Paşa: Obra-prima arquitetônica otomana com vista para a planície de Doğubayazıt"
+            ],
+            "gastronomy": ["Queijo de Kars (Gravyer)", "Cağ Kebabı de Erzurum", "Café da manhã lendário de Van (Van Kahvaltısı)", "Mel de flores silvestres"],
+            "etymologyOrigin": "'Doğu' significa 'Leste / Oriente' em turco (de 'doğmak' = nascer, onde nasce o sol)."
+        },
+        {
+            "id": "guneydogu-anadolu",
+            "name": "Sudeste da Anatólia (Güneydoğu Anadolu Bölgesi)",
+            "capitalCity": "Gaziantep / Diyarbakır / Şanlıurfa / Mardin",
+            "climate": "Mediterrâneo com influência desértica, verões extremamente tórridos e secos",
+            "description": "A Alta Mesopotâmia, berço das primeiras civilizações humanas entre os rios Tigre e Eufrates. É a capital gastronômica incontestável do país e um museu vivo de pedras antigas, árabes, curdos, turcos e assírios.",
+            "culturalHighlights": [
+                "Göbeklitepe em Şanlıurfa: O templo religioso mais antigo do planeta (mais de 11.500 anos)",
+                "Mardin: Cidade dourada de pedra com vista infinita para as planícies mesopotâmicas e monastérios siríacos",
+                "Gaziantep: Cidade criativa da UNESCO, capital mundial do pistache (*Antep Fıstığı*) e do Baklava",
+                "Monte Nemrut: Estátuas colossais de deuses e reis da Comagena sob o nascer e pôr do sol"
+            ],
+            "gastronomy": ["Baklava autêntico com pistache de Gaziantep", "Urfa Kebap e Çiğ Köfte", "Beyran Çorbası", "Lahmacun estaladiço no forno a lenha"],
+            "etymologyOrigin": "'Güneydoğu' é a composição de 'Güney' (Sul) + 'Doğu' (Leste) = Sudeste."
+        }
+    ],
+    "historyTimeline": [
+        {
+            "era": "552 – 745 d.C.",
+            "title": "Os Göktürks e as Inscrições de Orkhon",
+            "description": "Primeiro uso documentado do nome 'Turco' (Türk). As Inscrições de Orkhon, talhadas em runas túrquicas no vale do rio Orkhon (atual Mongólia) por Bilge Qaghan e Tonyukuk, são o monumento literário mais antigo de toda a família linguística túrquica, pregando a unidade e sabedoria política."
+        },
+        {
+            "era": "1071 d.C.",
+            "title": "A Batalha de Manziquerta (Malazgirt Meydan Muharebesi)",
+            "description": "O sultão seljúcida Alp Arslan derrota o imperador bizantino Romano IV Diógenes, abrindo em definitivo as portas da Anatólia para o assentamento e miscigenação dos turcos oghuz, dando início ao Turco Anatólico."
+        },
+        {
+            "era": "1299 – 1922 d.C.",
+            "title": "O Império Otomano e a Era do Turco Otomano (Osmanlıca)",
+            "description": "Fundado por Osman I, o império expandiu-se por três continentes. A língua da corte adotou o alfabeto perso-árabe e milhares de empréstimos eruditos, criando uma língua formal (Osmanlıca) muito distinta do turco anatólico falado pelo povo nas canções de menestréis (*Aşık*)."
+        },
+        {
+            "era": "1923 d.C.",
+            "title": "A Proclamação da República da Turquia",
+            "description": "Após a Guerra de Independência liderada por Mustafa Kemal Atatürk, o sultanato é abolido e nasce a moderna República da Turquia, laica, soberana e voltada para a modernização ocidental."
+        },
+        {
+            "era": "1928 – 1932 d.C.",
+            "title": "A Revolução das Letras e a Fundação do Türk Dil Kurumu",
+            "description": "Em 1º de novembro de 1928, a Lei do Alfabeto Latino entra em vigor com 29 letras fonéticas. Em 1932, é fundada a Sociedade da Língua Turca para purificar o léxico, substituir empréstimos árabes e persas e criar terminologia científica nacional."
+        }
+    ],
+    "etymology": {
+        "title": "Etimologia e Arquitetura da Língua Turca",
+        "family": "Família Linguística Túrquica (Ramo Oghuz / Sul-Ocidental), parte do tronco macro-altaico (junto com mongol, tungúsico e afinidades tipológicas com coreano e japonês).",
+        "keyLinguisticFeatures": [
+            "Língua Aglutinante: os sufixos unem-se à raiz como vagões de trem, mantendo o radical perfeitamente estável",
+            "Harmonia Vocálica: as vogais mudam de forma melódica para acompanhar a natureza fonética anterior ou posterior da raiz",
+            "Ordem Básica SOV: Sujeito + Objeto + Verbo sempre ao final da frase",
+            "Ausência Absoluta de Gênero Gramatical: não existem palavras masculinas ou femininas; o pronome 'o' serve para ele, ela e tudo mais",
+            "Uso Universal de Pós-posições em vez de preposições soltas"
+        ],
+        "loanwordsAndReforms": "Ao longo de sua história de migração da Ásia Central para o Mediterrâneo, o turco incorporou cerca de 6.000 palavras do árabe (termos religiosos e abstratos), 1.500 do persa (poesia e culinária), e cerca de 5.000 do francês nos séculos XIX e XX (tecnologia e moda, como 'kuaför', 'asansör', 'otobüs', 'bilet')."
+    },
+    "culturalTraditions": [
+        {
+            "name": "Cultura do Chá Turco (Çay ve Çaydanlık)",
+            "turkishTerm": "Çay ve İnce Belli Bardak",
+            "description": "A Turquia possui o maior consumo per capita de chá do planeta (cerca de 3 a 4 kg por pessoa ao ano). O chá é preparado em bule duplo empilhado (*çaydanlık*) e servido em copos de vidro curvo em formato de tulipa (*ince belli*), mostrando a cor avermelhada intensa chamada 'tavşan kanı' (sangue de coelho). Oferecer chá é o gesto supremo de boas-vindas."
+        },
+        {
+            "name": "O Ritual do Café Turco (Türk Kahvesi)",
+            "turkishTerm": "Türk Kahvesi ve Kahve Falı",
+            "description": "Patrimônio Imaterial da Humanidade pela UNESCO. Moído ultrafino como talco, é fervido com água e açúcar numa pequena panela de cobre com cabo longo (*cezve*). Nunca é coado: a borra repousa no fundo da xícara e tradicionalmente é lida para adivinhação do futuro (*fal*). É servido sempre com um copo d'água e uma goma turca (*lokum*)."
+        },
+        {
+            "name": "Hospitalidade Sagrada (Misafirperverlik)",
+            "turkishTerm": "Misafirperverlik",
+            "description": "Para o turco, o hóspede ou visitante é 'Tanrı Misafiri' (o hóspede enviado por Deus). Não se permite que um visitante pague sua própria conta em um almoço, e as melhores louças e aposentos da casa são sempre reservados para os convidados."
+        },
+        {
+            "name": "O Amuleto contra o Mau-Olhado (Nazar Boncuğu)",
+            "turkishTerm": "Nazar Boncuğu",
+            "description": "O famoso olho de vidro azul e branco artesanal, presente em casas, táxis, lojas e preso às roupas de bebês recém-nascidos. Acredita-se que ele absorva as energias negativas da inveja e do mau-olhado, quebrando-se quando protege seu dono de um perigo invisível."
+        },
+        {
+            "name": "O Banho Turco Tradicional (Hamam)",
+            "turkishTerm": "Türk Hamamı ve Kese",
+            "description": "Herdeiro das termas romanas com a pureza e arquitetura islâmica. Centrado na pedra quente de mármore (*göbek taşı*), onde o banhista relaxa com vapor, seguido de esfoliação profunda com a luva de seda rústica (*kese*) e massagem revigorante com montanhas de espuma de sabão de azeite."
+        }
+    ]
+}

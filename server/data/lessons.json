@@ -1,0 +1,4140 @@
+[
+  {
+    "id": "lesson-a1-01-alfabeto-fonetica",
+    "level": "A1",
+    "levelLabel": "Iniciante A1",
+    "title": "Alfabeto Turco (29 Letras), Sons e Fonética Completa",
+    "category": "Fonética & Fundamentos",
+    "readTimeMinutes": 10,
+    "summary": "Domine as 29 letras do alfabeto latino turco, os 8 caracteres especiais (Ç, Ğ, I, İ, Ö, Ş, Ü, C) e as regras de pronúncia 100% fonética com analogias para o português.",
+    "theory": "O turco é uma língua **quase 100% fonética**: cada letra corresponde a exatamente um som, e cada som é pronunciado de maneira consistente, sem letras mudas (com a sutil particularidade do 'yumuşak g' Ğ).\n\n### História da Reforma Linguística (1928)\nEm **1º de novembro de 1928**, Mustafa Kemal Atatürk liderou a histórica *Harf Devrimi* (Revolução das Letras), substituindo o complexo alfabeto árabe-otomano por uma versão adaptada do alfabeto latino. O novo alfabeto foi desenhado para representar fielmente a rica fonética túrquica.\n\nO alfabeto turco é composto por **29 letras**: **8 vogais** (a, e, ı, i, o, ö, u, ü) e **21 consoantes**.\n*Atenção:* As letras **Q, W, X** não existem no alfabeto turco nativo oficial.\n\n---\n\n### Os 8 Caracteres Especiais Turcos e Como Pronunciá-los\n\n1. **Ç / ç (C com cedilha)**\n- **Som:** Soa exatamente como o *tch* em 'tchau' ou 'tcheco'.\n- **Exemplos:** `Çay` [tchái] = Chá | `Çiçek` [tchitckék] = Flor | `Çocuk` [tchodjúk] = Criança.\n\n2. **Ğ / ğ (Yumuşak G - G Suave)**\n- **Regra Fundamental:** **Nunca** aparece no início de palavras.\n- **Após vogais posteriores (a, ı, o, u):** Não tem som de consoante; ele **alonga** a vogal anterior, como se houvesse duas vogais seguidas.\n  - Exemplo: `Dağ` [daá] = Montanha | `Sağ` [saá] = Direito / Saudável | `Yağmur` [yaamúr] = Chuva.\n- **Após vogais anteriores (e, i, ö, ü):** Produz uma leve transição palatal, semelhante a um 'i' ou 'y' muito suave.\n  - Exemplo: `Öğretmen` [öi-ret-mén] = Professor(a) | `Değil` [de-íl] = Não é.\n\n3. **I / ı (I sem ponto - I sem pingo)**\n- **Som:** Vogal fechada e recuada. Produzida no fundo da boca com os lábios relaxados. É muito similar ao som da letra 'a' átona em palavras como 'mesa' no português do Brasil, ou um 'uh' bem curto e seco.\n- **Exemplos:** `Ilık` [uh-lúhk] = Morno | `Işık` [uh-shúhk] = Luz | `Irmak` [uhr-mák] = Rio.\n\n4. **İ / i (I com ponto - I pontilhado)**\n- **Som:** Idêntico ao nosso 'i' em 'ilha', 'livro' ou 'vida'.\n- **Regra crucial:** Mantém o ponto tanto na minúscula (**i**) quanto na MAIÚSCULA (**İ**). Logo: maiúsculo de `i` é `İ`, e maiúsculo de `ı` é `I`.\n- **Exemplos:** `İncir` [in-djír] = Figo | `İzmir` = Esmirna | `İstanbul` = Istambul.\n\n5. **Ö / ö (O com trema)**\n- **Som:** Vogal anterior arredondada. Ponha a boca na posição de falar 'ó' e tente pronunciar 'é'. Idêntico ao 'ö' alemão ou 'eu' francês em *fleur*.\n- **Exemplos:** `Göz` [gööz] = Olho | `Ördek` [ör-dék] = Pato | `Öğrenci` = Estudante.\n\n6. **Ş / ş (S com cedilha)**\n- **Som:** Soa exatamente como 'ch' em 'chave' ou 'sh' em inglês.\n- **Exemplos:** `Şeker` [ché-kér] = Açúcar | `Şehir` [che-hír] = Cidade | `Akşam` [ak-chám] = Noite / Entardecer.\n\n7. **Ü / ü (U com trema)**\n- **Som:** Vogal anterior arredondada fechada. Faça biquinho de falar 'u' e emita o som de 'i'. Idêntico ao 'u' francês em *tu* ou 'ü' alemão em *über*.\n- **Exemplos:** `Süt` [syut] = Leite | `Gül` [gyul] = Rosa / Sorrir | `Üzüm` = Uva.\n\n8. **C / c (C turco)**\n- **Atenção:** Em turco, a letra C **nunca** tem som de 'k' e **nunca** tem som de 's'. Ela soa sempre como 'dj' em 'DJ' ou 'j' no inglês *job*.\n- **Exemplos:** `Cami` [dja-mi] = Mesquita | `Gece` [gué-djé] = Noite | `Ceket` [djé-két] = Jaqueta.",
+    "tables": [
+      {
+        "title": "Tabela Fonética Completa do Alfabeto Turco com Equivalência em Português",
+        "headers": [
+          "Letra",
+          "Nome Turco",
+          "Pronúncia em Português",
+          "Exemplo Turco",
+          "Significado"
+        ],
+        "rows": [
+          [
+            "A, a",
+            "a",
+            "Como 'a' aberto em casa",
+            "Araba",
+            "Carro"
+          ],
+          [
+            "B, b",
+            "be",
+            "Como 'b' em bola",
+            "Balık",
+            "Peixe"
+          ],
+          [
+            "C, c",
+            "ce",
+            "Como 'dj' em jeans / DJ",
+            "Cami",
+            "Mesquita"
+          ],
+          [
+            "Ç, ç",
+            "çe",
+            "Como 'tch' em tchau",
+            "Çay",
+            "Chá"
+          ],
+          [
+            "D, d",
+            "de",
+            "Como 'd' em dado",
+            "Deniz",
+            "Mar"
+          ],
+          [
+            "E, e",
+            "e",
+            "Como 'e' aberto em festa",
+            "Ev",
+            "Casa"
+          ],
+          [
+            "F, f",
+            "fe",
+            "Como 'f' em fogo",
+            "Fincan",
+            "Xícara"
+          ],
+          [
+            "G, g",
+            "ge",
+            "Como 'g' em gato (sempre duro)",
+            "Göz",
+            "Olho"
+          ],
+          [
+            "Ğ, ğ",
+            "yumuşak ge",
+            "Alonga a vogal anterior",
+            "Dağ",
+            "Montanha"
+          ],
+          [
+            "H, h",
+            "he",
+            "Como 'h' aspirado leve",
+            "Halı",
+            "Tapete"
+          ],
+          [
+            "I, ı",
+            "ı",
+            "Som gutural fechado ('uh')",
+            "Işık",
+            "Luz"
+          ],
+          [
+            "İ, i",
+            "i",
+            "Como 'i' em ilha",
+            "İncir",
+            "Figo"
+          ],
+          [
+            "J, j",
+            "je",
+            "Como 'j' em jornal",
+            "Jel",
+            "Gel"
+          ],
+          [
+            "K, k",
+            "ke",
+            "Como 'c' em casa (sempre duro)",
+            "Kitap",
+            "Livro"
+          ],
+          [
+            "L, l",
+            "le",
+            "Como 'l' em lata (nunca vira 'u')",
+            "Limon",
+            "Limão"
+          ],
+          [
+            "M, m",
+            "me",
+            "Como 'm' em mãe",
+            "Masa",
+            "Mesa"
+          ],
+          [
+            "N, n",
+            "ne",
+            "Como 'n' em navio",
+            "Nar",
+            "Romã"
+          ],
+          [
+            "O, o",
+            "o",
+            "Como 'o' aberto em porta",
+            "Okul",
+            "Escola"
+          ],
+          [
+            "Ö, ö",
+            "ö",
+            "Lábios de 'o' emitindo 'e'",
+            "Ördek",
+            "Pato"
+          ],
+          [
+            "P, p",
+            "pe",
+            "Como 'p' em pato",
+            "Para",
+            "Dinheiro"
+          ],
+          [
+            "R, r",
+            "re",
+            "Como 'r' brando vibrado em arara",
+            "Radyo",
+            "Rádio"
+          ],
+          [
+            "S, s",
+            "se",
+            "Como 'ss' em pássaro (sempre sibilante)",
+            "Su",
+            "Água"
+          ],
+          [
+            "Ş, ş",
+            "şe",
+            "Como 'ch' em chuva / chá",
+            "Şeker",
+            "Açúcar"
+          ],
+          [
+            "T, t",
+            "te",
+            "Como 't' em terra",
+            "Top",
+            "Bola"
+          ],
+          [
+            "U, u",
+            "u",
+            "Como 'u' em uva",
+            "Uçak",
+            "Avião"
+          ],
+          [
+            "Ü, ü",
+            "ü",
+            "Lábios de 'u' emitindo 'i'",
+            "Üzüm",
+            "Uva"
+          ],
+          [
+            "V, v",
+            "ve",
+            "Como 'v' em vaca",
+            "Vazo",
+            "Vaso"
+          ],
+          [
+            "Y, y",
+            "ye",
+            "Como 'i/y' em iate",
+            "Yol",
+            "Caminho / Estrada"
+          ],
+          [
+            "Z, z",
+            "ze",
+            "Como 'z' em zebra",
+            "Zeytin",
+            "Azeitona"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Merhaba",
+        "portuguese": "Olá / Oi",
+        "pronunciation": "mer-ha-ba",
+        "category": "Cumprimentos",
+        "example": "Merhaba! Nasılsınız? (Olá! Como você está?)"
+      },
+      {
+        "turkish": "Günaydın",
+        "portuguese": "Bom dia",
+        "pronunciation": "gü-nay-dın",
+        "category": "Cumprimentos",
+        "example": "Günaydın arkadaşlar! (Bom dia amigos!)"
+      },
+      {
+        "turkish": "İyi akşamlar",
+        "portuguese": "Boa noite (ao entardecer/chegar)",
+        "pronunciation": "i-yi ak-sham-lar",
+        "category": "Cumprimentos",
+        "example": "İyi akşamlar efendim. (Boa noite senhor/senhora.)"
+      },
+      {
+        "turkish": "Teşekkür ederim",
+        "portuguese": "Muito obrigado(a)",
+        "pronunciation": "te-shek-kür e-de-rim",
+        "category": "Cortesia",
+        "example": "Çok teşekkür ederim! (Muito obrigado mesmo!)"
+      },
+      {
+        "turkish": "Lütfen",
+        "portuguese": "Por favor",
+        "pronunciation": "lüt-fen",
+        "category": "Cortesia",
+        "example": "Bir çay lütfen. (Um chá, por favor.)"
+      },
+      {
+        "turkish": "Evet",
+        "portuguese": "Sim",
+        "pronunciation": "e-vet",
+        "category": "Respostas Básicas",
+        "example": "Evet, anlıyorum. (Sim, eu compreendo.)"
+      },
+      {
+        "turkish": "Hayır",
+        "portuguese": "Não",
+        "pronunciation": "ha-yır",
+        "category": "Respostas Básicas",
+        "example": "Hayır, teşekkürler. (Não, obrigado.)"
+      },
+      {
+        "turkish": "Görüşürüz",
+        "portuguese": "Até logo / Nos vemos",
+        "pronunciation": "gö-rü-shü-rüz",
+        "category": "Despedidas",
+        "example": "Yarın görüşürüz! (Até amanhã / Nos vemos amanhã!)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Ahmet",
+        "turkish": "Merhaba! Benim adım Ahmet. Sizin adınız ne?",
+        "portuguese": "Olá! Meu nome é Ahmet. Qual é o seu nome?"
+      },
+      {
+        "speaker": "Mariana",
+        "turkish": "Merhaba Ahmet! Benim adım Mariana. Tanıştığıma memnun oldum.",
+        "portuguese": "Olá Ahmet! Meu nome é Mariana. Muito prazer em conhecê-la."
+      },
+      {
+        "speaker": "Ahmet",
+        "turkish": "Ben de çok memnun oldum. Türkiye'ye hoş geldiniz!",
+        "portuguese": "Eu também estou muito feliz em conhecê-la. Bem-vinda à Turquia!"
+      },
+      {
+        "speaker": "Mariana",
+        "turkish": "Hoş bulduk, teşekkür ederim!",
+        "portuguese": "Muito obrigada! (Resposta tradicional de boas-vindas)"
+      }
+    ],
+    "tips": [
+      "O som da letra 'C' em turco é sempre 'DJ'. Nunca diga 'k' ou 's'. 'Cami' lê-se 'Djami'.",
+      "A letra 'L' em turco nunca tem som de 'u' no final da palavra como em português (Brasil). Diga 'Okul' com a ponta da língua no céu da boca, e não 'Okuw'.",
+      "O 'I' sem ponto (ı) e o 'İ' com ponto (i) são duas letras completamente distintas com significados diferentes. Ex: 'ılık' (morno) vs 'ilik' (medula)."
+    ]
+  },
+  {
+    "id": "lesson-a1-02-harmonia-vocalica",
+    "level": "A1",
+    "levelLabel": "Iniciante A1",
+    "title": "Harmonia Vocálica (Ses Uyumu): As Regras de 2 e 4 Vias",
+    "category": "Gramática Estrutural",
+    "readTimeMinutes": 12,
+    "summary": "Compreenda a espinha dorsal da língua turca: como as vogais posteriores e anteriores determinam todos os sufixos da língua.",
+    "theory": "A **Harmonia Vocálica** (*Ünlü Uyumu*) é o princípio motor mais importante de toda a gramática turca. Como o turco é uma **língua aglutinante**, os sufixos são anexados em cadeia ao radical da palavra. Para que a pronúncia seja fluida e melodiosa, as vogais dos sufixos mudam para harmonizar com a última vogal do radical.\n\n### A Divisão das 8 Vogais em Turco\n1. **Vogais Posteriores (Kalın Ünlüler - Grossas/Graves):**\n   - Letras: **A, I, O, U** (todas as letras graficamente sem pontos).\n   - Produzidas na parte de trás da boca.\n2. **Vogais Anteriores (İnce Ünlüler - Finas/Agudas):**\n   - Letras: **E, İ, Ö, Ü** (todas as letras com pontos, mais a letra E).\n   - Produzidas na parte frontal da cavidade oral.\n\n---\n\n### 1. Harmonia Vocálica de 2 Vias (Regra A / E)\nUsada para plural (-lar / -ler), locativo (-da / -de), ablativo (-dan / -den) e infinitivo (-mak / -mek).\n- Última vogal **Posterior (a, ı, o, u)** ➔ sufixo com **A** (`-lar`, `-da`, `-dan`, `-mak`).\n- Última vogal **Anterior (e, i, ö, ü)** ➔ sufixo com **E** (`-ler`, `-de`, `-den`, `-mek`).\n\n#### Exemplos com Plural (-lar / -ler):\n- `Araba` (carro) ➔ `Arabalar` (carros).\n- `Ev` (casa) ➔ `Evler` (casas).\n- `Kitap` (livro) ➔ `Kitaplar` (livros).\n- `Kedi` (gato) ➔ `Kediler` (gatos).\n\n---\n\n### 2. Harmonia Vocálica de 4 Vias (Regra I / İ / U / Ü)\nUsada para a pergunta de sim/não (mı/mi/mu/mü), acusativo definido, e sufixos de posse e pessoa.\n- Raiz termina com **A / I** ➔ sufixo com **I**\n- Raiz termina com **E / İ** ➔ sufixo com **İ**\n- Raiz termina com **O / U** ➔ sufixo com **U**\n- Raiz termina com **Ö / Ü** ➔ sufixo com **Ü**",
+    "tables": [
+      {
+        "title": "Quadro Geral de Decisão da Harmonia Vocálica",
+        "headers": [
+          "Última Vogal",
+          "Classificação",
+          "2 Vias (Plural)",
+          "4 Vias (Pergunta)"
+        ],
+        "rows": [
+          [
+            "A ou I",
+            "Posterior Não-Arredondada",
+            "-lar",
+            "mı"
+          ],
+          [
+            "O ou U",
+            "Posterior Arredondada",
+            "-lar",
+            "mu"
+          ],
+          [
+            "E ou İ",
+            "Anterior Não-Arredondada",
+            "-ler",
+            "mi"
+          ],
+          [
+            "Ö ou Ü",
+            "Anterior Arredondada",
+            "-ler",
+            "mü"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Masa",
+        "portuguese": "Mesa",
+        "pronunciation": "ma-sa",
+        "category": "Objetos",
+        "example": "Masalar temiz. (As mesas estão limpas.)"
+      },
+      {
+        "turkish": "Ev",
+        "portuguese": "Casa",
+        "pronunciation": "ev",
+        "category": "Lugares",
+        "example": "Evler büyük. (As casas são grandes.)"
+      },
+      {
+        "turkish": "Köy",
+        "portuguese": "Vila / Aldeia",
+        "pronunciation": "köy",
+        "category": "Lugares",
+        "example": "Köyler sessiz. (As vilas são silenciosas.)"
+      },
+      {
+        "turkish": "Tuz",
+        "portuguese": "Sal",
+        "pronunciation": "tuz",
+        "category": "Alimentos",
+        "example": "Tuzlu fıstık. (Amendoim salgado.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Can",
+        "turkish": "Bu ev mi?",
+        "portuguese": "Isto é uma casa?"
+      },
+      {
+        "speaker": "Elif",
+        "turkish": "Evet, bu büyük bir ev.",
+        "portuguese": "Sim, esta é uma casa grande."
+      }
+    ],
+    "tips": [
+      "Se a vogal não tem pingo nem trema (a, ı, o, u), o sufixo é 'duro' (lar / ı / u). Se tem pingo, trema ou é 'e' (e, i, ö, ü), o sufixo é 'suave' (ler / i / ü)."
+    ]
+  },
+  {
+    "id": "lesson-a1-03-cumprimentos-apresentacao",
+    "level": "A1",
+    "levelLabel": "Iniciante A1",
+    "title": "Cumprimentos, Apresentações e Fórmulas de Cortesia",
+    "category": "Comunicação Básica",
+    "readTimeMinutes": 8,
+    "summary": "Aprenda a cumprimentar formal e informalmente, apresentar-se com segurança e dominar a afetuosa etiqueta de hospitalidade turca.",
+    "theory": "A distinção entre o informal (**Sen**) e o formal (**Siz**) é central na Turquia.\n- `Nasılsın?` = Como vai você? (informal)\n- `Nasılsınız?` = Como o senhor/a senhora está? (formal)\n- `İyiyim, teşekkür ederim.` = Estou bem, obrigado(a).\n- `Benim adım ...` = Meu nome é ...\n- `Tanıştığımıza memnun oldum.` = Muito prazer em conhecê-lo(a).\n- `Hoşça kalın` = Fique bem (dito por quem vai embora).\n- `Güle güle` = Vá com sorrisos (dito por quem fica).",
+    "tables": [
+      {
+        "title": "Tratamento Formal vs Informal",
+        "headers": [
+          "Situação",
+          "Informal (Sen)",
+          "Formal (Siz)",
+          "Português"
+        ],
+        "rows": [
+          [
+            "Como vai?",
+            "Nasılsın?",
+            "Nasılsınız?",
+            "Como você está? / Como o senhor está?"
+          ],
+          [
+            "Qual seu nome?",
+            "Adın ne?",
+            "Adınız ne?",
+            "Qual é o seu nome?"
+          ],
+          [
+            "Tchau",
+            "Hoşça kal",
+            "Hoşça kalın",
+            "Adeus / Fique bem"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Ad / İsim",
+        "portuguese": "Nome",
+        "pronunciation": "ad / i-sim",
+        "category": "Identidade",
+        "example": "Benim adım Carlos. (Meu nome é Carlos.)"
+      },
+      {
+        "turkish": "Memnun oldum",
+        "portuguese": "Prazer em conhecer",
+        "pronunciation": "mem-nun ol-dum",
+        "category": "Cortesia",
+        "example": "Tanıştığıma çok memnun oldum. (Muito prazer.)"
+      },
+      {
+        "turkish": "Kolay gelsin",
+        "portuguese": "Bom trabalho (que seja fácil)",
+        "pronunciation": "ko-lay gel-sin",
+        "category": "Cortesia",
+        "example": "İyi günler, kolay gelsin! (Bom dia, bom trabalho!)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Murat",
+        "turkish": "Merhaba! Nasılsınız?",
+        "portuguese": "Olá! Como o senhor está?"
+      },
+      {
+        "speaker": "Rodrigo",
+        "turkish": "İyiyim, teşekkür ederim. Siz nasılsınız?",
+        "portuguese": "Estou bem, obrigado. Como o senhor está?"
+      }
+    ],
+    "tips": [
+      "Use sempre 'Kolay gelsin' ao falar com taxistas, garçons, caixas e trabalhadores na Turquia."
+    ]
+  },
+  {
+    "id": "lesson-a1-04-pronomes-verbo-ser",
+    "level": "A1",
+    "levelLabel": "Iniciante A1",
+    "title": "Pronomes Pessoais e o 'Verbo Ser' (Sufixos Pessoais Predicativos)",
+    "category": "Morfologia Verbal",
+    "readTimeMinutes": 11,
+    "summary": "Descubra como o turco não possui um verbo 'ser' separado no presente, anexando sufixos pessoais diretamente aos adjetivos e substantivos.",
+    "theory": "Em turco, não existe o verbo 'ser' separado no presente. Você anexa sufixos pessoais ao adjetivo ou substantivo:\n- **Ben** (Eu): `-(y)ım / -(y)im / -(y)um / -(y)üm` (Ex: *Öğrenciyim* = Sou estudante).\n- **Sen** (Você): `-sın / -sin / -sun / -sün` (Ex: *Öğrencisin* = Você é estudante).\n- **O** (Ele/Ela): sem sufixo (Ex: *Öğrenci* = Ele/Ela é estudante).\n- **Biz** (Nós): `-(y)ız / -(y)iz / -(y)uz / -(y)üz` (Ex: *Öğrenciyiz* = Somos estudantes).\n- **Siz** (Vocês/Senhor): `-sınız / -siniz / -sunuz / -sünüz` (Ex: *Öğrencisiniz* = Vocês são estudantes).\n- **Onlar** (Eles/Elas): `-lar / -ler` (Ex: *Öğrenciler* = Eles são estudantes).\n\nPara a negativa, usa-se **değil** [de-íl]:\n- `Ben doktor değilim` = Eu não sou médico.\n- `Biz yorgun değiliz` = Não estamos cansados.",
+    "tables": [
+      {
+        "title": "Conjugação do Predicado no Presente",
+        "headers": [
+          "Pronome",
+          "Afirmativo: 'Doktor'",
+          "Afirmativo: 'Mutlu' (Feliz)",
+          "Negativo com 'Değil'"
+        ],
+        "rows": [
+          [
+            "Ben",
+            "Doktorum",
+            "Mutluyum",
+            "Doktor değilim"
+          ],
+          [
+            "Sen",
+            "Doktorsun",
+            "Mutlusun",
+            "Doktor değilsin"
+          ],
+          [
+            "O",
+            "Doktor",
+            "Mutlu",
+            "Doktor değil"
+          ],
+          [
+            "Biz",
+            "Doktoruz",
+            "Mutluyuz",
+            "Doktor değiliz"
+          ],
+          [
+            "Siz",
+            "Doktorsunuz",
+            "Mutlusunuz",
+            "Doktor değilsiniz"
+          ],
+          [
+            "Onlar",
+            "Doktorlar",
+            "Mutlular",
+            "Doktor değiller"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Öğrenci",
+        "portuguese": "Estudante",
+        "pronunciation": "öy-ren-dji",
+        "category": "Profissões",
+        "example": "Ben öğrenciyim. (Sou estudante.)"
+      },
+      {
+        "turkish": "Yorgun",
+        "portuguese": "Cansado(a)",
+        "pronunciation": "yor-gun",
+        "category": "Estados",
+        "example": "Bugün çok yorgunum. (Hoje estou muito cansado.)"
+      },
+      {
+        "turkish": "Mutlu",
+        "portuguese": "Feliz",
+        "pronunciation": "mut-lu",
+        "category": "Estados",
+        "example": "Biz çok mutluyuz. (Estamos muito felizes.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Zeynep",
+        "turkish": "Yorgun musun?",
+        "portuguese": "Você está cansado?"
+      },
+      {
+        "speaker": "Emre",
+        "turkish": "Hayır, yorgun değilim, mutluyum.",
+        "portuguese": "Não, não estou cansado, estou feliz."
+      }
+    ],
+    "tips": [
+      "O turco não distingue gênero: 'O' significa tanto ele quanto ela quanto aquilo."
+    ]
+  },
+  {
+    "id": "lesson-a1-05-locativo-existencial",
+    "level": "A1",
+    "levelLabel": "Iniciante A1",
+    "title": "Caso Locativo (-de/-da/-te/-ta) e Expressões de Existência (Var / Yok)",
+    "category": "Casos & Existência",
+    "readTimeMinutes": 10,
+    "summary": "Aprenda a dizer onde algo ou alguém está localizado e domine os termos fundamentais 'Var' (Há / Existe) e 'Yok' (Não há / Não existe).",
+    "theory": "O caso Locativo responde a **Nerede?** (Onde?):\n- Sufixos: `-de`, `-da`, `-te`, `-ta`.\n- Após as consoantes surdas do **Fıstıkçı Şahap** (f, s, t, k, ç, ş, h, p), o **D** vira **T**:\n  - `Evde` = Em casa.\n  - `Sokakta` = Na rua (termina em 'k' surda).\n  - `İşte` = No trabalho (termina em 'ş' surda).\n\n**Var** e **Yok** (Existência e Posse):\n- `Masada kitap var.` = Há um livro na mesa.\n- `Evde süt yok.` = Não tem leite em casa.\n- Posse: `Benim arabam var.` = Eu tenho carro (Lit: Meu carro existe).\n- `Zamanım yok.` = Não tenho tempo (Lit: Meu tempo não existe).",
+    "tables": [
+      {
+        "title": "Formação do Caso Locativo",
+        "headers": [
+          "Palavra",
+          "Final",
+          "Sufixo Locativo",
+          "Resultado",
+          "Significado"
+        ],
+        "rows": [
+          [
+            "Ev (Casa)",
+            "Vogal/Consoante Sonora",
+            "-de",
+            "Evde",
+            "Em casa"
+          ],
+          [
+            "Masa (Mesa)",
+            "Vogal/Consoante Sonora",
+            "-da",
+            "Masada",
+            "Na mesa"
+          ],
+          [
+            "Sokak (Rua)",
+            "Consoante Surda 'k'",
+            "-ta",
+            "Sokakta",
+            "Na rua"
+          ],
+          [
+            "Market (Mercado)",
+            "Consoante Surda 't'",
+            "-te",
+            "Markette",
+            "No mercado"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Var",
+        "portuguese": "Há / Tem / Existe",
+        "pronunciation": "var",
+        "category": "Existência",
+        "example": "Çay var mı? (Tem chá?)"
+      },
+      {
+        "turkish": "Yok",
+        "portuguese": "Não há / Não tem",
+        "pronunciation": "yok",
+        "category": "Existência",
+        "example": "Şeker yok. (Não tem açúcar.)"
+      },
+      {
+        "turkish": "Nerede?",
+        "portuguese": "Onde?",
+        "pronunciation": "ne-re-de",
+        "category": "Perguntas",
+        "example": "Ahmet nerede? (Onde está Ahmet?)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Selin",
+        "turkish": "Pardon, burada eczane var mı?",
+        "portuguese": "Com licença, tem farmácia aqui?"
+      },
+      {
+        "speaker": "Polis",
+        "turkish": "Evet, sokakta var.",
+        "portuguese": "Sim, tem na rua."
+      }
+    ],
+    "tips": [
+      "Para nomes próprios, use apóstrofo: 'İstanbul'da' (em Istambul)."
+    ]
+  },
+  {
+    "id": "lesson-a1-06-dativo-ablativo",
+    "level": "A1",
+    "levelLabel": "Iniciante A1",
+    "title": "Casos Dativo (-(y)e/-(y)a) e Ablativo (-den/-dan/-ten/-tan)",
+    "category": "Casos Gramaticais",
+    "readTimeMinutes": 11,
+    "summary": "Entenda os dois eixos de direção do turco: para onde você vai (Dativo: destino/meta) e de onde você vem (Ablativo: origem/procedência).",
+    "theory": "**Dativo (Yönelme Hali): Para onde? (Nereye?)**\n- Sufixo: `-(y)e` ou `-(y)a`.\n- `Eve gidiyorum` = Estou indo para casa.\n- `Sinemaya gidiyoruz` = Estamos indo ao cinema ('y' de ligação).\n- Irregulares: `Bana` (para mim), `Sana` (para você).\n\n**Ablativo (Ayrılma Hali): De onde? (Nereden?)**\n- Sufixo: `-den`, `-dan`, `-ten`, `-tan`.\n- `Evden çıkıyorum` = Estou saindo de casa.\n- `İşten geliyorum` = Venho do trabalho.\n- `Brezilya'dan` = Do Brasil.",
+    "tables": [
+      {
+        "title": "Origem, Posição e Destino",
+        "headers": [
+          "Local",
+          "Ablativo (De onde?)",
+          "Locativo (Onde?)",
+          "Dativo (Para onde?)"
+        ],
+        "rows": [
+          [
+            "Ev (Casa)",
+            "Evden (Da casa)",
+            "Evde (Em casa)",
+            "Eve (Para casa)"
+          ],
+          [
+            "Okul (Escola)",
+            "Okuldan (Da escola)",
+            "Okulda (Na escola)",
+            "Okula (Para a escola)"
+          ],
+          [
+            "İş (Trabalho)",
+            "İşten (Do trabalho)",
+            "İşte (No trabalho)",
+            "İşe (Para o trabalho)"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Nereye?",
+        "portuguese": "Para onde?",
+        "pronunciation": "ne-re-ye",
+        "category": "Perguntas",
+        "example": "Nereye gidiyorsun? (Para onde você vai?)"
+      },
+      {
+        "turkish": "Nereden?",
+        "portuguese": "De onde?",
+        "pronunciation": "ne-re-den",
+        "category": "Perguntas",
+        "example": "Nereden geliyorsun? (De onde você vem?)"
+      },
+      {
+        "turkish": "Gitmek",
+        "portuguese": "Ir",
+        "pronunciation": "git-mek",
+        "category": "Verbos",
+        "example": "Eve gidiyorum. (Vou para casa.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Kerem",
+        "turkish": "Nereden geliyorsun?",
+        "portuguese": "De onde você vem?"
+      },
+      {
+        "speaker": "Leyla",
+        "turkish": "Okuldan geliyorum, eve gidiyorum.",
+        "portuguese": "Venho da escola, vou para casa."
+      }
+    ],
+    "tips": [
+      "Regra do Ketçap: K vira Ğ no dativo: 'Sokak' + 'a' = 'Sokağa' (para a rua)."
+    ]
+  },
+  {
+    "id": "lesson-a1-07-acusativo-definido",
+    "level": "A1",
+    "levelLabel": "Iniciante A1",
+    "title": "Caso Acusativo Definido (-(y)ı/-(y)i/-(y)u/-(y)ü)",
+    "category": "Casos Gramaticais",
+    "readTimeMinutes": 11,
+    "summary": "Aprenda a diferença crucial entre um objeto direto indeterminado ('beber água') e um objeto direto específico e definido ('beber a água').",
+    "theory": "**Objeto Indefinido (sem sufixo):**\n- `Kitap okuyorum` = Leio livro / Estou lendo livro (qualquer livro).\n- `Su içiyorum` = Bebo água.\n\n**Objeto Definido (com sufixo acusativo -(y)i/-(y)ı/-(y)u/-(y)ü):**\n- `Kitabı okuyorum` = Estou lendo O livro (específico).\n- `Suyu içtim` = Bebi A água.\n- Pronomes: `Beni` (a mim/me), `Seni` (a ti/te: *Seni seviyorum* = Te amo), `Onu` (o/a).",
+    "tables": [
+      {
+        "title": "Indefinido vs Definido",
+        "headers": [
+          "Indefinido",
+          "Significado",
+          "Definido",
+          "Significado"
+        ],
+        "rows": [
+          [
+            "Çay içiyorum",
+            "Bebo chá (em geral)",
+            "Çayı içiyorum",
+            "Bebo o chá (este preparado)"
+          ],
+          [
+            "Araba alıyorum",
+            "Compro carro",
+            "Arabayı alıyorum",
+            "Compro o carro (específico)"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Seni seviyorum",
+        "portuguese": "Eu te amo",
+        "pronunciation": "se-ni se-vi-yo-rum",
+        "category": "Expressões",
+        "example": "Seni çok seviyorum! (Te amo muito!)"
+      },
+      {
+        "turkish": "Kimi?",
+        "portuguese": "Quem? (objeto direto)",
+        "pronunciation": "ki-mi",
+        "category": "Perguntas",
+        "example": "Kimi arıyorsun? (Quem você procura?)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Garson",
+        "turkish": "Çayı şekerli mi istersiniz?",
+        "portuguese": "Quer o chá com açúcar?"
+      },
+      {
+        "speaker": "Müşteri",
+        "turkish": "Evet, çayı şekerli lütfen.",
+        "portuguese": "Sim, o chá com açúcar, por favor."
+      }
+    ],
+    "tips": [
+      "Nomes próprios em posição de objeto direto sempre levam acusativo: 'Ali'yi gördüm' (Vi o Ali)."
+    ]
+  },
+  {
+    "id": "lesson-a1-08-numeros-horas-datas",
+    "level": "A1",
+    "levelLabel": "Iniciante A1",
+    "title": "Números, Horas, Calendário e Dias da Semana",
+    "category": "Vocabulário Prático",
+    "readTimeMinutes": 9,
+    "summary": "Aprenda a contar em turco com seu sistema decimal transparente, perguntar as horas e marcar compromissos no calendário.",
+    "theory": "**Números de 1 a 10:**\n1: Bir, 2: İki, 3: Üç, 4: Dört, 5: Beş, 6: Altı, 7: Yedi, 8: Sekiz, 9: Dokuz, 10: On.\n\n**Dezenas:**\n20: Yirmi, 30: Otuz, 40: Kırk, 50: Elli, 60: Altmış, 70: Yetmiş, 80: Seksen, 90: Doksan, 100: Yüz, 1000: Bin.\n- 25 = `Yirmi beş` (20 + 5).\n\n**Regra de Ouro:** Substantivos com números **NÃO vão para o plural**:\n- `Üç elma` = Três maçãs (literal: três maçã). Nunca diga *üç elmalar*.\n\n**Horas:**\n- `Saat kaç?` = Que horas são?\n- `Saat üç.` = São 3h.\n- `Saat üç buçuk.` = São 3h30.",
+    "tables": [
+      {
+        "title": "Dias da Semana e Meses",
+        "headers": [
+          "Dia",
+          "Português",
+          "Mês",
+          "Português"
+        ],
+        "rows": [
+          [
+            "Pazartesi",
+            "Segunda-feira",
+            "Ocak",
+            "Janeiro"
+          ],
+          [
+            "Salı",
+            "Terça-feira",
+            "Şubat",
+            "Fevereiro"
+          ],
+          [
+            "Çarşamba",
+            "Quarta-feira",
+            "Mart",
+            "Março"
+          ],
+          [
+            "Perşembe",
+            "Quinta-feira",
+            "Nisan",
+            "Abril"
+          ],
+          [
+            "Cuma",
+            "Sexta-feira",
+            "Mayıs",
+            "Maio"
+          ],
+          [
+            "Cumartesi",
+            "Sábado",
+            "Haziran",
+            "Junho"
+          ],
+          [
+            "Pazar",
+            "Domingo",
+            "Temmuz",
+            "Julho"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Saat kaç?",
+        "portuguese": "Que horas são?",
+        "pronunciation": "sa-at katch",
+        "category": "Tempo",
+        "example": "Saat kaç oldu? (Que horas são?)"
+      },
+      {
+        "turkish": "Bugün",
+        "portuguese": "Hoje",
+        "pronunciation": "bu-gyun",
+        "category": "Tempo",
+        "example": "Bugün günlerden ne? (Que dia é hoje?)"
+      },
+      {
+        "turkish": "Yarın",
+        "portuguese": "Amanhã",
+        "pronunciation": "ya-run",
+        "category": "Tempo",
+        "example": "Yarın görüşürüz. (Até amanhã.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Aylin",
+        "turkish": "Saat kaç?",
+        "portuguese": "Que horas são?"
+      },
+      {
+        "speaker": "Bora",
+        "turkish": "Saat iki buçuk.",
+        "portuguese": "São duas e meia."
+      }
+    ],
+    "tips": [
+      "Use 'buçuk' para metades numéricas de horas (iki buçuk = 2h30) e 'yarım' para metades físicas (yarım ekmek = meio pão)."
+    ]
+  },
+  {
+    "id": "lesson-a2-01-presente-continuo",
+    "level": "A2",
+    "levelLabel": "Básico A2",
+    "title": "Presente Contínuo (Şimdiki Zaman: -(i)yor)",
+    "category": "Morfologia Verbal",
+    "readTimeMinutes": 12,
+    "summary": "Domine o tempo verbal mais utilizado no cotidiano turco para ações no presente e planos imediatos.",
+    "theory": "O **Şimdiki Zaman** (sufixo `-iyor`) expressa ações que estão acontecendo agora ou hábitos presentes, equivalendo ao presente contínuo ('estou fazendo') ou presente do indicativo ('faço') em português.\n\n### Formação:\nRadical do Verbo + Vogal de Ligação (4 vias: ı/i/u/ü) + **-yor** + Sufixo Pessoal.\n- `Gel-` (vir) ➔ `Gel + i + yor + um` = `Geliyorum` (Estou vindo / Eu venho).\n- `Bak-` (olhar) ➔ `Bak + ı + yor + sun` = `Bakıyorsun` (Você está olhando).\n- `Oku-` (ler - termina em vogal 'u') ➔ `Okuyor` = Ele está lendo.\n\n### Verbos terminados em 'a' ou 'e':\nA vogal final sofre estreitamento antes de `-iyor`:\n- `Başla-` (começar) ➔ `Başlıyor` (começa).\n- `Ye-` (comer) ➔ `Yiyor` (come).\n\n### Negativa: Sufixo `-m-` + vogal + `-yor`:\n- `Gel-mi-yor-um` = Não estou vindo.\n- `Anla-mı-yor-um` = Não entendo / Não compreendo.",
+    "tables": [
+      {
+        "title": "Conjugação Completa do Şimdiki Zaman (Verbo Gelmek - Vir)",
+        "headers": [
+          "Pronome",
+          "Afirmativo",
+          "Negativo",
+          "Interrogativo"
+        ],
+        "rows": [
+          [
+            "Ben",
+            "Geliyorum (Venho)",
+            "Gelmiyorum (Não venho)",
+            "Geliyor muyum?"
+          ],
+          [
+            "Sen",
+            "Geliyorsun (Vens)",
+            "Gelmiyorsun (Não vens)",
+            "Geliyor musun?"
+          ],
+          [
+            "O",
+            "Geliyor (Vem)",
+            "Gelmiyor (Não vem)",
+            "Geliyor mu?"
+          ],
+          [
+            "Biz",
+            "Geliyoruz (Vimos)",
+            "Gelmiyoruz (Não vimos)",
+            "Geliyor muyuz?"
+          ],
+          [
+            "Siz",
+            "Geliyorsunuz (Vindes)",
+            "Gelmiyorsunuz (Não vindes)",
+            "Geliyor musunuz?"
+          ],
+          [
+            "Onlar",
+            "Geliyorlar (Vêm)",
+            "Gelmiyorlar (Não vêm)",
+            "Geliyorlar mı?"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Gelmek",
+        "portuguese": "Vir",
+        "pronunciation": "gel-mek",
+        "category": "Verbos",
+        "example": "Yarın geliyorum. (Venho amanhã.)"
+      },
+      {
+        "turkish": "Gitmek",
+        "portuguese": "Ir",
+        "pronunciation": "git-mek",
+        "category": "Verbos",
+        "example": "İşe gidiyorum. (Estou indo ao trabalho.)"
+      },
+      {
+        "turkish": "Anlamak",
+        "portuguese": "Entender / Compreender",
+        "pronunciation": "an-la-mak",
+        "category": "Verbos",
+        "example": "Türkçe anlıyorum. (Entendo turco.)"
+      },
+      {
+        "turkish": "Bilmek",
+        "portuguese": "Saber",
+        "pronunciation": "bil-mek",
+        "category": "Verbos",
+        "example": "Biliyorum. (Eu sei.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Hakan",
+        "turkish": "Ne yapıyorsun?",
+        "portuguese": "O que você está fazendo?"
+      },
+      {
+        "speaker": "Banu",
+        "turkish": "Türkçe ders çalışıyorum, sen ne yapıyorsun?",
+        "portuguese": "Estou estudando turco, e você o que faz?"
+      }
+    ],
+    "tips": [
+      "A pergunta de presente contínuo separa o 'mu': 'Geliyor musun?' (Você vem?). O sufixo de pessoa vai grudado na partícula de pergunta!"
+    ]
+  },
+  {
+    "id": "lesson-a2-02-posse-izafe",
+    "level": "A2",
+    "levelLabel": "Básico A2",
+    "title": "Sufixos Possessivos e Construções Nominais (İzafe)",
+    "category": "Sintaxe Nominal",
+    "readTimeMinutes": 13,
+    "summary": "Aprenda a expressar posse e ligar substantivos para formar conceitos como 'porta do carro' ou 'escola de línguas'.",
+    "theory": "O turco não usa preposição 'de' para posse (como 'o carro de Ali'). Ele usa sufixos em ambos os termos:\n\n### 1. Sufixos Possessivos Simples:\n- `Ev-im` = Minha casa\n- `Ev-in` = Tua casa\n- `Ev-i` = Casa dele/dela\n- `Ev-imiz` = Nossa casa\n- `Ev-iniz` = Casa de vocês/do senhor\n- `Ev-leri` = Casa deles\n\n### 2. A Construção de Posse Definida (İzafe Definido):\nGenitivo `-(n)in` no possuidor + Possessivo `-(s)i` no objeto:\n- `Ali'nin evi` = A casa de Ali.\n- `Arabanın kapısı` = A porta do carro.\n\n### 3. A Construção Qualificativa (İzafe Indefinido):\nO primeiro elemento não tem sufixo, o segundo recebe `-(s)i`:\n- `Türk kahvesi` = Café turco (Lit: café da Turquia).\n- `Güneş gözlüğü` = Óculos de sol.",
+    "tables": [
+      {
+        "title": "Sufixos Possessivos",
+        "headers": [
+          "Pronome",
+          "Sufixo após consoante",
+          "Sufixo após vogal",
+          "Exemplo ('Ev')",
+          "Exemplo ('Araba')"
+        ],
+        "rows": [
+          [
+            "Benim (Meu)",
+            "-ım / -im / -um / -üm",
+            "-m",
+            "Evim (Minha casa)",
+            "Arabam (Meu carro)"
+          ],
+          [
+            "Senin (Teu)",
+            "-ın / -in / -un / -ün",
+            "-n",
+            "Evin",
+            "Araban"
+          ],
+          [
+            "Onun (Dele/Dela)",
+            "-ı / -i / -u / -ü",
+            "-sı / -si / -su / -sü",
+            "Evi",
+            "Arabası"
+          ],
+          [
+            "Bizim (Nosso)",
+            "-ımız / -imiz",
+            "-mız / -miz",
+            "Evimiz",
+            "Arabamız"
+          ],
+          [
+            "Sizin (De vocês)",
+            "-ınız / -iniz",
+            "-nız / -niz",
+            "Eviniz",
+            "Arabanız"
+          ],
+          [
+            "Onların (Deles)",
+            "-ları / -leri",
+            "-ları / -leri",
+            "Evleri",
+            "Arabaları"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Anne",
+        "portuguese": "Mãe",
+        "pronunciation": "an-ne",
+        "category": "Família",
+        "example": "Annem evde. (Minha mãe está em casa.)"
+      },
+      {
+        "turkish": "Baba",
+        "portuguese": "Pai",
+        "pronunciation": "ba-ba",
+        "category": "Família",
+        "example": "Babam işte. (Meu pai está no trabalho.)"
+      },
+      {
+        "turkish": "Kardeş",
+        "portuguese": "Irmão / Irmã",
+        "pronunciation": "kar-desh",
+        "category": "Família",
+        "example": "İki kardeşim var. (Tenho dois irmãos.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Mert",
+        "turkish": "Bu kimin çantası?",
+        "portuguese": "De quem é esta bolsa?"
+      },
+      {
+        "speaker": "Cem",
+        "turkish": "Bu Ayşe'nin çantası.",
+        "portuguese": "Esta é a bolsa da Ayşe."
+      }
+    ],
+    "tips": [
+      "Ao adicionar um caso gramatical após o possessivo da 3ª pessoa (-i/-si), deve-se usar a letra de ligação 'N': 'arabasında' (no carro dele), 'evinden' (da casa dele)."
+    ]
+  },
+  {
+    "id": "lesson-a2-03-imperativo-optativo",
+    "level": "A2",
+    "levelLabel": "Básico A2",
+    "title": "Modo Imperativo (Emir) e Modo Optativo / Sugestões (İstek)",
+    "category": "Modos Verbais",
+    "readTimeMinutes": 10,
+    "summary": "Aprenda a dar comandos, fazer convites afetuosos ('vamos tomar um chá!') e expressar desejos polidos.",
+    "theory": "**Imperativo (Emir Kipi):**\n- A 2ª pessoa singular ('você') é o **próprio radical do verbo**:\n  - `Gel!` = Venha! / Vem!\n  - `Bak!` = Olha! / Olhe!\n  - `Yap!` = Faça! / Faz!\n- Forma polida / formal (Siz): sufixo `-(y)in` ou `-(y)iniz`:\n  - `Gelin!` ou `Geliniz!` = Venham! / Venha o senhor!\n  - `Lütfen oturun!` = Por favor, sentem-se!\n\n**Optativo de Sugestão (İstek Kipi: -(y)elim - 'Vamos...'):**\n- `Gidelim!` = Vamos ir! / Vamos embora!\n- `Çay içelim!` = Vamos tomar chá!\n- `Konuşalım!` = Vamos conversar!",
+    "tables": [
+      {
+        "title": "Formas de Pedido e Comando",
+        "headers": [
+          "Verbo",
+          "Informal (Sen)",
+          "Formal / Polido (Siz)",
+          "Sugestão Coletiva (Biz)"
+        ],
+        "rows": [
+          [
+            "Gelmek (Vir)",
+            "Gel! (Vem!)",
+            "Gelin! (Venha!)",
+            "Gelelim! (Vamos vir!)"
+          ],
+          [
+            "Gitmek (Ir)",
+            "Git! (Vai!)",
+            "Gidin! (Vá!)",
+            "Gidelim! (Vamos ir!)"
+          ],
+          [
+            "İçmek (Beber)",
+            "İç! (Bebe!)",
+            "İçin! (Beba!)",
+            "İçelim! (Vamos beber!)"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Lütfen",
+        "portuguese": "Por favor",
+        "pronunciation": "lüt-fen",
+        "category": "Cortesia",
+        "example": "Lütfen buraya bakın. (Por favor, olhem para cá.)"
+      },
+      {
+        "turkish": "Dur",
+        "portuguese": "Pare / Espera",
+        "pronunciation": "dur",
+        "category": "Comandos",
+        "example": "Bir dakika dur! (Espera um minuto!)"
+      },
+      {
+        "turkish": "Gidelim",
+        "portuguese": "Vamos",
+        "pronunciation": "gi-de-lim",
+        "category": "Sugestões",
+        "example": "Haydi gidelim! (Bora, vamos!)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Sinan",
+        "turkish": "Hadi dışarı çıkalım, kahve içelim!",
+        "portuguese": "Bora sair, vamos tomar café!"
+      },
+      {
+        "speaker": "Deniz",
+        "turkish": "Harika fikir, hemen geliyorum!",
+        "portuguese": "Ótima ideia, já estou indo!"
+      }
+    ],
+    "tips": [
+      "Para pedir algo educadamente num restaurante, em vez do imperativo bruto, use 'rica ederim' ou o optativo: 'Bir çay alabilir miyim?' (Poderia me dar um chá?)."
+    ]
+  },
+  {
+    "id": "lesson-a2-04-habilidade-yeterlilik",
+    "level": "A2",
+    "levelLabel": "Básico A2",
+    "title": "Sufixo de Habilidade e Possibilidade (-(y)ebil / -(y)abil)",
+    "category": "Modos Verbais",
+    "readTimeMinutes": 10,
+    "summary": "Expresse o que você pode ou consegue fazer (equivalente aos verbos 'poder' e 'conseguir' em português).",
+    "theory": "O sufixo de habilidade/potencialidade é `-(y)ebil` / `-(y)abil`.\nEle é inserido entre a raiz do verbo e o sufixo de tempo:\n- `Yüz-` (nadar) ➔ `Yüzebilirim` (Consigo nadar / Posso nadar).\n- `Konuş-` (falar) ➔ `Türkçe konuşabiliyorum` (Consigo falar turco).\n\n### Negativa Especial de Incapacidade:\nNa negativa, o `bil` cai e sobra apenas a vogal `-e / -a` antes do sufixo negativo `-me / -ma`:\n- `Gelemiyorum` = Não consigo vir (diferente de *gelmiyorum* = não venho por opção).\n- `Anlayamıyorum` = Não consigo entender.",
+    "tables": [
+      {
+        "title": "Afirmativo vs Negativo de Habilidade",
+        "headers": [
+          "Verbo",
+          "Afirmativo (Consigo)",
+          "Negativo Simples (Não faço)",
+          "Negativo de Habilidade (Não consigo)"
+        ],
+        "rows": [
+          [
+            "Yüzmek",
+            "Yüzebilirim (Consigo nadar)",
+            "Yüzmüyorum (Não nado)",
+            "Yüzemiyorum (Não consigo nadar)"
+          ],
+          [
+            "Gelmek",
+            "Gelebilirim (Posso vir)",
+            "Gelmiyorum (Não venho)",
+            "Gelemiyorum (Não consigo vir)"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Konuşabilmek",
+        "portuguese": "Conseguir falar",
+        "pronunciation": "ko-nu-sha-bil-mek",
+        "category": "Verbos",
+        "example": "Türkçe konuşabiliyorum. (Consigo falar turco.)"
+      },
+      {
+        "turkish": "Yardım edebilmek",
+        "portuguese": "Poder ajudar",
+        "pronunciation": "yar-dum e-de-bil-mek",
+        "category": "Verbos",
+        "example": "Size yardım edebilir miyim? (Posso ajudar o senhor?)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Turist",
+        "turkish": "İngilizce biliyor musunuz?",
+        "portuguese": "O senhor fala inglês?"
+      },
+      {
+        "speaker": "Görevli",
+        "turkish": "Biraz konuşabiliyorum, nasıl yardım edebilirim?",
+        "portuguese": "Consigo falar um pouco, como posso ajudar?"
+      }
+    ],
+    "tips": [
+      "Atenção para a sutil diferença: 'Yapmam' = Eu não faço (não quero). 'Yapamam' = Eu não consigo fazer (falta de capacidade/tempo)."
+    ]
+  },
+  {
+    "id": "lesson-a2-05-comparativos-superlativos",
+    "level": "A2",
+    "levelLabel": "Básico A2",
+    "title": "Comparações e Superlativos (Daha, En, Kadar)",
+    "category": "Sintaxe & Adjetivos",
+    "readTimeMinutes": 9,
+    "summary": "Aprenda a dizer que algo é 'mais bonito', 'o mais rápido' ou 'tão grande quanto'.",
+    "theory": "**1. Comparativo de Superioridade ('Mais...'):**\nUsa-se a palavra **daha** antes do adjetivo, e o caso ablativo (`-den/-dan`) no elemento de referência:\n- `Ahmet, Mehmet'ten daha hızlı.` = Ahmet é mais rápido que Mehmet.\n- `Bu ev daha güzel.` = Esta casa é mais bonita.\n\n**2. Superlativo Absoluto ('O mais...'):**\nUsa-se a palavra **en** antes do adjetivo:\n- `En güzel şehir İstanbul.` = A cidade mais bonita é Istambul.\n- `En iyi arkadaşım.` = Meu melhor amigo.\n\n**3. Comparativo de Igualdade ('Tão... quanto'):**\nUsa-se a pós-posição **kadar**:\n- `Senin kadar akıllı.` = Tão inteligente quanto você.",
+    "tables": [
+      {
+        "title": "Graus do Adjetivo em Turco",
+        "headers": [
+          "Grau",
+          "Construção",
+          "Exemplo",
+          "Tradução"
+        ],
+        "rows": [
+          [
+            "Positivo",
+            "Adjetivo simples",
+            "Hızlı",
+            "Rápido"
+          ],
+          [
+            "Comparativo",
+            "Daha + Adjetivo",
+            "Daha hızlı",
+            "Mais rápido"
+          ],
+          [
+            "Superlativo",
+            "En + Adjetivo",
+            "En hızlı",
+            "O mais rápido"
+          ],
+          [
+            "Igualdade",
+            "... kadar + Adjetivo",
+            "Kuş kadar özgür",
+            "Livre como um pássaro"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Daha",
+        "portuguese": "Mais",
+        "pronunciation": "da-ha",
+        "category": "Comparativos",
+        "example": "Daha büyük bir masa. (Uma mesa maior.)"
+      },
+      {
+        "turkish": "En",
+        "portuguese": "O mais / A mais",
+        "pronunciation": "en",
+        "category": "Superlativos",
+        "example": "En lezzetli yemek. (A comida mais saborosa.)"
+      },
+      {
+        "turkish": "Kadar",
+        "portuguese": "Tanto quanto / Até",
+        "pronunciation": "ka-dar",
+        "category": "Comparativos",
+        "example": "Onun kadar çalışkan. (Tão trabalhador quanto ele.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Ali",
+        "turkish": "Hangi telefon daha iyi?",
+        "portuguese": "Qual telefone é melhor?"
+      },
+      {
+        "speaker": "Veli",
+        "turkish": "Şu siyah telefon daha hızlı ve en kalitelisi.",
+        "portuguese": "Aquele telefone preto é mais rápido e o de maior qualidade."
+      }
+    ],
+    "tips": [
+      "Diferente do português, onde dizemos 'melhor' em vez de 'mais bom', em turco usa-se regularmente 'daha iyi' (mais bom = melhor) e 'en iyi' (o melhor)."
+    ]
+  },
+  {
+    "id": "lesson-a2-06-conjuncoes-conectivos",
+    "level": "A2",
+    "levelLabel": "Básico A2",
+    "title": "Conjunções Essenciais: Çünkü, Ama, Ancak, Ve, İle",
+    "category": "Conectivos",
+    "readTimeMinutes": 10,
+    "summary": "Conecte frases e desenvolva argumentos com fluidez usando as principais conjunções turcas.",
+    "theory": "As conjunções permitem criar frases compostas ricas e naturais:\n- **Ve** = E (*Ahmet ve Mehmet*).\n- **İle / -(y)le** = Com / E (*Arkadaşımla geldim* = Vim com meu amigo).\n- **Ama / Fakat / Ancak** = Mas / Porém (*Çok istedim ama vaktim yoktu* = Quis muito, mas não tive tempo).\n- **Çünkü** = Porque / Pois (*Eve gittim çünkü yorgundum* = Fui para casa porque estava cansado).\n- **Bu yüzden / Bu nedenle** = Por isso / Portanto (*Hava yağmurlu, bu yüzden şemsiye aldım* = O tempo está chuvoso, por isso peguei o guarda-chuva).\n- **Veya / Ya da** = Ou (*Çay veya kahve* = Chá ou café).",
+    "tables": [
+      {
+        "title": "Principais Conjunções Coordenativas e Subordinativas",
+        "headers": [
+          "Conjunção",
+          "Significado",
+          "Exemplo",
+          "Tradução"
+        ],
+        "rows": [
+          [
+            "Ve",
+            "E",
+            "Elma ve muz",
+            "Maçã e banana"
+          ],
+          [
+            "Ama / Fakat",
+            "Mas / Porém",
+            "Güzel ama pahalı",
+            "Bonito, mas caro"
+          ],
+          [
+            "Çünkü",
+            "Porque (causa)",
+            "Geç kaldım çünkü trafik vardı",
+            "Atrasei porque havia trânsito"
+          ],
+          [
+            "Bu yüzden",
+            "Por isso (consequência)",
+            "Çok çalıştım, bu yüzden başardım",
+            "Estudei muito, por isso consegui"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Çünkü",
+        "portuguese": "Porque / Pois",
+        "pronunciation": "tçün-kü",
+        "category": "Conjunções",
+        "example": "Gelemiyorum çünkü hastayım. (Não posso ir porque estou doente.)"
+      },
+      {
+        "turkish": "Ama",
+        "portuguese": "Mas / Porém",
+        "pronunciation": "a-ma",
+        "category": "Conjunções",
+        "example": "Zor ama mümkün. (Difícil, mas possível.)"
+      },
+      {
+        "turkish": "Bu yüzden",
+        "portuguese": "Por isso",
+        "pronunciation": "bu yüz-den",
+        "category": "Conjunções",
+        "example": "Yoruldum, bu yüzden dinleniyorum. (Cansei, por isso estou descansando.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Kemal",
+        "turkish": "Sinemaya geliyor musun?",
+        "portuguese": "Você vem ao cinema?"
+      },
+      {
+        "speaker": "Oya",
+        "turkish": "Çok isterim ama yarın sınavım var, bu yüzden evde kalıyorum.",
+        "portuguese": "Gostaria muito, mas tenho prova amanhã, por isso fico em casa."
+      }
+    ],
+    "tips": [
+      "A palavra 'ile' pode vir solta ou grudada como sufixo: 'araba ile' = 'arabayla' (de carro / com o carro)."
+    ]
+  },
+  {
+    "id": "lesson-a2-07-verbos-compostos-fazer",
+    "level": "A2",
+    "levelLabel": "Básico A2",
+    "title": "Verbos Compostos Auxiliares: Etmek, Yapmak, Olmak",
+    "category": "Morfologia Verbal",
+    "readTimeMinutes": 10,
+    "summary": "Entenda como o turco transforma substantivos e palavras estrangeiras em verbos com extrema facilidade.",
+    "theory": "O turco usa verbos auxiliares para criar centenas de expressões:\n\n**1. Etmek (Fazer - mais formal/abstrato):**\n- `Yardım etmek` = Ajudar (Lit: fazer ajuda).\n- `Teşekkür etmek` = Agradecer.\n- `Telefon etmek` = Telefonar.\n- *Atenção:* Quando a palavra termina em consoante e é curta, une-se: *af + etmek* = `affetmek` (perdoar); *his + etmek* = `hissetmek` (sentir).\n\n**2. Yapmak (Fazer - concreto/manufaturar):**\n- `Yemek yapmak` = Cozinhar (fazer comida).\n- `Alışveriş yapmak` = Fazer compras.\n- `Spor yapmak` = Praticar esportes.\n\n**3. Olmak (Tornar-se / Ser / Estar):**\n- `Mutlu olmak` = Ser/Ficar feliz.\n- `Geç olmak` = Ficar tarde.",
+    "tables": [
+      {
+        "title": "Etmek vs Yapmak",
+        "headers": [
+          "Expressão",
+          "Significado",
+          "Tipo de Ação"
+        ],
+        "rows": [
+          [
+            "Yardım etmek",
+            "Ajudar",
+            "Ação social / Abstrata"
+          ],
+          [
+            "Kabul etmek",
+            "Aceitar",
+            "Ação cognitiva"
+          ],
+          [
+            "Yemek yapmak",
+            "Fazer comida",
+            "Produção física"
+          ],
+          [
+            "Kahvaltı yapmak",
+            "Tomar café da manhã",
+            "Ação de consumo"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Yardım etmek",
+        "portuguese": "Ajudar",
+        "pronunciation": "yar-dum et-mek",
+        "category": "Verbos Compostos",
+        "example": "Bana yardım eder misiniz? (O senhor poderia me ajudar?)"
+      },
+      {
+        "turkish": "Alışveriş yapmak",
+        "portuguese": "Fazer compras",
+        "pronunciation": "a-lush-ve-rish yap-mak",
+        "category": "Verbos Compostos",
+        "example": "Çarşıda alışveriş yapıyoruz. (Estamos fazendo compras no bazar.)"
+      },
+      {
+        "turkish": "Mutlu olmak",
+        "portuguese": "Ser / Ficar feliz",
+        "pronunciation": "mut-lu ol-mak",
+        "category": "Verbos Compostos",
+        "example": "Çok mutlu oldum. (Fiquei muito feliz.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Anne",
+        "turkish": "Ne yapıyorsun?",
+        "portuguese": "O que você está fazendo?"
+      },
+      {
+        "speaker": "Kız",
+        "turkish": "Akşam yemeği yapıyorum anneciğim.",
+        "portuguese": "Estou fazendo o jantar, mamãezinha."
+      }
+    ],
+    "tips": [
+      "Regra prática: Se a palavra é de origem árabe/estrangeira (teşekkür, yardım, ziyaret), usa-se quase sempre 'etmek'."
+    ]
+  },
+  {
+    "id": "lesson-a2-08-situacoes-cotidianas",
+    "level": "A2",
+    "levelLabel": "Básico A2",
+    "title": "Turco Prático: Restaurante, Compras, Transporte e Direções",
+    "category": "Comunicação Prática",
+    "readTimeMinutes": 11,
+    "summary": "Vocabulário de sobrevivência e diálogos do dia a dia para navegar por Istambul com autonomia.",
+    "theory": "**1. No Restaurante (Lokanta / Restoran):**\n- `Menüye bakabilir miyim?` = Posso ver o cardápio?\n- `Hesap lütfen!` = A conta, por favor!\n- `Elinize sağlık!` = Saúde para suas mãos! (dito ao cozinheiro ou dono após comer).\n\n**2. No Táxi / Transporte:**\n- `Taksim'e ne kadar?` = Quanto custa até Taksim?\n- `Burada inebilir miyim?` = Posso descer aqui?\n- `Düz gidin` = Siga reto. | `Sağa dönün` = Vire à direita. | `Sola dönün` = Vire à esquerda.\n\n**3. Nas Compras:**\n- `Bu ne kadar?` = Quanto custa isto?\n- `Pahalı, biraz indirim yapar mısınız?` = Está caro, o senhor dá um desconto?",
+    "tables": [
+      {
+        "title": "Frases Essenciais de Sobrevivência na Turquia",
+        "headers": [
+          "Situação",
+          "Turco",
+          "Pronúncia",
+          "Português"
+        ],
+        "rows": [
+          [
+            "Pedir a conta",
+            "Hesap lütfen",
+            "he-sap lüt-fen",
+            "A conta, por favor"
+          ],
+          [
+            "Elogiar comida",
+            "Elinize sağlık",
+            "e-li-ni-ze saa-luhk",
+            "Saúde para suas mãos (delicioso)"
+          ],
+          [
+            "Quanto custa?",
+            "Bu ne kadar?",
+            "bu ne ka-dar",
+            "Quanto custa isto?"
+          ],
+          [
+            "Descer do transporte",
+            "Müsait bir yerde",
+            "myu-sa-it bir yer-de",
+            "Num lugar propício (para eu descer)"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Hesap",
+        "portuguese": "Conta",
+        "pronunciation": "he-sap",
+        "category": "Restaurante",
+        "example": "Hesabı alabilir miyiz? (Poderíamos receber a conta?)"
+      },
+      {
+        "turkish": "İndirim",
+        "portuguese": "Desconto",
+        "pronunciation": "in-di-rim",
+        "category": "Compras",
+        "example": "İndirim var mı? (Tem desconto?)"
+      },
+      {
+        "turkish": "Pahalı",
+        "portuguese": "Caro",
+        "pronunciation": "pa-ha-lu",
+        "category": "Compras",
+        "example": "Bu biraz pahalı. (Isto é um pouco caro.)"
+      },
+      {
+        "turkish": "Ucuz",
+        "portuguese": "Barato",
+        "pronunciation": "u-djuz",
+        "category": "Compras",
+        "example": "Çok ucuz ve kaliteli. (Muito barato e de qualidade.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Müşteri",
+        "turkish": "Pardon, hesap ne kadar?",
+        "portuguese": "Com licença, quanto deu a conta?"
+      },
+      {
+        "speaker": "Garson",
+        "turkish": "Toplam yüz elli lira efendim.",
+        "portuguese": "Total de cento e cinquenta liras, senhor."
+      },
+      {
+        "speaker": "Müşteri",
+        "turkish": "Buyrun, elinize sağlık, yemekler çok lezzetliydi.",
+        "portuguese": "Aqui está, parabéns pelas mãos, a comida estava deliciosa."
+      }
+    ],
+    "tips": [
+      "A frase 'Elinize sağlık' alegra imediatamente qualquer atendente turco. Demonstra carinho e respeito pela comida preparada."
+    ]
+  },
+  {
+    "id": "lesson-b1-01-passado-definido",
+    "level": "B1",
+    "levelLabel": "Intermediário B1",
+    "title": "Passado Determinado / Testemunhado (Görülen Geçmiş Zaman: -di)",
+    "category": "Morfologia Verbal",
+    "readTimeMinutes": 11,
+    "summary": "Aprenda a relatar eventos passados que você presenciou diretamente ou dos quais tem certeza factual absoluta.",
+    "theory": "O turco possui dois passados fundamentais. O **Görülen Geçmiş Zaman** (sufixo `-di / -tı...`) é o passado **determinado, presenciado ou historicamente certo**.\n\n### Formação:\nRadical do Verbo + Sufixo `-di / -dı / -du / -dü` (ou `-ti / -tı / -tu / -tü` após Fıstıkçı Şahap) + Sufixo Pessoal de Passado:\n- `Gel-di-m` = Eu vim / Eu cheguei.\n- `Gel-di-n` = Você veio.\n- `Gel-di` = Ele/Ela veio.\n- `Gel-di-k` = Nós viemos.\n- `Gel-di-niz` = Vocês vieram.\n- `Gel-di-ler` = Eles vieram.\n\n### Negativa com `-me / -ma`:\n- `Gel-me-di-m` = Eu não vim.\n- `Gör-me-di-m` = Não vi.",
+    "tables": [
+      {
+        "title": "Conjugação do Passado Definido (-di) com 'Gitmek' e 'Görmek'",
+        "headers": [
+          "Pronome",
+          "Gittim (Fui)",
+          "Gördüm (Vi)",
+          "Gitmedim (Não fui)"
+        ],
+        "rows": [
+          [
+            "Ben",
+            "Gittim",
+            "Gördüm",
+            "Gitmedim"
+          ],
+          [
+            "Sen",
+            "Gittin",
+            "Gördün",
+            "Gitmedin"
+          ],
+          [
+            "O",
+            "Gitti",
+            "Gördü",
+            "Gitmedi"
+          ],
+          [
+            "Biz",
+            "Gittik",
+            "Gördük",
+            "Gitmedik"
+          ],
+          [
+            "Siz",
+            "Gittiniz",
+            "Gördünüz",
+            "Gitmediniz"
+          ],
+          [
+            "Onlar",
+            "Gittiler",
+            "Gördüler",
+            "Gitmediler"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Dün",
+        "portuguese": "Ontem",
+        "pronunciation": "dyun",
+        "category": "Tempo",
+        "example": "Dün sinemaya gittim. (Ontem fui ao cinema.)"
+      },
+      {
+        "turkish": "Geçen hafta",
+        "portuguese": "Semana passada",
+        "pronunciation": "ge-tçen haf-ta",
+        "category": "Tempo",
+        "example": "Geçen hafta seni aradım. (Te liguei semana passada.)"
+      },
+      {
+        "turkish": "Görmek",
+        "portuguese": "Ver",
+        "pronunciation": "gör-mek",
+        "category": "Verbos",
+        "example": "Onu sokakta gördüm. (Eu o vi na rua.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Murat",
+        "turkish": "Dün toplantıya geldin mi?",
+        "portuguese": "Você veio à reunião ontem?"
+      },
+      {
+        "speaker": "Selma",
+        "turkish": "Evet, geldim ve raporu verdim.",
+        "portuguese": "Sim, vim e entreguei o relatório."
+      }
+    ],
+    "tips": [
+      "Ao conjugar 'Biz' (nós) no passado com -di, o sufixo é '-k': 'Yaptık' (fizemos), 'Geldik' (viemos), 'Gördük' (vimos)."
+    ]
+  },
+  {
+    "id": "lesson-b1-02-passado-evidencial",
+    "level": "B1",
+    "levelLabel": "Intermediário B1",
+    "title": "Passado Evidencial / Narrativo (Öğrenilen Geçmiş Zaman: -miş)",
+    "category": "Morfologia Verbal",
+    "readTimeMinutes": 13,
+    "summary": "Compreenda um dos traços mais fascinantes da mente linguística turca: a distinção gramatical obrigatória entre o que você viu e o que você ouviu dizer.",
+    "theory": "O turco tem uma categoria gramatical rara chamada **Evidencialidade**. Se você NÃO presenciou a ação com seus próprios olhos, é **obrigatório** usar o sufixo `-miş / -mış / -muş / -müş`.\n\n### Usos Principais:\n1. **Ouvir Dizer / Boato / Relato:**\n   - `Ali hastalanmış.` = Soube que o Ali ficou doente (ouvi dizer, não vi o termômetro).\n   - Se disser `Ali hastalandı`, significa que você viu pessoalmente!\n2. **Constatação Tardia / Surpresa:**\n   - Você olha pela janela e vê o chão molhado: `Yağmur yağmış!` (Puxa, choveu!).\n   - Você olha a carteira vazia: `Param bitmiş!` (Nossa, meu dinheiro acabou!).\n3. **Contos de Fadas e Histórias:**\n   - Quase todas as histórias infantis turcas começam com `-miş`: *Bir varmış, bir yokmuş...* (Era uma vez...).",
+    "tables": [
+      {
+        "title": "Diferença Vital: -di (Presenciado) vs -miş (Relatado / Descoberto)",
+        "headers": [
+          "Frase",
+          "Sufixo",
+          "Significado Real",
+          "Contexto de Uso"
+        ],
+        "rows": [
+          [
+            "Ahmet geldi",
+            "-di",
+            "Ahmet veio",
+            "Eu vi o Ahmet chegando com meus olhos"
+          ],
+          [
+            "Ahmet gelmiş",
+            "-miş",
+            "Soube que Ahmet veio",
+            "Alguém me contou ou vi o casaco dele pendurado"
+          ],
+          [
+            "Yemek çok güzel olmuş",
+            "-miş",
+            "A comida ficou ótima!",
+            "Elogio de surpresa ao provar a primeira garfada"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Duymak",
+        "portuguese": "Ouvir",
+        "pronunciation": "duy-mak",
+        "category": "Percepção",
+        "example": "Haberi duydum. (Ouvi a notícia.)"
+      },
+      {
+        "turkish": "Öğrenmek",
+        "portuguese": "Aprender / Saber",
+        "pronunciation": "öy-ren-mek",
+        "category": "Cognição",
+        "example": "Yeni öğrendim. (Fiquei sabendo agora.)"
+      },
+      {
+        "turkish": "Masal",
+        "portuguese": "Conto de fadas",
+        "pronunciation": "ma-sal",
+        "category": "Literatura",
+        "example": "Bir varmış, bir yokmuş. (Era uma vez.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Canan",
+        "turkish": "Bora nerede, partiye gelmedi mi?",
+        "portuguese": "Onde está o Bora, ele não veio à festa?"
+      },
+      {
+        "speaker": "Ece",
+        "turkish": "Hasta olmuş, evde yatıyormuş.",
+        "portuguese": "Disseram que ele ficou doente e parece que está de cama em casa."
+      }
+    ],
+    "tips": [
+      "Use '-miş' sempre que elogiar comida ou roupa nova de um amigo: 'Çok yakışmış!' (Ficou lindo em você! / Caiu super bem!)."
+    ]
+  },
+  {
+    "id": "lesson-b1-03-futuro-simples",
+    "level": "B1",
+    "levelLabel": "Intermediário B1",
+    "title": "Tempo Futuro (Gelecek Zaman: -(y)ecek / -(y)acak)",
+    "category": "Morfologia Verbal",
+    "readTimeMinutes": 11,
+    "summary": "Expresse planos futuros, promessas e intenções com clareza e aprenda a mutação consonantal do K para Ğ na 1ª pessoa.",
+    "theory": "O tempo futuro em turco usa o sufixo `-(y)ecek` (vogais anteriores) ou `-(y)acak` (vogais posteriores).\n\n### A Regra Crítica do K ➔ Ğ:\nNa 1ª pessoa do singular (*Ben*) e do plural (*Biz*), o sufixo de pessoa começa por vogal, forçando o 'k' final do sufixo futuro a suavizar para **ğ**:\n- `Gel-eceğ-im` = Eu virei / Vou vir. (pronuncia-se *ge-le-je-im* ou *ge-li-cem* no coloquial).\n- `Yap-acağ-ım` = Eu farei / Vou fazer.\n- `Gel-ecek-sin` = Você virá (mantém 'k').\n- `Gel-ecek` = Ele virá.\n- `Gel-eceğ-iz` = Nós viremos.\n- `Gel-ecek-siniz` = Vocês virão.\n- `Gel-ecek-ler` = Eles virão.",
+    "tables": [
+      {
+        "title": "Conjugação Completa do Futuro (Gelecek Zaman)",
+        "headers": [
+          "Pronome",
+          "Gelmek (Vir)",
+          "Yapmak (Fazer)",
+          "Negativa (Gelmeyeceğim)"
+        ],
+        "rows": [
+          [
+            "Ben",
+            "Geleceğim",
+            "Yapacağım",
+            "Gelmeyeceğim"
+          ],
+          [
+            "Sen",
+            "Geleceksin",
+            "Yapacaksın",
+            "Gelmeyeceksin"
+          ],
+          [
+            "O",
+            "Gelecek",
+            "Yapacak",
+            "Gelmeyecek"
+          ],
+          [
+            "Biz",
+            "Geleceğiz",
+            "Yapacağız",
+            "Gelmeyeceğiz"
+          ],
+          [
+            "Siz",
+            "Geleceksiniz",
+            "Yapacaksınız",
+            "Gelmeyeceksiniz"
+          ],
+          [
+            "Onlar",
+            "Gelecekler",
+            "Yapacaklar",
+            "Gelmeyecekler"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Gelecek",
+        "portuguese": "Futuro / Próximo",
+        "pronunciation": "ge-le-djek",
+        "category": "Tempo",
+        "example": "Gelecek ay geliyorum. (Venho no próximo mês.)"
+      },
+      {
+        "turkish": "Plan",
+        "portuguese": "Plano",
+        "pronunciation": "plan",
+        "category": "Geral",
+        "example": "Yarın ne planın var? (Que planos você tem amanhã?)"
+      },
+      {
+        "turkish": "Söz vermek",
+        "portuguese": "Prometer (dar palavra)",
+        "pronunciation": "söz ver-mek",
+        "category": "Verbos",
+        "example": "Sana söz veriyorum, geleceğim. (Te dou minha palavra, eu irei.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Emir",
+        "turkish": "Yaz tatilinde ne yapacaksın?",
+        "portuguese": "O que você vai fazer nas férias de verão?"
+      },
+      {
+        "speaker": "Defne",
+        "turkish": "Antalya'ya gideceğim, denizde yüzeceğim.",
+        "portuguese": "Vou para Antália, vou nadar no mar."
+      }
+    ],
+    "tips": [
+      "Na fala coloquial rápida de Istambul, 'Geleceğim' é frequentemente pronunciado como 'Gelicem', e 'Yapacağım' como 'Yapıcam'."
+    ]
+  },
+  {
+    "id": "lesson-b1-04-presente-amplo-aoristo",
+    "level": "B1",
+    "levelLabel": "Intermediário B1",
+    "title": "Presente Amplo / Aoristo (Geniş Zaman: -r / -er / -ir)",
+    "category": "Morfologia Verbal",
+    "readTimeMinutes": 12,
+    "summary": "O tempo dos hábitos atemporais, verdades universais, promessas espontâneas e fórmulas de extrema gentileza.",
+    "theory": "O **Geniş Zaman** (Presente Amplo / Aoristo) não se refere apenas ao momento presente, mas a verdades eternas, rotinas e ações voluntárias espontâneas.\n\n### Usos Chave:\n1. **Verdades Científicas e Hábitos:**\n   - `Dünya döner.` = A Terra gira.\n   - `Her sabah kahve içerim.` = Eu bebo café todas as manhãs.\n2. **Pedidos de Extrema Polidez e Cortesia:**\n   - `Bakar mısınız?` = O senhor olharia aqui? / Com licença!\n   - `Bir çay verir misiniz?` = O senhor me daria um chá?\n3. **Promessas Imediatas:**\n   - `Hemen yaparım!` = Faço na mesma hora!\n\n### Negativa Especial com `-mez / -maz`:\nNa negativa, o 'r' desaparece:\n- `Gel-me-m` = Eu não venho / Não virei.\n- `Gel-mez-sin` = Você não vem.\n- `Gel-mez` = Ele não vem.",
+    "tables": [
+      {
+        "title": "Afirmativo e Negativo do Geniş Zaman (Verbo Gelmek)",
+        "headers": [
+          "Pronome",
+          "Afirmativo",
+          "Negativo",
+          "Interrogativo de Polidez"
+        ],
+        "rows": [
+          [
+            "Ben",
+            "Gelirim",
+            "Gelmem",
+            "Gelir miyim?"
+          ],
+          [
+            "Sen",
+            "Gelirsin",
+            "Gelmezsin",
+            "Gelir misin? (Você viria?)"
+          ],
+          [
+            "O",
+            "Gelir",
+            "Gelmez",
+            "Gelir mi?"
+          ],
+          [
+            "Biz",
+            "Geliriz",
+            "Gelmeyiz",
+            "Gelir miyiz?"
+          ],
+          [
+            "Siz",
+            "Gelirsiniz",
+            "Gelmezsiniz",
+            "Gelir misiniz? (O senhor viria?)"
+          ],
+          [
+            "Onlar",
+            "Gelirler",
+            "Gelmezler",
+            "Gelirler mi?"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Bakar mısınız?",
+        "portuguese": "Com licença / Poderia me atender?",
+        "pronunciation": "ba-kar mu-su-nuz",
+        "category": "Cortesia",
+        "example": "Pardon, bakar mısınız? (Com licença, o senhor poderia me atender?)"
+      },
+      {
+        "turkish": "Her zaman",
+        "portuguese": "Sempre",
+        "pronunciation": "her za-man",
+        "category": "Frequência",
+        "example": "Her zaman seni düşünürüm. (Sempre penso em você.)"
+      },
+      {
+        "turkish": "Asla",
+        "portuguese": "Nunca / Jamais",
+        "pronunciation": "as-la",
+        "category": "Frequência",
+        "example": "Asla yalan söylemem. (Nunca minto.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Müşteri",
+        "turkish": "Pardon bakar mısınız? Menüyü getirir misiniz?",
+        "portuguese": "Com licença, o senhor nos traria o cardápio?"
+      },
+      {
+        "speaker": "Garson",
+        "turkish": "Tabii ki efendim, hemen getiririm.",
+        "portuguese": "Com certeza senhor, trago imediatamente."
+      }
+    ],
+    "tips": [
+      "'Bakar mısınız?' é a frase número 1 para chamar a atenção de qualquer garçom ou atendente na Turquia de forma educada e respeitosa."
+    ]
+  },
+  {
+    "id": "lesson-b1-05-oracoes-temporais",
+    "level": "B1",
+    "levelLabel": "Intermediário B1",
+    "title": "Orações Temporais: -(y)ince, -dikten sonra, -meden önce",
+    "category": "Sintaxe & Conectivos",
+    "readTimeMinutes": 11,
+    "summary": "Aprenda a dizer 'quando eu chegar', 'depois de comer' e 'antes de sair' com sufixos verbais elegantes.",
+    "theory": "O turco utiliza formas nominais do verbo (gerúndios/particípios) para estruturar orações de tempo subordinadas:\n\n1. **-(y)ince / -(y)ınca = 'Quando... / Assim que...':**\n   - `Eve gelince beni ara.` = Quando você chegar em casa, me ligue.\n   - `Onu görünce çok mutlu oldum.` = Quando o vi, fiquei muito feliz.\n\n2. **-dikten sonra = 'Depois de...':**\n   - `Yemek yedik**ten sonra** çay içtik.` = Depois de comer comida, tomamos chá.\n   - `Ders bit**tikten sonra** buluşalım.` = Vamos nos encontrar depois que a aula terminar.\n\n3. **-meden / -madan önce = 'Antes de...':**\n   - `Evden çık**madan önce** ışıkları kapat.` = Antes de sair de casa, apague as luzes.\n   - `Uyu**madan önce** kitap okurum.` = Antes de dormir, leio livro.",
+    "tables": [
+      {
+        "title": "Síntese das Estruturas Temporais",
+        "headers": [
+          "Construção",
+          "Significado",
+          "Exemplo",
+          "Tradução"
+        ],
+        "rows": [
+          [
+            "Verbo + -(y)ince",
+            "Quando / Ao...",
+            "Görünce",
+            "Ao ver / Quando viu"
+          ],
+          [
+            "Verbo + -dikten sonra",
+            "Depois de...",
+            "Geldikten sonra",
+            "Depois de ter vindo"
+          ],
+          [
+            "Verbo + -meden önce",
+            "Antes de...",
+            "Gitmeden önce",
+            "Antes de ir"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Sonra",
+        "portuguese": "Depois",
+        "pronunciation": "son-ra",
+        "category": "Tempo",
+        "example": "Dersten sonra. (Depois da aula.)"
+      },
+      {
+        "turkish": "Önce",
+        "portuguese": "Antes",
+        "pronunciation": "ön-dje",
+        "category": "Tempo",
+        "example": "Yemekten önce ellerini yıka. (Lave as mãos antes da refeição.)"
+      },
+      {
+        "turkish": "Aramak",
+        "portuguese": "Ligar / Procurar",
+        "pronunciation": "a-ra-mak",
+        "category": "Verbos",
+        "example": "Varınca beni ara. (Me ligue ao chegar.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Anne",
+        "turkish": "Dışarı çıkmadan önce ödevini bitir!",
+        "portuguese": "Antes de sair lá fora, termine sua lição de casa!"
+      },
+      {
+        "speaker": "Oğul",
+        "turkish": "Tamam anne, bitirdikten sonra arkadaşlarımla buluşacağım.",
+        "portuguese": "Tudo bem mãe, depois de terminar vou me encontrar com meus amigos."
+      }
+    ],
+    "tips": [
+      "Note que '-den önce' e '-den sonra' regem o caso ablativo (-den/-ten) anexado ao particípio: 'bit-tik-ten sonra'."
+    ]
+  },
+  {
+    "id": "lesson-b1-06-posposicoes-avancadas",
+    "level": "B1",
+    "levelLabel": "Intermediário B1",
+    "title": "Pós-posições com Casos Gramaticais (Göre, Rağmen, Doğru, Başka)",
+    "category": "Pós-posições",
+    "readTimeMinutes": 10,
+    "summary": "Descubra como o turco usa pós-posições no lugar de preposições, exigindo casos gramaticais específicos.",
+    "theory": "Enquanto o português usa **preposições** antes da palavra ('segundo você', 'apesar da chuva'), o turco usa **pós-posições** DEPOIS da palavra, exigindo um caso específico:\n\n### 1. Pós-posições que exigem Dativo (-(y)e):\n- **Göre** = De acordo com / Segundo:\n  - `Bana göre` = Na minha opinião / Segundo eu.\n  - `Sana göre` = Segundo você.\n- **Rağmen / Karşın** = Apesar de:\n  - `Yağmura rağmen dışarı çıktık.` = Apesar da chuva, saímos.\n- **Doğru** = Em direção a:\n  - `Eve doğru yürüdüm.` = Caminhei em direção a casa.\n\n### 2. Pós-posições que exigem Ablativo (-den):\n- **Başka** = Além de / Fora:\n  - `Senden başka kimsem yok.` = Não tenho mais ninguém além de você.\n- **Beri** = Desde:\n  - `Sabahtan beri çalışıyorum.` = Estou trabalhando desde a manhã.",
+    "tables": [
+      {
+        "title": "Quadro de Regência das Pós-posições",
+        "headers": [
+          "Caso Exigido",
+          "Pós-posição",
+          "Significado",
+          "Exemplo"
+        ],
+        "rows": [
+          [
+            "Dativo (-(y)e)",
+            "Göre",
+            "Segundo / Conforme",
+            "Bana göre çok kolay (Na minha opinião é muito fácil)"
+          ],
+          [
+            "Dativo (-(y)e)",
+            "Rağmen",
+            "Apesar de",
+            "Zorluğa rağmen (Apesar da dificuldade)"
+          ],
+          [
+            "Ablativo (-den)",
+            "Beri",
+            "Desde",
+            "Üç yıldan beri (Há / Desde três anos)"
+          ],
+          [
+            "Ablativo (-den)",
+            "Başka",
+            "Além de",
+            "Bundan başka (Além disto)"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Bana göre",
+        "portuguese": "Na minha opinião",
+        "pronunciation": "ba-na gö-re",
+        "category": "Opinião",
+        "example": "Bana göre bu film harika. (Na minha opinião este filme é maravilhoso.)"
+      },
+      {
+        "turkish": "Rağmen",
+        "portuguese": "Apesar de",
+        "pronunciation": "raam-men",
+        "category": "Conectivos",
+        "example": "Trafiğe rağmen zamanında geldik. (Apesar do trânsito, chegamos a tempo.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Turgut",
+        "turkish": "Sana göre bu proje başarılı olacak mı?",
+        "portuguese": "Na sua opinião, este projeto terá sucesso?"
+      },
+      {
+        "speaker": "Gül",
+        "turkish": "Zorluklara rağmen kesinlikle başarılı olacağız.",
+        "portuguese": "Apesar das dificuldades, com certeza teremos sucesso."
+      }
+    ],
+    "tips": [
+      "Nunca diga *göre bana*. A ordem é sempre estrita: primeiro o termo com o caso (Bana), depois a pós-posição (göre)."
+    ]
+  },
+  {
+    "id": "lesson-b1-07-discurso-indireto-diye",
+    "level": "B1",
+    "levelLabel": "Intermediário B1",
+    "title": "Discurso Indireto e o Versátil Conector 'Diye'",
+    "category": "Sintaxe Avançada",
+    "readTimeMinutes": 11,
+    "summary": "Aprenda a relatar o que outros disseram e domine a palavra 'diye' para expressar propósitos e pensamentos.",
+    "theory": "A palavra **diye** vem literalmente do verbo *demek* (dizer) na forma de gerúndio. Ela é uma das palavras mais multifuncionais do idioma turco:\n\n### 1. Para Citar Falas de Terceiros:\n- `Ahmet 'Yarın geliyorum' diye söyledi.` = Ahmet disse: 'Venho amanhã'.\n- `Doktor dinlen diye tavsiye etti.` = O médico recomendou: 'Descanse'.\n\n### 2. Para Expressar Intenção / Propósito ('Com o pensamento de...'):\n- `Türkçe öğreneyim diye kursa yazıldım.` = Me matriculei no curso pensando em aprender turco (para aprender turco).\n- `Üşümeyeyim diye montumu giydim.` = Vesti meu casaco para não sentir frio.\n\n### 3. Para Nomear Coisas:\n- `Evet diye bir uygulama var.` = Há um aplicativo chamado 'Evet'.",
+    "tables": [
+      {
+        "title": "Os Três Grandes Usos de 'Diye'",
+        "headers": [
+          "Função",
+          "Estrutura",
+          "Exemplo",
+          "Tradução"
+        ],
+        "rows": [
+          [
+            "Citação",
+            "Frase direta + diye + verbo",
+            "'Gel' diye bağırdı",
+            "Gritou: 'Vem!'"
+          ],
+          [
+            "Propósito",
+            "Verbo no optativo + diye",
+            "Geç kalmayayım diye koştum",
+            "Corri para não me atrasar"
+          ],
+          [
+            "Denominação",
+            "Nome + diye bir...",
+            "Brezilya diye bir ülke",
+            "Um país chamado Brasil"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Demek",
+        "portuguese": "Dizer / Querer dizer",
+        "pronunciation": "de-mek",
+        "category": "Verbos",
+        "example": "Ne demek istiyorsun? (O que você quer dizer?)"
+      },
+      {
+        "turkish": "Söylemek",
+        "portuguese": "Falar / Dizer",
+        "pronunciation": "söy-le-mek",
+        "category": "Verbos",
+        "example": "Doğruyu söyledim. (Falei a verdade.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Hasan",
+        "turkish": "Neden erken kalktın?",
+        "portuguese": "Por que você acordou cedo?"
+      },
+      {
+        "speaker": "Cansu",
+        "turkish": "Uçağı kaçırmayayım diye sabah beşte kalktım.",
+        "portuguese": "Acordei às cinco da manhã para não perder o voo."
+      }
+    ],
+    "tips": [
+      "'Ne demek?' é muito usado como resposta a 'Teşekkür ederim' no sentido de 'Imagina! Não há de quê!' (Literalmente: O que isso quer dizer? Não é nada!)."
+    ]
+  },
+  {
+    "id": "lesson-b1-08-necessidade-obrigacao",
+    "level": "B1",
+    "levelLabel": "Intermediário B1",
+    "title": "Modos de Necessidade e Obrigação (-malı, Zorunda, Lazım)",
+    "category": "Modos Verbais",
+    "readTimeMinutes": 10,
+    "summary": "Expresse dever moral ('deveria fazer'), obrigação imposta ('sou obrigado a ir') e necessidade prática ('preciso de água').",
+    "theory": "Em turco, há três graus distintos de necessidade:\n\n### 1. Dever Moral e Sugestão Forte (-malı / -meli):\nEquivale a 'dever' / 'ter que':\n- `Daha çok çalışmalısın.` = Você deveria estudar mais.\n- `Hemen gitmeliyiz.` = Devemos ir imediatamente.\n\n### 2. Obrigação Imposta Inevitável (Zorunda Olmak):\nEquivale a 'ser forçado / obrigado a':\n- `Çalışmak zorundayım.` = Sou obrigado a trabalhar / Tenho que trabalhar por obrigação.\n- `Bu faturayı ödemek zorundayız.` = Somos obrigados a pagar esta fatura.\n\n### 3. Necessidade Prática (Lazım / Gerek / İhtiyaç):\nUsa-se o infinitivo abreviado com possessivo:\n- `Gitmem lazım.` = Preciso ir (Lit: Minha ida é necessária).\n- `Uyumam gerek.` = Preciso dormir.",
+    "tables": [
+      {
+        "title": "Graus de Necessidade",
+        "headers": [
+          "Construção",
+          "Nuance",
+          "Exemplo",
+          "Tradução"
+        ],
+        "rows": [
+          [
+            "-malı / -meli",
+            "Dever moral / Conselho",
+            "Erken yatmalısın",
+            "Você deveria deitar cedo"
+          ],
+          [
+            "Zorunda olmak",
+            "Obrigação externa",
+            "Gitmek zorundayım",
+            "Sou obrigado a ir"
+          ],
+          [
+            "-mem lazım / gerek",
+            "Necessidade prática cotidiana",
+            "Su içmem lazım",
+            "Preciso beber água"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Lazım",
+        "portuguese": "Necessário / Preciso",
+        "pronunciation": "laa-zum",
+        "category": "Necessidade",
+        "example": "Bana yardım lazım. (Preciso de ajuda.)"
+      },
+      {
+        "turkish": "Gerek",
+        "portuguese": "Necessário",
+        "pronunciation": "ge-rek",
+        "category": "Necessidade",
+        "example": "Acele etmemiz gerek. (Precisamos nos apressar.)"
+      },
+      {
+        "turkish": "Zorunda olmak",
+        "portuguese": "Ser obrigado a",
+        "pronunciation": "zo-run-da ol-mak",
+        "category": "Obrigação",
+        "example": "Bunu yapmak zorundayım. (Sou obrigado a fazer isto.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Patron",
+        "turkish": "Rapor bugün bitmeli mi?",
+        "portuguese": "O relatório deve terminar hoje?"
+      },
+      {
+        "speaker": "Müdür",
+        "turkish": "Evet, müşteriye göndermek zorundayız.",
+        "portuguese": "Sim, somos obrigados a enviar ao cliente."
+      }
+    ],
+    "tips": [
+      "A forma 'Gitmem lazım' (verbo + sufixo possessivo 'm' + lazım) é a mais comum no dia a dia informal de qualquer turco."
+    ]
+  },
+  {
+    "id": "lesson-b2-01-participio-sujeito",
+    "level": "B2",
+    "levelLabel": "Intermediário Superior B2",
+    "title": "Particípio do Sujeito -(y)en / -(y)an ('Aquele que faz')",
+    "category": "Sintaxe Complexa",
+    "readTimeMinutes": 12,
+    "summary": "Aprenda a construir orações relativas com foco no sujeito: 'o homem que fala', 'o trem que chega', 'quem sabe'.",
+    "theory": "O turco não possui um pronome relativo universal como o 'que' do português ('o homem QUE viu'). Em vez disso, transforma o verbo subordinado em um **adjetivo verbal (particípio)**:\n\n### Formação:\nRadical do Verbo + `-(y)en` (vogal anterior) ou `-(y)an` (vogal posterior):\n- `Gelen adam` = O homem que vem / O homem que chega.\n- `Türkçe konuşan öğrenciler` = Os alunos que falam turco.\n- `Ağlayan bebek` = O bebê que chora / O bebê chorão.\n\n### Uso Substantivado ('Quem...'):\nQuando o substantivo é omitido, o particípio se torna o próprio sujeito:\n- `Bilen konuşsun!` = Que fale quem sabe!\n- `Erken kalkan erken yol alır.` = Quem acorda cedo viaja mais cedo (Provérbio).",
+    "tables": [
+      {
+        "title": "Orações com Particípio do Sujeito -(y)en/-(y)an",
+        "headers": [
+          "Verbo",
+          "Particípio",
+          "Com Substantivo",
+          "Tradução em Português"
+        ],
+        "rows": [
+          [
+            "Gelmek (Vir)",
+            "Gelen",
+            "Gelen tren",
+            "O trem que vem"
+          ],
+          [
+            "Okumak (Ler)",
+            "Okuyan",
+            "Kitap okuyan kız",
+            "A garota que lê livros"
+          ],
+          [
+            "Çalışmak (Trabalhar)",
+            "Çalışan",
+            "Çok çalışan insanlar",
+            "As pessoas que trabalham muito"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Bilen",
+        "portuguese": "Aquele que sabe / Quem sabe",
+        "pronunciation": "bi-len",
+        "category": "Particípios",
+        "example": "Bilen var mı? (Tem alguém que sabe?)"
+      },
+      {
+        "turkish": "Yolcu",
+        "portuguese": "Passageiro / Viajante",
+        "pronunciation": "yol-dju",
+        "category": "Viagem",
+        "example": "Gelen yolcular. (Os passageiros que estão chegando.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Polis",
+        "turkish": "Olayı gören var mı?",
+        "portuguese": "Tem alguém que viu o ocorrido?"
+      },
+      {
+        "speaker": "Tanık",
+        "turkish": "Evet, orada bekleyen adam her şeyi gördü.",
+        "portuguese": "Sim, o homem que estava esperando ali viu tudo."
+      }
+    ],
+    "tips": [
+      "Lembre-se da ordem: em turco o particípio vem SEMPRE ANTES do substantivo modificado ('Türkçe konuşan kız' e nunca *kız konuşan Türkçe)."
+    ]
+  },
+  {
+    "id": "lesson-b2-02-participio-objeto",
+    "level": "B2",
+    "levelLabel": "Intermediário Superior B2",
+    "title": "Particípio do Objeto: -dik e -(y)ecek com Possessivos",
+    "category": "Sintaxe Complexa",
+    "readTimeMinutes": 14,
+    "summary": "Construa orações relativas objetivas ('o livro que eu li', 'a cidade onde moro', 'o que vamos fazer').",
+    "theory": "Se o particípio `-en` cuida de QUEM pratica a ação, o particípio **-dik** (passado/presente) e **-(y)ecek** (futuro) cuida de QUALQUER ação onde o sujeito é outro:\n\n### Estrutura:\nRadical + `-dik` + Sufixo Possessivo (indicando QUEM realizou a ação):\n- `Oku-duğ-um kitap` = O livro **que eu li** / que leio.\n- `Gör-düğ-ün adam` = O homem **que você viu**.\n- `Yaşa-dığ-ımız şehir` = A cidade **em que moramos**.\n- `Yap-acağ-ımız plan` = O plano **que faremos** (futuro).\n\n### A Inversão Mental para Lusófonos:\nEm português dizemos: *Substantivo + QUE + Sujeito + Verbo* ('O livro que eu li').\nEm turco invertemos completamente: *Verbo-Particípio-Possessivo + Substantivo* ('Okuduğum kitap').",
+    "tables": [
+      {
+        "title": "Conjugação do Particípio -dik com Possessivos (Verbo Yazmak - Escrever)",
+        "headers": [
+          "Pessoa",
+          "Forma",
+          "Exemplo",
+          "Tradução"
+        ],
+        "rows": [
+          [
+            "Ben (Eu)",
+            "Yazdığım",
+            "Yazdığım mektup",
+            "A carta que escrevi"
+          ],
+          [
+            "Sen (Tu)",
+            "Yazdığın",
+            "Yazdığın mektup",
+            "A carta que você escreveu"
+          ],
+          [
+            "O (Ele)",
+            "Yazdığı",
+            "Yazdığı mektup",
+            "A carta que ele escreveu"
+          ],
+          [
+            "Biz (Nós)",
+            "Yazdığımız",
+            "Yazdığımız mektup",
+            "A carta que escrevemos"
+          ],
+          [
+            "Siz (Vós)",
+            "Yazdığınız",
+            "Yazdığınız mektup",
+            "A carta que vocês escreveram"
+          ],
+          [
+            "Onlar (Eles)",
+            "Yazdıkları",
+            "Yazdıkları mektup",
+            "A carta que eles escreveram"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Bildiğim kadarıyla",
+        "portuguese": "Até onde eu sei",
+        "pronunciation": "bil-di-yim ka-da-ruy-la",
+        "category": "Expressões",
+        "example": "Bildiğim kadarıyla o evli. (Até onde eu sei, ele é casado.)"
+      },
+      {
+        "turkish": "Sevdiğim",
+        "portuguese": "O que eu amo / Minha pessoa amada",
+        "pronunciation": "sev-di-yim",
+        "category": "Particípios",
+        "example": "En sevdiğim yemek mantı. (Minha comida favorita é mantı.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Elif",
+        "turkish": "Dün izlediğin film güzel miydi?",
+        "portuguese": "O filme que você assistiu ontem era bom?"
+      },
+      {
+        "speaker": "Barış",
+        "turkish": "Evet, hayatımda gördüğüm en heyecanlı filmdi!",
+        "portuguese": "Sim, foi o filme mais emocionante que já vi na minha vida!"
+      }
+    ],
+    "tips": [
+      "O 'k' de -dik suaviza para 'ğ' em todas as pessoas exceto na 3ª do plural: okuduğum, okuduğun, okuduğu, okuduğumuz, okuduğunuz, mas okudukları."
+    ]
+  },
+  {
+    "id": "lesson-b2-03-condicional-real-irreal",
+    "level": "B2",
+    "levelLabel": "Intermediário Superior B2",
+    "title": "Modo Condicional (Şart: -se/-sa e ise) Real e Irreal",
+    "category": "Modos Verbais",
+    "readTimeMinutes": 12,
+    "summary": "Domine as orações condicionais ('se chover, fico em casa' vs 'se eu fosse rico, viajaria o mundo').",
+    "theory": "O condicional turco usa o sufixo `-se / -sa`.\n\n### 1. Condição Real no Presente/Futuro:\n- `Hava güzel olursa pikniğe gideriz.` = Se o tempo ficar bom, iremos ao piquenique.\n- `Gelirsen sevinirim.` = Se você vier, ficarei feliz.\n\n### 2. Condição Hipotética / Contrafactual Irreal (-seydi):\nEquivale ao imperfeito do subjuntivo + futuro do pretérito em português:\n- `Zengin **olsaydım**, dünyayı gezerdim.` = Se eu **fosse** rico, viajaria o mundo.\n- `Bil**seydim**, sana söylerdim.` = Se eu **soubesse**, teria lhe dito.",
+    "tables": [
+      {
+        "title": "Condição Real vs Contrafactual",
+        "headers": [
+          "Tipo de Condição",
+          "Construção",
+          "Exemplo",
+          "Tradução"
+        ],
+        "rows": [
+          [
+            "Real / Possível",
+            "Raiz + se/sa",
+            "Gelirse haber ver",
+            "Se ele vier, avise"
+          ],
+          [
+            "Hipotética / Irreal",
+            "Raiz + seydi/saydı",
+            "Bilsen şaşırırsın",
+            "Se você soubesse, ficaria surpreso"
+          ],
+          [
+            "Passado Irreal",
+            "Raiz + seydi + rdi",
+            "Çalışsaydım kazanırdım",
+            "Se eu tivesse estudado, teria passado"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Keşke",
+        "portuguese": "Quem dera / Oxalá / Tomara",
+        "pronunciation": "kesh-ke",
+        "category": "Desejos",
+        "example": "Keşke burada olsaydın! (Quem dera você estivesse aqui!)"
+      },
+      {
+        "turkish": "Eğer",
+        "portuguese": "Se (opcional de reforço)",
+        "pronunciation": "e-yer",
+        "category": "Condicionais",
+        "example": "Eğer vaktin varsa gel. (Se tiver tempo, venha.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Tolga",
+        "turkish": "Piyangoyu kazansan ne yapardın?",
+        "portuguese": "Se você ganhasse na loteria, o que faria?"
+      },
+      {
+        "speaker": "Nazlı",
+        "turkish": "Bir sahil kasabasına taşınırdım.",
+        "portuguese": "Eu me mudaria para uma cidade litorânea."
+      }
+    ],
+    "tips": [
+      "'Keşke' com o condicional expressa saudade ou arrependimento com grande intensidade emocional: 'Keşke gitmeseydim' (Quem dera eu não tivesse ido)."
+    ]
+  },
+  {
+    "id": "lesson-b2-04-voz-passiva",
+    "level": "B2",
+    "levelLabel": "Intermediário Superior B2",
+    "title": "Voz Passiva (Edilgen Çatı: -(i)l / -(i)n)",
+    "category": "Diátese Verbal",
+    "readTimeMinutes": 11,
+    "summary": "Transforme frases ativas em passivas ('a carta foi escrita', 'a porta foi aberta', 'vende-se').",
+    "theory": "Na voz passiva turca, o objeto passa a ser o sujeito gramatical da ação:\n\n### Regras de Formação:\n1. **Regra Geral:** Adiciona-se `-il / -ıl / -ul / -ül` ao radical:\n   - `Yazmak` (escrever) ➔ `Yazılmak` (ser escrito): *Mektup yazıldı* (A carta foi escrita).\n   - `Açmak` (abrir) ➔ `Açılmak` (ser aberto): *Kapı açıldı* (A porta foi aberta).\n2. **Se o verbo terminar na consoante L ou em vogal:** Usa-se `-in / -ın / -un / -ün` ou apenas `-n`:\n   - `Temizlemek` (limpar) ➔ `Temizlenmek` (ser limpo): *Oda temizlendi* (O quarto foi limpo).\n   - `Bulmak` (encontrar) ➔ `Bulunmak` (ser encontrado).\n\n### Agente da Passiva com 'Tarafından':\nPara indicar QUEM praticou a ação na voz passiva, usa-se a palavra **tarafından** (por / da parte de):\n- `Kitap Atatürk tarafından yazıldı.` = O livro foi escrito por Atatürk.",
+    "tables": [
+      {
+        "title": "Verbos Ativos vs Verbos Passivos",
+        "headers": [
+          "Voz Ativa",
+          "Significado",
+          "Voz Passiva",
+          "Significado Passivo"
+        ],
+        "rows": [
+          [
+            "Yapmak",
+            "Fazer",
+            "Yapılmak",
+            "Ser feito"
+          ],
+          [
+            "Satmak",
+            "Vender",
+            "Satılmak",
+            "Ser vendido"
+          ],
+          [
+            "Görmek",
+            "Ver",
+            "Görülmek",
+            "Ser visto"
+          ],
+          [
+            "Anlamak",
+            "Entender",
+            "Anlaşılmak",
+            "Ser compreendido"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Tarafından",
+        "portuguese": "Por / Da parte de (agente da passiva)",
+        "pronunciation": "ta-ra-fun-dan",
+        "category": "Sintaxe",
+        "example": "Polis tarafından yakalandı. (Foi capturado pela polícia.)"
+      },
+      {
+        "turkish": "Satılık",
+        "portuguese": "À venda",
+        "pronunciation": "sa-tu-luk",
+        "category": "Comércio",
+        "example": "Satılık daire. (Apartamento à venda.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Gazeteci",
+        "turkish": "Köprü ne zaman açıldı?",
+        "portuguese": "Quando a ponte foi aberta?"
+      },
+      {
+        "speaker": "Yetkili",
+        "turkish": "Geçen ay cumhurbaşkanı tarafından açıldı.",
+        "portuguese": "Foi aberta no mês passado pelo presidente."
+      }
+    ],
+    "tips": [
+      "Avisos públicos na Turquia quase sempre usam a voz passiva: 'Girilmez' (Entrada proibida / Não se entra), 'Sigara içilmez' (Proibido fumar / Não se fuma cigarro)."
+    ]
+  },
+  {
+    "id": "lesson-b2-05-voz-causativa",
+    "level": "B2",
+    "levelLabel": "Intermediário Superior B2",
+    "title": "Voz Causativa (Ettirgen: -dir, -t, -ir - 'Fazer alguém fazer')",
+    "category": "Diátese Verbal",
+    "readTimeMinutes": 12,
+    "summary": "Aprenda a dizer que você mandou cortar o cabelo, fez o bebê dormir ou mandou consertar o carro.",
+    "theory": "O turco não precisa do verbo auxiliar 'mandar fazer' (como 'mandei pintar a casa'). Ele anexa **sufixos causativos** diretamente na raiz do verbo:\n\n### Os Três Sufixos Causativos:\n1. **-dir / -dır / -dur / -dür** (ou `-tir...` após Fıstıkçı):\n   - `Bilmek` (saber) ➔ `Bildirmek` (fazer saber / informar).\n   - `Gülmek` (rir) ➔ `Güldürmek` (fazer rir).\n2. **-t** (para raízes polissilábicas terminadas em vogal, r ou l):\n   - `Aramak` (procurar) ➔ `Aratmak` (mandar procurar).\n   - `Temizlemek` (limpar) ➔ `Temizletmek` (mandar limpar).\n3. **-ir / -ır:**\n   - `İçmek` (beber) ➔ `İçirmek` (fazer beber / amamentar).\n   - `Pişmek` (cozinhar-se) ➔ `Pişirmek` (cozinhar algo).",
+    "tables": [
+      {
+        "title": "Exemplos Clássicos da Voz Causativa",
+        "headers": [
+          "Verbo Base",
+          "Significado",
+          "Forma Causativa",
+          "Significado Causativo"
+        ],
+        "rows": [
+          [
+            "Kesmek",
+            "Cortar",
+            "Kestirmek",
+            "Mandar cortar (ex: cabelo)"
+          ],
+          [
+            "Tamir etmek",
+            "Consertar",
+            "Tamir ettirmek",
+            "Mandar consertar"
+          ],
+          [
+            "Okumak",
+            "Ler",
+            "Okutmak",
+            "Fazer ler / Mandar para a escola"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Saç kestirmek",
+        "portuguese": "Cortar o cabelo (mandar o barbeiro cortar)",
+        "pronunciation": "satch kes-tir-mek",
+        "category": "Cotidiano",
+        "example": "Berberde saçımı kestirdim. (Cortei o cabelo no barbeiro.)"
+      },
+      {
+        "turkish": "Güldürmek",
+        "portuguese": "Fazer rir",
+        "pronunciation": "gyul-dür-mek",
+        "category": "Ações",
+        "example": "Beni çok güldürdün. (Você me fez rir muito.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Sarp",
+        "turkish": "Arabanı kendin mi tamir ettin?",
+        "portuguese": "Você mesmo consertou seu carro?"
+      },
+      {
+        "speaker": "Kaan",
+        "turkish": "Hayır, tamirciye tamir ettirdim.",
+        "portuguese": "Não, mandei consertar no mecânico."
+      }
+    ],
+    "tips": [
+      "Quando um brasileiro diz 'cortei o cabelo', em turco deve-se usar 'kestirdim' (mandei cortar), a menos que você mesmo tenha pego a tesoura e cortado seu próprio cabelo!"
+    ]
+  },
+  {
+    "id": "lesson-b2-06-voz-reflexiva-reciproca",
+    "level": "B2",
+    "levelLabel": "Intermediário Superior B2",
+    "title": "Voz Reflexiva (-in) e Recíproca (-iş: Ações Mútuas)",
+    "category": "Diátese Verbal",
+    "readTimeMinutes": 11,
+    "summary": "Diga 'vestir-se', 'lavar-se' (reflexivo) e 'encontrar-se', 'abraçar-se', 'cumprimentar-se' (recíproco).",
+    "theory": "**1. Voz Reflexiva (Dönüşlü: sufixo -(i)n):**\nO sujeito pratica a ação sobre si mesmo:\n- `Yıkamak` (lavar) ➔ `Yıkanmak` (lavar-se / tomar banho).\n- `Giyinmek` = Vestir-se.\n- `Taranmak` = Pentear-se.\n\n**2. Voz Recíproca / Coletiva (İşteş: sufixo -(i)ş):**\nDois ou mais sujeitos praticam a ação mutuamente ou em grupo:\n- `Görmek` (ver) ➔ `Görüşmek` (verem-se / encontrar-se / conversar). Daqui vem a despedida **Görüşürüz!**\n- `Selamlamak` (cumprimentar) ➔ `Selamlaşmak` (cumprimentarem-se).\n- `Sarılmak` ➔ `Kucaklaşmak` (abraçarem-se).\n- `Yazmak` (escrever) ➔ `Yazışmak` (trocar mensagens escritas).",
+    "tables": [
+      {
+        "title": "Verbos Recíprocos Notáveis",
+        "headers": [
+          "Verbo Simples",
+          "Significado",
+          "Forma Recíproca (-iş)",
+          "Significado Recíproco"
+        ],
+        "rows": [
+          [
+            "Görmek",
+            "Ver",
+            "Görüşmek",
+            "Encontrarem-se / Conversarem"
+          ],
+          [
+            "Anlamak",
+            "Compreender",
+            "Anlaşmak",
+            "Entenderem-se / Chegar a um acordo"
+          ],
+          [
+            "Tanımak",
+            "Conhecer",
+            "Tanışmak",
+            "Apresentarem-se / Conhecerem-se"
+          ],
+          [
+            "Öpmek",
+            "Beijar",
+            "Öpüşmek",
+            "Beijarem-se"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Tanışmak",
+        "portuguese": "Conhecerem-se",
+        "pronunciation": "ta-nush-mak",
+        "category": "Relações",
+        "example": "Nerede tanıştınız? (Onde vocês se conheceram?)"
+      },
+      {
+        "turkish": "Anlaşmak",
+        "portuguese": "Chegar a acordo",
+        "pronunciation": "an-lash-mak",
+        "category": "Relações",
+        "example": "Sonunda anlaştık. (Finalmente chegamos a um acordo.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Gizem",
+        "turkish": "Yarın saat kaçta görüşüyoruz?",
+        "portuguese": "A que horas nos encontramos amanhã?"
+      },
+      {
+        "speaker": "Kerim",
+        "turkish": "Öğleden sonra ikide meydanda buluşalım.",
+        "portuguese": "Vamos nos encontrar na praça às duas da tarde."
+      }
+    ],
+    "tips": [
+      "A palavra 'Görüşürüz' é literalmente 'Nós nos vemos mutuamente no futuro' (gör-ü-ş-ür-üz)."
+    ]
+  },
+  {
+    "id": "lesson-b2-07-gerundios-avancados",
+    "level": "B2",
+    "levelLabel": "Intermediário Superior B2",
+    "title": "Gerúndios e Conectores Verbais: -(y)erek, -meksizin, -(y)e -(y)e",
+    "category": "Conectivos Verbais",
+    "readTimeMinutes": 10,
+    "summary": "Expresse o modo como uma ação é feita ('fazendo', 'sem fazer nada', 'pouco a pouco').",
+    "theory": "**1. -(y)erek / -(y)arak = 'Fazendo / Por meio de' (Modo de ação):**\n- `Müzik dinleyerek çalışıyorum.` = Trabalho ouvindo música.\n- `Koşarak geldi.` = Veio correndo.\n\n**2. -meksizin / -maksızın = 'Sem fazer' (Registro formal/avançado):**\n- `Durmaksızın çalıştı.` = Trabalhou sem parar / ininterruptamente.\n- `Hiç düşünmeksizin kabul etti.` = Aceitou sem pensar nada.\n\n**3. Repetição -(y)e -(y)e = 'Gradualmente / Fazendo repetidamente':**\n- `Güle güle` = Vá sorrindo!\n- `Konuşa konuşa öğrendim.` = Aprendi conversando dia após dia.",
+    "tables": [
+      {
+        "title": "Gerúndios Modais em Turco",
+        "headers": [
+          "Sufixo",
+          "Função",
+          "Exemplo",
+          "Tradução"
+        ],
+        "rows": [
+          [
+            "-(y)erek",
+            "Modo simultâneo",
+            "Gülerek anlattı",
+            "Contou rindo"
+          ],
+          [
+            "-meksizin",
+            "Sem (negativo formal)",
+            "Dinlenmeksizin",
+            "Sem descansar"
+          ],
+          [
+            "-(y)e -(y)e",
+            "Ação contínua e gradual",
+            "Ağlaya ağlaya",
+            "Chorando repetidamente"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Koşarak",
+        "portuguese": "Correndo",
+        "pronunciation": "ko-sha-rak",
+        "category": "Gerúndio",
+        "example": "Koşarak otobüse yetişti. (Alcançou o ônibus correndo.)"
+      },
+      {
+        "turkish": "Durmaksızın",
+        "portuguese": "Ininterruptamente / Sem cessar",
+        "pronunciation": "dur-mak-su-zun",
+        "category": "Advérbios",
+        "example": "Yağmur durmaksızın yağıyor. (A chuva cai sem cessar.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Hoca",
+        "turkish": "Türkçeni nasıl geliştirdin?",
+        "portuguese": "Como você aprimorou seu turco?"
+      },
+      {
+        "speaker": "Öğrenci",
+        "turkish": "Her gün pratik yaparak ve film izleyerek geliştirdim.",
+        "portuguese": "Aprimorei praticando todos os dias e assistindo a filmes."
+      }
+    ],
+    "tips": [
+      "O famoso cumprimento de despedida 'Güle güle' é um gerúndio duplicado: 'Vá sorrindo, sorrindo'."
+    ]
+  },
+  {
+    "id": "lesson-b2-08-sufixos-derivacionais",
+    "level": "B2",
+    "levelLabel": "Intermediário Superior B2",
+    "title": "Sufixos Derivacionais Produtivos: -lik, -ci, -siz, -li, -daş",
+    "category": "Morfologia Derivacional",
+    "readTimeMinutes": 11,
+    "summary": "Multiplique seu vocabulário por 5 aprendendo a criar novas palavras a partir de raízes simples.",
+    "theory": "O turco constrói substantivos e adjetivos com sufixos extremamente produtivos:\n\n1. **-ci / -cı / -cu / -cü = O profissional ou entusiasta:**\n   - `Çay` (chá) ➔ `Çaycı` (o vendedor/preparador de chá).\n   - `Kitap` (livro) ➔ `Kitapçı` (o livreiro / livraria).\n   - `Futbol` ➔ `Futbolcu` (jogador de futebol).\n\n2. **-lik / -lık / -luk / -lük = Abstração, recipiente ou finalidade:**\n   - `Göz` (olho) ➔ `Gözlük` (óculos).\n   - `Tuz` (sal) ➔ `Tuzluk` (saleiro).\n   - `Güzel` (belo) ➔ `Güzellik` (beleza).\n   - `Öğretmen` ➔ `Öğretmenlik` (a profissão de professor / docência).\n\n3. **-li (Com / Dotado de) vs -siz (Sem / Desprovido de):**\n   - `Şekerli` (com açúcar) vs `Şekersiz` (sem açúcar).\n   - `Evli` (casado / com casa) vs `Bekâr` (solteiro).\n   - `Evsiz` (sem teto).\n\n4. **-daş / -deş = Compartilhador / Colega:**\n   - `Vatan` (pátria) ➔ `Vatandaş` (cidadão / compatriota).\n   - `Arkadaş` (amigo / companheiro de costas/apoio).",
+    "tables": [
+      {
+        "title": "Família de Palavras Derivadas a partir de 'Göz' (Olho)",
+        "headers": [
+          "Palavra Derivada",
+          "Sufixo Usado",
+          "Significado em Português"
+        ],
+        "rows": [
+          [
+            "Gözlük",
+            "-lük (objeto/instrumento)",
+            "Óculos"
+          ],
+          [
+            "Gözlükçü",
+            "-çü (profissão)",
+            "Ótico (quem vende óculos)"
+          ],
+          [
+            "Gözlükçülük",
+            "-lük (profissão abstrata)",
+            "A profissão da ótica"
+          ],
+          [
+            "Gözlem",
+            "-lem (ação mental)",
+            "Observação"
+          ],
+          [
+            "Gözsüz",
+            "-süz (privação)",
+            "Cego / Sem olhos"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Arkadaş",
+        "portuguese": "Amigo(a)",
+        "pronunciation": "ar-ka-dash",
+        "category": "Relações",
+        "example": "Eski bir arkadaşım. (Um velho amigo meu.)"
+      },
+      {
+        "turkish": "Vatandaş",
+        "portuguese": "Cidadão",
+        "pronunciation": "va-tan-dash",
+        "category": "Sociedade",
+        "example": "Türkiye Cumhuriyeti vatandaşı. (Cidadão da República da Turquia.)"
+      },
+      {
+        "turkish": "Gözlük",
+        "portuguese": "Óculos",
+        "pronunciation": "göz-lyuk",
+        "category": "Objetos",
+        "example": "Gözlüğümü unuttum. (Esqueci meus óculos.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Alıcı",
+        "turkish": "En yakın kitapçı nerede?",
+        "portuguese": "Onde fica a livraria mais próxima?"
+      },
+      {
+        "speaker": "Esnaf",
+        "turkish": "Şu köşeyi dönünce sağda bir kitapçı var.",
+        "portuguese": "Ao virar aquela esquina, há uma livraria à direita."
+      }
+    ],
+    "tips": [
+      "A palavra 'Arkadaş' vem historicamente de 'Arka' (costas/retaguarda) + 'daş' (compartilhador): o amigo é aquele que cuida das suas costas nas batalhas!"
+    ]
+  },
+  {
+    "id": "lesson-c1-01-tempos-compostos-modais",
+    "level": "C1",
+    "levelLabel": "Avançado C1",
+    "title": "Tempos Compostos Duplos: Pretérito Imperfeito (-iyordu) e Mais-que-perfeito (-mişti)",
+    "category": "Morfologia Verbal Avançada",
+    "readTimeMinutes": 12,
+    "summary": "Domine a sobreposição de sufixos de tempo para narrar ações que costumavam acontecer ou eventos anteriores a outro evento passado.",
+    "theory": "No nível C1, os tempos verbais turcos combinam dois marcadores temporais na mesma forma verbal:\n\n### 1. Şimdiki Zamanın Hikâyesi (-iyordu): O Pretérito Imperfeito\nExpressa uma ação contínua no passado ('eu estava fazendo' ou 'eu costumava fazer'):\n- `İstanbul'da yaşarken her gün boğazda yürüyordum.` = Quando morava em Istambul, caminhava todos os dias pelo Bósforo.\n- `Seni arayacaktım ama vaktim yoktu.` = Eu ia te ligar (futuro no passado: -ecekti), mas não tive tempo.\n\n### 2. Geniş Zamanın Hikâyesi (-erdi / -irdi): Hábitos Passados\nEquivale a 'costumava fazer':\n- `Gençken çok futbol oynardım.` = Quando jovem, jogava muito futebol.\n\n### 3. Mais-que-perfeito (-mişti / -mişti):\nExpressa uma ação já concluída antes de outro marco temporal no passado:\n- `Tren çoktan gitmişti.` = O trem já havia partido.\n- `O kitabı daha önce okumuştum.` = Eu já tinha lido aquele livro antes.",
+    "tables": [
+      {
+        "title": "Quadro dos Tempos Compostos em Turco",
+        "headers": [
+          "Tempo Composto",
+          "Construção",
+          "Exemplo",
+          "Tradução em Português"
+        ],
+        "rows": [
+          [
+            "Passado Contínuo (Imperfeito)",
+            "Verbo + iyor + du",
+            "Bekliyordum",
+            "Eu estava esperando / Eu esperava"
+          ],
+          [
+            "Passado do Aoristo",
+            "Verbo + er/ir + di",
+            "Giderdim",
+            "Eu costumava ir"
+          ],
+          [
+            "Mais-que-perfeito",
+            "Verbo + miş + ti",
+            "Görmüştüm",
+            "Eu já havia visto / Eu tinha visto"
+          ],
+          [
+            "Futuro do Pretérito",
+            "Verbo + ecek + ti",
+            "Yapacaktım",
+            "Eu ia fazer / Faria"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Çoktan",
+        "portuguese": "Há muito tempo / Já",
+        "pronunciation": "tçok-tan",
+        "category": "Advérbios",
+        "example": "Film çoktan başlamıştı. (O filme já tinha começado há muito.)"
+      },
+      {
+        "turkish": "Eskiden",
+        "portuguese": "Antigamente",
+        "pronunciation": "es-ki-den",
+        "category": "Tempo",
+        "example": "Eskiden buralar hep tarlaydı. (Antigamente tudo isso aqui era campo.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Derya",
+        "turkish": "Toplantıya neden gelmedin?",
+        "portuguese": "Por que você não veio à reunião?"
+      },
+      {
+        "speaker": "Kaan",
+        "turkish": "Tam evden çıkıyordum ki elektrikler kesildi.",
+        "portuguese": "Eu estava bem saindo de casa quando a energia acabou."
+      }
+    ],
+    "tips": [
+      "A construção '-ecekti' é a desculpa perfeita em turco: 'Gelecektim ama...' (Eu ia vir, mas...)."
+    ]
+  },
+  {
+    "id": "lesson-c1-02-evidenciais-compostos",
+    "level": "C1",
+    "levelLabel": "Avançado C1",
+    "title": "Evidenciais Compostos e Nuances Epistêmicas (-mişmiş, -iyormuş)",
+    "category": "Semântica & Pragmática",
+    "readTimeMinutes": 11,
+    "summary": "Aprenda a expressar ironia, ceticismo ('disse ele que fez...') e relato indireto de segunda mão.",
+    "theory": "O turco permite empilhar o evidencial `-miş` para criar efeitos irônicos e narrativos refinados:\n\n1. **Relato Indireto em Andamento (-iyormuş):**\n   - `Ali evleniyormuş!` = Disseram que o Ali está se casando! (ouvi a notícia).\n   - `Yeni bir iş arıyormuş.` = Dizem que ele está procurando emprego novo.\n\n2. **O Duplo -miş (-mişmiş): Ironia e Descrédito:**\n   - Quando alguém conta uma história duvidosa e você não acredita:\n   - `Sınavı kazanmışmış!` = Ah, disse ele que passou na prova! (aham, sei...).\n   - `Çok çalışıyormuşmuş!` = 'Trabalha muito', sei bem!\n\n3. **Obrigação Evidencial (-meliymiş):**\n   - `Doktor söyledi, her gün yürüyecekmişim.` = O médico disse que eu tenho que caminhar todo dia.",
+    "tables": [
+      {
+        "title": "Nuances dos Evidenciais Compostos",
+        "headers": [
+          "Sufixo Composto",
+          "Nuance Comunicativa",
+          "Exemplo",
+          "Tradução"
+        ],
+        "rows": [
+          [
+            "-iyormuş",
+            "Notícia que você ouviu",
+            "İstanbul'a taşınıyormuş",
+            "Fiquei sabendo que ele está se mudando para Istambul"
+          ],
+          [
+            "-ecekmiş",
+            "Intenção relatada por terceiro",
+            "Yarın arayacakmış",
+            "Ele disse que vai ligar amanhã"
+          ],
+          [
+            "-mişmiş",
+            "Sarcasmo / Dúvida sobre o que foi dito",
+            "Beni arayacakmışmış",
+            "Disse a madame que ia me ligar (duvido!)"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Sözde",
+        "portuguese": "Supostamente / Dizem que",
+        "pronunciation": "söz-de",
+        "category": "Modais",
+        "example": "Sözde gelecekti. (Supostamente ele viria.)"
+      },
+      {
+        "turkish": "Meğerse",
+        "portuguese": "Descobriu-se que / No fim das contas",
+        "pronunciation": "me-yer-se",
+        "category": "Conectivos",
+        "example": "Meğerse haklıymış. (No fim das contas descobriu-se que ele tinha razão.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Banu",
+        "turkish": "Patron maaşlara zam yapacakmış!",
+        "portuguese": "Disseram que o patrão vai dar aumento nos salários!"
+      },
+      {
+        "speaker": "Cem",
+        "turkish": "Geçen yıl da yapacakmışmış, hiç sanmıyorum.",
+        "portuguese": "Ano passado 'ia dar' também... duvido muito."
+      }
+    ],
+    "tips": [
+      "Use '-mişmiş' com moderação e tom brincalhão; é uma das formas mais nativas e expressivas do sarcasmo turco."
+    ]
+  },
+  {
+    "id": "lesson-c1-03-oracoes-concessivas",
+    "level": "C1",
+    "levelLabel": "Avançado C1",
+    "title": "Orações Concessivas Complexas: -mesine rağmen, -(y)se bile",
+    "category": "Sintaxe Avançada",
+    "readTimeMinutes": 11,
+    "summary": "Construa raciocínios concessivos avançados: 'mesmo que faça sol', 'apesar de não ter dinheiro', 'por mais que tente'.",
+    "theory": "No nível C1, a concessão ('embora', 'mesmo que', 'apesar de') atinge maturidade estilística:\n\n### 1. Verbo + -mesine / -masına rağmen (Apesar de fazer...):\nUsa o substantivo verbal `-me` + possessivo de 3ª pessoa + dativo + `rağmen`:\n- `Çok çalış**masına rağmen** sınavı geçemedi.` = Apesar de ele ter estudado muito, não passou na prova.\n- `Hava soğuk ol**masına rağmen** denize girdi.` = Apesar de o tempo estar frio, entrou no mar.\n\n### 2. -(y)se bile / -sa dahi (Mesmo que... / Ainda que...):\n- `Kıyamet kop**sa bile** seni terk etmem.` = Mesmo que o mundo acabe, não te deixo.\n- `Geç kal**sa da** sorun değil.` = Mesmo se ele atrasar, não tem problema.\n\n### 3. Her ne kadar ... ise de (Por mais que... ainda assim):\nFórmula de alta retórica literária:\n- `Her ne kadar zor olsa da başaracağız.` = Por mais difícil que seja, nós triunfaremos.",
+    "tables": [
+      {
+        "title": "Concessões Formais vs Coloquiais",
+        "headers": [
+          "Estrutura",
+          "Registro",
+          "Exemplo",
+          "Tradução"
+        ],
+        "rows": [
+          [
+            "-mesine rağmen",
+            "Formal / Padrão",
+            "Yorulmasına rağmen durmadı",
+            "Apesar de ter cansado, não parou"
+          ],
+          [
+            "-se bile",
+            "Conversacional / Enfático",
+            "Özür dilese bile affetmem",
+            "Mesmo se pedir desculpas, não perdoo"
+          ],
+          [
+            "Her ne kadar...",
+            "Literário / Chancelaria",
+            "Her ne kadar reddetse de...",
+            "Por mais que ele recuse..."
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Bile / Dahi",
+        "portuguese": "Mesmo / Até mesmo",
+        "pronunciation": "bi-le",
+        "category": "Enfáticos",
+        "example": "Çocuk bile bunu anlar. (Até uma criança entende isto.)"
+      },
+      {
+        "turkish": "Rağmen",
+        "portuguese": "Apesar de",
+        "pronunciation": "raam-men",
+        "category": "Concessivos",
+        "example": "Bütün uyarılara rağmen. (Apesar de todos os avisos.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Avukat",
+        "turkish": "Müvekkilim her ne kadar suçlamaları reddetse de deliller aleyhine.",
+        "portuguese": "Por mais que meu cliente rejeite as acusações, as provas depõem contra ele."
+      },
+      {
+        "speaker": "Hâkim",
+        "turkish": "Tanık ifadelerine rağmen yeni bir rapor talep ediyoruz.",
+        "portuguese": "Apesar dos depoimentos das testemunhas, solicitamos um novo laudo."
+      }
+    ],
+    "tips": [
+      "'-mesine rağmen' exige sempre o pronome ou substantivo com genitivo se o sujeito for explícito: 'benim söylememe rağmen' (apesar de eu ter dito)."
+    ]
+  },
+  {
+    "id": "lesson-c1-04-nominalizacoes-avancadas",
+    "level": "C1",
+    "levelLabel": "Avançado C1",
+    "title": "Nominalizações Complexas: -ma/-me vs -mak/-mek vs -(y)ış/-(y)iş",
+    "category": "Morfologia Nominal",
+    "readTimeMinutes": 12,
+    "summary": "Distinga o infinitivo neutro (-mak), a ação substantivada flexível (-ma) e o estilo/maneira de fazer (-iş).",
+    "theory": "O turco possui três sufixos para transformar verbos em nomes:\n\n1. **-mak / -mek (Infinitivo Estático):**\n   - Nome puro do verbo, não aceita sufixos possessivos regulares:\n   - `Sigara içmek sağlığa zararlıdır.` = Fumar cigarro é prejudicial à saúde.\n\n2. **-ma / -me (Nome de Ação Flexível):**\n   - Aceita todos os sufixos possessivos e casos gramaticais. Essencial para subordinar orações com verbos como *istemek* e *karar vermek*:\n   - `Senin gel**me**ni istiyorum.` = Quero a tua vinda (Quero que você venha).\n   - `Tatile git**me**ye karar verdik.` = Decidimos ir de férias.\n\n3. **-(y)ış / -(y)iş / -(y)uş / -(y)üş (O Modo / Estilo de Ação):**\n   - Descreve a forma estética ou particular como algo ocorre:\n   - `Bakış` = O olhar / a maneira de olhar.\n   - `Gülüş` = O sorriso / o jeito de sorrir.\n   - `Güneşin batışı` = O pôr do sol.",
+    "tables": [
+      {
+        "title": "Comparação das Três Formas de Nominalização (Verbo Bakmak - Olhar)",
+        "headers": [
+          "Forma",
+          "Sufixo",
+          "Significado",
+          "Exemplo de Uso"
+        ],
+        "rows": [
+          [
+            "Bakmak",
+            "-mak (infinitivo)",
+            "Olhar (o ato em si)",
+            "Aynaya bakmak (Olhar no espelho)"
+          ],
+          [
+            "Bakma",
+            "-ma (ação flexível)",
+            "O ato de olhar (com pessoa)",
+            "Bana öyle bakmanı istemiyorum (Não quero que me olhe assim)"
+          ],
+          [
+            "Bakış",
+            "-ış (maneira/estilo)",
+            "O olhar / expressão",
+            "Sıcak bir bakış (Um olhar acolhedor)"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Bakış",
+        "portuguese": "Olhar (estilo/expressão)",
+        "pronunciation": "ba-kush",
+        "category": "Substantivos",
+        "example": "Gözlerindeki o bakış. (Aquele olhar em seus olhos.)"
+      },
+      {
+        "turkish": "Gülüş",
+        "portuguese": "Sorriso / Jeito de rir",
+        "pronunciation": "gyu-lyush",
+        "category": "Substantivos",
+        "example": "Gülüşü çok güzel. (O sorriso dela é lindo.)"
+      },
+      {
+        "turkish": "Gidiş",
+        "portuguese": "Ida / Partida",
+        "pronunciation": "gi-dish",
+        "category": "Substantivos",
+        "example": "Gidiş-dönüş bileti. (Bilhete de ida e volta.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Şair",
+        "turkish": "Güneşin doğuşunu izledin mi hiç boğazda?",
+        "portuguese": "Você já assistiu ao nascer do sol no Bósforo alguma vez?"
+      },
+      {
+        "speaker": "Yazar",
+        "turkish": "Evet, o anın insanın ruhuna dokunuşu tarif edilemez.",
+        "portuguese": "Sim, o toque daquele instante na alma humana é indescritível."
+      }
+    ],
+    "tips": [
+      "Para dizer 'passagem de ida e volta', a expressão oficial é 'Gidiş-dönüş bileti'."
+    ]
+  },
+  {
+    "id": "lesson-c1-05-turco-formal-burocratico",
+    "level": "C1",
+    "levelLabel": "Avançado C1",
+    "title": "Turco Formal, Chancelaria e Correspondência Oficial (Dilekçe)",
+    "category": "Registro Formal",
+    "readTimeMinutes": 13,
+    "summary": "Aprenda a estrutura inviolável de um requerimento formal turco (Dilekçe), saudações protocolares e jargão corporativo.",
+    "theory": "Na Turquia, a administração pública e as grandes corporações seguem um protocolo linguístico rigorosíssimo:\n\n### 1. O Requerimento Formal (*Dilekçe*):\nQualquer solicitação oficial a uma universidade, prefeitura ou ministério exige o formato *Dilekçe*:\n- **Cabeçalho:** Nome da instituição em maiúsculas (ex: `İSTANBUL ÜNİVERSİTESİ REKTÖRLÜĞÜNE`).\n- **Corpo:** Fatos narrados em 3ª pessoa ou com verbos passivos (`... arz ederim`).\n- **Fecho Obrigatório:**\n  - De inferior para superior hierárquico: `Bilgilerinize arz ederim.` (Submeto respeitosamente ao vosso conhecimento).\n  - De superior para subordinado: `Gereğini rica ederim.` (Solicito que seja feito o necessário).\n  - Entre pares de mesmo nível: `Arz ve rica ederim.`\n\n### 2. Expressões Corporativas Essenciais:\n- `Saygılarımla` = Com meus respeitos / Atenciosamente.\n- `Gereğinin yapılmasını arz ederim` = Solicito que sejam tomadas as medidas cabíveis.\n- `Ekte bilgilerinize sunulmuştur` = Anexo para vossa apreciação.",
+    "tables": [
+      {
+        "title": "Fórmulas de Encerramento Oficial",
+        "headers": [
+          "Fórmula",
+          "Relação Hierárquica",
+          "Significado Literal",
+          "Equivalente em Português"
+        ],
+        "rows": [
+          [
+            "Arz ederim",
+            "Cidadão ➔ Autoridade",
+            "Apresento humildemente",
+            "Termos em que pede deferimento"
+          ],
+          [
+            "Rica ederim",
+            "Autoridade ➔ Cidadão",
+            "Peço com autoridade",
+            "Determino que se cumpra"
+          ],
+          [
+            "Saygılarımla",
+            "Empresarial / Geral",
+            "Com meus respeitos",
+            "Atenciosamente"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Dilekçe",
+        "portuguese": "Petição / Requerimento formal",
+        "pronunciation": "di-lek-tçe",
+        "category": "Burocracia",
+        "example": "Dilekçeyi imzaladım. (Assinei a petição.)"
+      },
+      {
+        "turkish": "Arz etmek",
+        "portuguese": "Submeter com respeito",
+        "pronunciation": "arz et-mek",
+        "category": "Formal",
+        "example": "Bilgilerinize arz ederim. (Submeto ao vosso conhecimento.)"
+      },
+      {
+        "turkish": "Saygılarımla",
+        "portuguese": "Atenciosamente / Com respeito",
+        "pronunciation": "say-gu-la-rum-la",
+        "category": "Formal",
+        "example": "Saygılarımla, Ahmet Yılmaz. (Atenciosamente, Ahmet Yılmaz.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Memur",
+        "turkish": "Başvurunuz için dilekçeniz var mı?",
+        "portuguese": "O senhor tem o seu requerimento formal para a inscrição?"
+      },
+      {
+        "speaker": "Vatandaş",
+        "turkish": "Evet, tüm belgelerim ve ıslak imzalı dilekçem burada.",
+        "portuguese": "Sim, todos os meus documentos e o requerimento com assinatura física estão aqui."
+      }
+    ],
+    "tips": [
+      "Em correspondência comercial turca, jamais termine uma carta para uma autoridade com 'rica ederim', pois isso soa como uma ordem de um chefe!"
+    ]
+  },
+  {
+    "id": "lesson-c1-06-regencia-verbal-avancada",
+    "level": "C1",
+    "levelLabel": "Avançado C1",
+    "title": "Regência Verbal Avançada e Peculiaridades de Casos Nominais",
+    "category": "Sintaxe & Regência",
+    "readTimeMinutes": 12,
+    "summary": "Evite os erros mais comuns de falantes de línguas latinas dominando quais verbos turcos exigem dativo, ablativo ou acusativo.",
+    "theory": "Muitos verbos turcos exigem um caso gramatical completamente diferente do português. Não traduza as preposições ao pé da letra!\n\n### 1. Verbos que exigem DATIVO (-(y)e) em turco (mas que em português usamos objeto direto):\n- **Yardım etmek** (ajudar): `Bana yardım et` (Me ajude - literal: faça ajuda A mim).\n- **Başlamak** (começar): `İşe başladım` (Comecei o trabalho - literal: comecei AO trabalho).\n- **Güvenmek** (confiar): `Sana güveniyorum` (Confio em você - literal: confio A você).\n- **İnanmak** (acreditar): `Bana inan!` (Acredite em mim!).\n- **Binmek** (embarcar / subir): `Otobüse bindim` (Subi no ônibus - literal: subi AO ônibus).\n\n### 2. Verbos que exigem ABLATIVO (-den) em turco:\n- **Korkmak** (ter medo): `Köpekten korkuyorum` (Tenho medo de cachorro).\n- **Nefret etmek** (odiar): `Yalandan nefret ederim` (Odeio mentira).\n- **Hoşlanmak** (gostar de): `Müzikten hoşlanırım` (Gosto de música).\n- **Bahsetmek** (falar sobre / mencionar): `Ondan bahsettik` (Falamos sobre ele/dela).",
+    "tables": [
+      {
+        "title": "Quadro de Regência Contrastiva: Turco vs Português",
+        "headers": [
+          "Verbo Turco",
+          "Caso Exigido em Turco",
+          "Construção em Português",
+          "Exemplo Correto em Turco"
+        ],
+        "rows": [
+          [
+            "Hoşlanmak",
+            "Ablativo (-den)",
+            "Gostar de (preposição de)",
+            "Senden hoşlanıyorum (Gosto de você)"
+          ],
+          [
+            "Korkmak",
+            "Ablativo (-den)",
+            "Ter medo de",
+            "Karanlıktan korkarım (Tenho medo do escuro)"
+          ],
+          [
+            "Binmek",
+            "Dativo (-(y)e)",
+            "Subir em / Pegar (ônibus/trem)",
+            "Trene bindi (Pegou o trem)"
+          ],
+          [
+            "Yardım etmek",
+            "Dativo (-(y)e)",
+            "Ajudar alguém (objeto direto)",
+            "Yaşlılara yardım etti (Ajudou os idosos)"
+          ],
+          [
+            "Nefret etmek",
+            "Ablativo (-den)",
+            "Odiar (objeto direto)",
+            "Savaştan nefret ediyoruz (Odiamos a guerra)"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Güvenmek",
+        "portuguese": "Confiar (+ Dativo)",
+        "pronunciation": "gyu-ven-mek",
+        "category": "Verbos",
+        "example": "Sana tüm kalbimle güveniyorum. (Confio em você com todo o meu coração.)"
+      },
+      {
+        "turkish": "Hoşlanmak",
+        "portuguese": "Gostar (+ Ablativo)",
+        "pronunciation": "hosh-lan-mak",
+        "category": "Verbos",
+        "example": "Türk mutfağından çok hoşlanıyorum. (Gosto muito da culinária turca.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Aylin",
+        "turkish": "Uçaktan korkuyor musun?",
+        "portuguese": "Você tem medo de avião?"
+      },
+      {
+        "speaker": "Cem",
+        "turkish": "Eskiden korkardım ama artık alıştım.",
+        "portuguese": "Antigamente eu tinha medo, mas agora já me acostumei."
+      }
+    ],
+    "tips": [
+      "Memorize sempre o verbo acompanhado do seu caso: 'birine yardım etmek' (dativo), 'bir şeyden korkmak' (ablativo)."
+    ]
+  },
+  {
+    "id": "lesson-c1-07-proverbios-culturais-c1",
+    "level": "C1",
+    "levelLabel": "Avançado C1",
+    "title": "Provérbios Turcos Essenciais (Atasözleri) no Debate Social",
+    "category": "Sabedoria Tradicional",
+    "readTimeMinutes": 11,
+    "summary": "Enriqueça seu discurso com os provérbios turcos mais citados em editoriais, conversas intelectuais e debates.",
+    "theory": "Os provérbios (*Atasözleri* - palavras dos antepassados) são a síntese poética de milênios de sabedoria nômade e anatólica:\n\n1. **Damlaya damlaya göl olur.**\n- *Literal:* Gota a gota se forma um lago.\n- *Sentido:* Economias pequenas e esforços consistentes constroem grandes fortunas.\n\n2. **Tatlı dil yılanı deliğinden çıkarır.**\n- *Literal:* A língua doce tira a serpente do seu buraco.\n- *Sentido:* Palavras gentis e corteses desarmam até os inimigos mais ferozes.\n\n3. **Gözden ırak olan gönülden de ırak olur.**\n- *Literal:* Quem está longe dos olhos fica longe do coração.\n- *Sentido:* Longe dos olhos, longe do coração.\n\n4. **Ayağını yorganına göre uzat.**\n- *Literal:* Estique seus pés de acordo com o seu cobertor.\n- *Sentido:* Viva dentro do seu orçamento financeiro.",
+    "tables": [
+      {
+        "title": "Provérbios e Seus Equivalentes em Português",
+        "headers": [
+          "Atasözü (Provérbio Turco)",
+          "Tradução Literal",
+          "Equivalente em Português"
+        ],
+        "rows": [
+          [
+            "Damlaya damlaya göl olur",
+            "Gota a gota vira lago",
+            "De grão em grão a galinha enche o papo"
+          ],
+          [
+            "Acele işe şeytan karışır",
+            "O diabo se intromete em trabalho apressado",
+            "A pressa é inimiga da perfeição"
+          ],
+          [
+            "Gülme komşuna, gelir başına",
+            "Não ria do teu vizinho, vai acontecer com você",
+            "Quem ri por último ri melhor / Não cuspa para cima"
+          ],
+          [
+            "Ev alma, komşu al",
+            "Não compre a casa, compre o vizinho",
+            "Mais vale um bom vizinho que um irmão distante"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Atasözü",
+        "portuguese": "Provérbio / Ditado",
+        "pronunciation": "a-ta-sö-zyu",
+        "category": "Cultura",
+        "example": "Eski bir Türk atasözü der ki... (Diz um velho provérbio turco que...)"
+      },
+      {
+        "turkish": "Deyim",
+        "portuguese": "Expressão idiomática",
+        "pronunciation": "de-yim",
+        "category": "Linguística",
+        "example": "Bu deyim çok kullanılır. (Esta expressão é muito usada.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Dede",
+        "turkish": "Oğlum, bütçeni aşma, ayağını yorganına göre uzat.",
+        "portuguese": "Meu filho, não extrapole o orçamento, estique os pés de acordo com o cobertor."
+      },
+      {
+        "speaker": "Torun",
+        "turkish": "Haklısın dedeciğim, tutumlu olacağım.",
+        "portuguese": "O senhor tem razão vovô, serei econômico."
+      }
+    ],
+    "tips": [
+      "Em discursos públicos ou redações formais na Turquia, abrir ou fechar com um 'atasözü' confere autoridade instantânea ao argumento."
+    ]
+  },
+  {
+    "id": "lesson-c1-08-literatura-sabahattin-pamuk",
+    "level": "C1",
+    "levelLabel": "Avançado C1",
+    "title": "Leitura Literária Avançada: De Sabahattin Ali a Orhan Pamuk",
+    "category": "Literatura Turca",
+    "readTimeMinutes": 14,
+    "summary": "Analise trechos literários clássicos e compreenda o vocabulário poético e existencial das grandes obras turcas.",
+    "theory": "A literatura turca do século XX e XXI é marcada pela tensão entre Oriente e Ocidente, memória e melancolia (*Hüzün*):\n\n### 1. Sabahattin Ali e 'Kürk Mantolu Madonna' (1943):\nA obra mais lida da literatura turca moderna. Explora o isolamento interior e o encontro com a alma gêmea:\n> *\"Dünyada bana hiçbir şey, tabiatın bir insana bir başkası vasıtasıyla söylediklerini dinlemek kadar derin bir haz vermemişti.\"*\n(Nada no mundo me havia dado um prazer tão profundo quanto escutar o que a natureza diz a uma pessoa por intermédio de outra.)\n\n### 2. Orhan Pamuk e o Conceito de 'Hüzün':\nEm seu livro *İstanbul: Hatıralar ve Şehir*, o vencedor do Prêmio Nobel de Literatura descreve a melancolia coletiva que cobre a antiga capital imperial:\n- **Hüzün:** Não é uma tristeza individual patológica, mas um sentimento estético e poético compartilhado por todos os habitantes diante das glórias do passado e da passagem do tempo.",
+    "tables": [
+      {
+        "title": "Grandes Nomes das Letras Turcas",
+        "headers": [
+          "Autor",
+          "Obra Notável",
+          "Período",
+          "Temática Central"
+        ],
+        "rows": [
+          [
+            "Sabahattin Ali",
+            "Kürk Mantolu Madonna",
+            "Século XX (1943)",
+            "Solidão, sensibilidade e profundidade psicológica"
+          ],
+          [
+            "Nazım Hikmet",
+            "Memleketimden İnsan Manzaraları",
+            "Século XX",
+            "Poesia social, humanismo e vanguarda"
+          ],
+          [
+            "Orhan Pamuk",
+            "Benim Adım Kırmızı / Kar",
+            "Século XXI (Nobel)",
+            "Identidade turca, miniaturas otomanas e hüzün"
+          ],
+          [
+            "Yaşar Kemal",
+            "İnce Memed",
+            "Século XX",
+            "A vida árdua e heroica na Anatólia camponesa"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Hüzün",
+        "portuguese": "Melancolia profunda / Saudade poética",
+        "pronunciation": "hyu-zyun",
+        "category": "Conceitos Culturais",
+        "example": "İstanbul'un sokaklarında hüzün var. (Há uma melancolia nas ruas de Istambul.)"
+      },
+      {
+        "turkish": "Şiir",
+        "portuguese": "Poema / Poesia",
+        "pronunciation": "shi-ir",
+        "category": "Literatura",
+        "example": "Nazım Hikmet'in şiirleri. (Os poemas de Nazım Hikmet.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Okur",
+        "turkish": "Kürk Mantolu Madonna'yı okudun mu?",
+        "portuguese": "Você leu 'A Madonna com Casaco de Peles'?"
+      },
+      {
+        "speaker": "Eleştirmen",
+        "turkish": "Evet, insanın iç dünyasını bu kadar zarif anlatan az roman vardır.",
+        "portuguese": "Sim, há poucos romances que descrevam o mundo interior humano com tanta elegância."
+      }
+    ],
+    "tips": [
+      "A palavra 'Hüzün' é para os turcos o que a 'Saudade' é para os falantes de português: um estado de espírito intraduzível em toda a sua plenitude."
+    ]
+  },
+  {
+    "id": "lesson-c2-01-etimologia-raizes",
+    "level": "C2",
+    "levelLabel": "Maestria C2",
+    "title": "Etimologia do Turco: Raízes Túrquicas, Camadas Árabes/Persas e o Öztürkçe",
+    "category": "Filologia & História",
+    "readTimeMinutes": 14,
+    "summary": "Mergulhe na estratigrafia histórica do vocabulário turco: das estepes da Ásia Central aos palácios otomanos e aos neologismos republicanos.",
+    "theory": "O léxico turco é uma tapeçaria milenar com quatro grandes estratos linguísticos:\n\n1. **O Estrato Túrquico Nativo (Öztürkçe):**\n   - Palavras curtas, concretas e conectadas à natureza, anatomia e laços familiares: *su* (água), *göz* (olho), *anne* (mãe), *at* (cavalo), *dağ* (montanha).\n\n2. **O Estrato Árabe (Língua da Religião, Ciência e Direito Otomano):**\n   - Palavras com raiz trilateral consonantal semítica: *kitap* (raiz k-t-b: escrever), *hukuk* (direito/leis), *adalet* (justiça), *fikir* (ideia).\n\n3. **O Estrato Persa (Língua da Poesia, Alta Cultura e Gastronomia):**\n   - *Can* (alma/vida), *aşk* (amor apaixonado), *bahçe* (jardim), *rüzgâr* (vento), *çarşı* (mercado).\n\n4. **Os Neologismos da Reforma Republicana (Dil Devrimi):**\n   - Criados a partir de 1932 para substituir arabismos:\n   - *Mektep* (árabe) ➔ Substituído por **Okul** (criado do verbo *okumak* = ler/estudar).\n   - *Muallim* (árabe) ➔ Substituído por **Öğretmen** (do verbo *öğretmek*).\n   - *Tayyare* (árabe) ➔ Substituído por **Uçak** (do verbo *uçmak* = voar).",
+    "tables": [
+      {
+        "title": "Camadas Etimológicas em Pares Sinônimos",
+        "headers": [
+          "Termo Árabe / Otomano",
+          "Termo Moderno (Öztürkçe)",
+          "Significado em Português"
+        ],
+        "rows": [
+          [
+            "Mektep",
+            "Okul",
+            "Escola"
+          ],
+          [
+            "Muallim",
+            "Öğretmen",
+            "Professor"
+          ],
+          [
+            "Talebe",
+            "Öğrenci",
+            "Aluno / Estudante"
+          ],
+          [
+            "Cevap",
+            "Yanıt",
+            "Resposta"
+          ],
+          [
+            "Sual",
+            "Soru",
+            "Pergunta / Dúvida"
+          ],
+          [
+            "Şehir (persa)",
+            "Kent",
+            "Cidade"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Öztürkçe",
+        "portuguese": "Turco puro (vocabulário nativo túrquico)",
+        "pronunciation": "öz-tyurk-tçe",
+        "category": "Linguística",
+        "example": "Öztürkçe kelimeler kullandı. (Ele usou palavras do turco nativo.)"
+      },
+      {
+        "turkish": "Köken",
+        "portuguese": "Origem / Raiz etimológica",
+        "pronunciation": "kö-ken",
+        "category": "Filologia",
+        "example": "Kelimenin kökeni nedir? (Qual é a etimologia da palavra?)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Filolog",
+        "turkish": "Türk Dil Kurumu'nun en büyük başarısı halkın konuştuğu dili yazı diliyle birleştirmesidir.",
+        "portuguese": "O maior feito da Sociedade da Língua Turca foi unir a língua falada pelo povo com a língua escrita."
+      },
+      {
+        "speaker": "Öğrenci",
+        "turkish": "Böylece Osmanlıca ile Cumhuriyet Türkçesi arasındaki uçurum kapandı.",
+        "portuguese": "Assim se fechou o abismo entre o turco otomano e o turco republicano."
+      }
+    ],
+    "tips": [
+      "Muitos escritores eruditos usam ambos os pares intencionalmente: 'soru ve sual' ou 'yanıt ve cevap' para criar riqueza e ritmo na prosa."
+    ]
+  },
+  {
+    "id": "lesson-c2-02-reforma-linguistica-1928",
+    "level": "C2",
+    "levelLabel": "Maestria C2",
+    "title": "A Grande Revolução Linguística (Dil Devrimi) e a Teoria da Língua-Sol",
+    "category": "História Sociolinguística",
+    "readTimeMinutes": 13,
+    "summary": "Compreenda a transformação sociolinguística mais radical do século XX: a fundação do Türk Dil Kurumu e a alfabetização em massa.",
+    "theory": "A **Reforma Linguística Turca** (*Dil Devrimi*) foi um fenômeno sem precedentes na história moderna:\n\n### O Problema do Turco Otomano (Osmanlıca):\nO turco otomano era uma língua híbrida complexa: gramática túrquica mesclada com construções e léxico árabe e persa que apenas 5% a 8% da elite burocrática dominava. O povo anatólico comum não compreendia os éditos imperiais nem os livros oficiais.\n\n### As Etapas da Reforma de Atatürk:\n1. **1928 - A Revolução das Letras (*Harf Devrimi*):**\n   - Em questão de meses, escolas móveis (*Millet Mektepleri*) foram abertas em todo o país. O próprio Atatürk viajou pelo interior com uma lousa e giz ensinando as 29 letras latinas a camponeses e operários. Em poucos anos, a taxa de alfabetização subiu meteoricamente.\n2. **1932 - Fundação do Türk Dil Kurumu (TDK):**\n   - Linguistas foram enviados a aldeias remotas para coletar palavras nativas esquecidas (*Derleme Sözlüğü*).\n   - Foram forjados termos científicos modernos com sufixos túrquicos: *üçgen* (triângulo), *boyut* (dimensão), *bilgisayar* (computador - literalmente: contador de informações).",
+    "tables": [
+      {
+        "title": "Termos Científicos Cunhados pelo Próprio Atatürk",
+        "headers": [
+          "Termo Otomano Antigo",
+          "Palavra Criada por Atatürk",
+          "Significado em Português"
+        ],
+        "rows": [
+          [
+            "Müselles",
+            "Üçgen",
+            "Triângulo"
+          ],
+          [
+            "Murabba",
+            "Kare",
+            "Quadrado"
+          ],
+          [
+            "Zaviye",
+            "Açı",
+            "Ângulo"
+          ],
+          [
+            "Hatt-ı müstakim",
+            "Doğru",
+            "Reta"
+          ],
+          [
+            "Kutur",
+            "Çap",
+            "Diâmetro"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Devrim",
+        "portuguese": "Revolução",
+        "pronunciation": "dev-rim",
+        "category": "História",
+        "example": "Harf Devrimi 1928'de yapıldı. (A Revolução das Letras foi realizada em 1928.)"
+      },
+      {
+        "turkish": "Bilgisayar",
+        "portuguese": "Computador (Lit: contador de informações)",
+        "pronunciation": "bil-gi-sa-yar",
+        "category": "Tecnologia",
+        "example": "Bilgisayar mühendisliği. (Engenharia da computação.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Tarihçi",
+        "turkish": "Atatürk'ün geometri kitabını kendi eliyle yazdığını biliyor muydunuz?",
+        "portuguese": "O senhor sabia que Atatürk escreveu o livro de geometria com as próprias mãos?"
+      },
+      {
+        "speaker": "Öğretmen",
+        "turkish": "Evet, bugün kullandığımız 'üçgen', 'açı', 'kenar' terimlerinin hepsi onun mirasıdır.",
+        "portuguese": "Sim, os termos 'triângulo', 'ângulo', 'lado' que usamos hoje são todos herança dele."
+      }
+    ],
+    "tips": [
+      "A palavra 'bilgisayar' (computador) é considerada um dos maiores sucessos de criação lexical do TDK, rejeitando o empréstimo 'computer' em favor de uma raiz turca pura."
+    ]
+  },
+  {
+    "id": "lesson-c2-03-estilistica-inversao",
+    "level": "C2",
+    "levelLabel": "Maestria C2",
+    "title": "Estilística Literária: Frase Invertida (Devrik Cümle) e Ritmo Poético",
+    "category": "Estilística Avançada",
+    "readTimeMinutes": 12,
+    "summary": "Quebre a ordem rígida Sujeito-Objeto-Verbo para criar efeitos de ritmo, ênfase teatral e beleza lírica.",
+    "theory": "A regra gramatical padrão do turco é a ordem **SOV** (Sujeito + Objeto + Verbo no final). Porém, na conversação cotidiana expressiva e na alta literatura, usa-se a **Devrik Cümle** (frase invertida), onde o verbo vem antes ou no meio:\n\n### Exemplos Comparativos:\n- **Frase Padrão (Kurallı Cümle):**\n  - `Seni dün sokakta gördüm.` (Vi você ontem na rua - verbo no final).\n- **Frase Invertida Estilística (Devrik Cümle):**\n  - `Gördüm seni dün sokakta!` (Dá destaque dramático ao ato de ver!).\n  - `Geldim işte, kapındayım.` (Cheguei enfim, estou à sua porta).\n\n### Por que os Nativos e Poetas Usam:\n1. **Foco e Ênfase:** O que vem imediatamente antes do verbo ganha ênfase primária, mas colocar o verbo no início projeta ação imediata.\n2. **Ritmo Melódico e Poético:** Na poesia turca moderna (Garip, İkinci Yeni), a inversão verbal liberta o poema da rigidez da métrica.",
+    "tables": [
+      {
+        "title": "Ordem Normal (Kurallı) vs Frase Invertida (Devrik)",
+        "headers": [
+          "Ordem Padrão (SOV)",
+          "Frase Invertida (Devrik Cümle)",
+          "Efeito Expressivo"
+        ],
+        "rows": [
+          [
+            "Yağmur yağıyor.",
+            "Yağıyor yağmur.",
+            "Ênfase sensorial na chuva caindo"
+          ],
+          [
+            "Seni hiç unutmadım.",
+            "Unutmadım seni hiç.",
+            "Intensidade emocional da memória"
+          ],
+          [
+            "Eve gidiyorum artık.",
+            "Gidiyorum artık eve.",
+            "Urgência do movimento de partida"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Devrik cümle",
+        "portuguese": "Frase com inversão sintática",
+        "pronunciation": "dev-rik djüm-le",
+        "category": "Gramática",
+        "example": "Şiirlerde çok devrik cümle vardır. (Nos poemas há muitas frases invertidas.)"
+      },
+      {
+        "turkish": "Vurgu",
+        "portuguese": "Ênfase / Acento tônico",
+        "pronunciation": "vur-gu",
+        "category": "Linguística",
+        "example": "Vurgu kelimenin sonundadır. (A ênfase está no final da palavra.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Şair",
+        "turkish": "Bitti o güzel günler, kaldı geriye sadece anılar.",
+        "portuguese": "Acabaram aqueles belos dias, restaram apenas memórias."
+      },
+      {
+        "speaker": "Dost",
+        "turkish": "Ne güzel söyledin, şiir gibi konuştun yine.",
+        "portuguese": "Que belo modo de dizer, você falou como poesia de novo."
+      }
+    ],
+    "tips": [
+      "Na prova de proficiência formal TÖMER (C1/C2), use frases padrão (SOV). Em crônicas, cartas pessoais e literatura, solte a 'devrik cümle' para soar como um autor nativo."
+    ]
+  },
+  {
+    "id": "lesson-c2-04-proverbios-arcaicos",
+    "level": "C2",
+    "levelLabel": "Maestria C2",
+    "title": "Provérbios Filosóficos Arcaicos (Dede Korkut e a Tradição Sufi)",
+    "category": "Sabedoria Milenar",
+    "readTimeMinutes": 13,
+    "summary": "Explore a sabedoria ancestral das epopeias de Dede Korkut e a poesia mística de Yunus Emre e Rumi.",
+    "theory": "No nível C2, a língua se confunde com a filosofia e a espiritualidade anatólica:\n\n### 1. A Tradição Sufi de Yunus Emre (Século XIII):\nYunus Emre foi o primeiro a escrever alta poesia mística em turco anatólico puro, em vez do árabe ou persa das cortes:\n> *\"Sevelim, sevilelim; dünya kimseye kalmaz.\"*\n(Amemos e sejamos amados; este mundo não fica para ninguém.)\n\n### 2. Dede Korkut e a Ética Heroica Nômade:\nAs histórias do Livro de Dede Korkut representam o alicerce moral dos povos túrquicos:\n- `Eski pamuk bez olmaz, eski düşman dost olmaz.` = Algodão velho não vira tecido nobre; velho inimigo não se torna amigo sincero.\n- `Ağır taş yerinden oynamaz.` = Pedra pesada não sai do lugar com qualquer sopro (o sábio mantém serenidade imutável perante as adversidades).",
+    "tables": [
+      {
+        "title": "Máximas Filosóficas da Sabedoria Anatólica",
+        "headers": [
+          "Máxima / Provérbio",
+          "Autor / Origem",
+          "Tradução Literal",
+          "Significado Filosófico"
+        ],
+        "rows": [
+          [
+            "İlim ilim bilmektir, ilim kendin bilmektir",
+            "Yunus Emre",
+            "Ciência é saber ciência; ciência é conhecer a si mesmo",
+            "O autoconhecimento é o ápice de todo saber"
+          ],
+          [
+            "Gel, ne olursan ol yine gel",
+            "Mevlânâ Rumi",
+            "Venha, sejas quem fores, vem de novo",
+            "Tolerância e amor universal incondicional"
+          ],
+          [
+            "Ağır taş yerinden oynamaz",
+            "Dede Korkut",
+            "Pedra pesada não sai do lugar",
+            "Dignidade, peso moral e firmeza inabalável"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Tasavvuf",
+        "portuguese": "Sufismo / Mística islâmica",
+        "pronunciation": "ta-sav-vuf",
+        "category": "Filosofia",
+        "example": "Anadolu tasavvuf kültürü. (A cultura sufi da Anatólia.)"
+      },
+      {
+        "turkish": "Hoşgörü",
+        "portuguese": "Tolerância / Benevolência",
+        "pronunciation": "hosh-gö-ryu",
+        "category": "Valores",
+        "example": "Mevlânâ'nın hoşgörü felsefesi. (A filosofia de tolerância de Rumi.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Hoca",
+        "turkish": "Yunus Emre'nin Türkçe sevgisi neden bu kadar mühimdir?",
+        "portuguese": "Por que o amor de Yunus Emre pela língua turca é tão crucial?"
+      },
+      {
+        "speaker": "Araştırmacı",
+        "turkish": "Çünkü saray dili Farsçayı seçerken, o halkın dilini ölümsüz kıldı.",
+        "portuguese": "Porque enquanto a corte escolhia o persa, ele imortalizou a língua falada pelo povo."
+      }
+    ],
+    "tips": [
+      "Citar Yunus Emre ou Rumi num jantar com intelectuais turcos é garantia de reverência e admiração mútua imediata."
+    ]
+  },
+  {
+    "id": "lesson-c2-05-pragmatica-sutilezas",
+    "level": "C2",
+    "levelLabel": "Maestria C2",
+    "title": "Pragmática Conversacional: As Partículas de Matiz (ki, ya, da/de, işte)",
+    "category": "Pragmática & Discurso",
+    "readTimeMinutes": 12,
+    "summary": "O segredo final da fluência nativa: as pequenas partículas que carregam frustração, evidência, carinho ou ironia.",
+    "theory": "O que separa um estudante fluente de um falante indistinguível de um nativo é o domínio das **partículas discursivas**:\n\n### 1. Ki (Enfático / Surpresa / Indignação):\n- `Ben ne bileyim ki!` = E como é que eu vou saber, ora bolas?!\n- `Öyle bir güzel ki...` = É de uma beleza tão indescritível que...\n\n### 2. Ya (Protesto / Apelo / Ênfase):\n- `Gel ya!` = Poxa, vem logo!\n- `Olmaz ya!` = De jeito nenhum, não é possível!\n\n### 3. İşte (Constatação / Resumo / 'É isso aí'):\n- `Hayat işte.` = É a vida, fazer o quê.\n- `İşte geldim.` = Cá estou eu.\n\n### 4. Da / De (Solto: 'Até parece' / 'E daí?'):\n- `Sen de mi Brutus?` = Até tu, Brutus?\n- `Gelsen de gelmesen de...` = Quer você venha, quer não venha...",
+    "tables": [
+      {
+        "title": "Funções Comunicativas das Partículas de Matiz",
+        "headers": [
+          "Partícula",
+          "Tom / Emoção",
+          "Exemplo",
+          "Tradução com a Nuance"
+        ],
+        "rows": [
+          [
+            "... ki",
+            "Indignação / Espanto",
+            "Nereden bilsin ki?",
+            "Como ele poderia adivinhar, coitado?"
+          ],
+          [
+            "Ya!",
+            "Insistência / Súplica",
+            "Yapma ya!",
+            "Poxa vida, não faz isso cara!"
+          ],
+          [
+            "İşte",
+            "Fatalismo conformado",
+            "Ne yapalım, dünya işte.",
+            "Fazer o quê, esse é o mundo."
+          ],
+          [
+            "Boş ver",
+            "Desapego sereno",
+            "Aman boş ver gitsin.",
+            "Ah, deixa pra lá, esquece isso."
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "İşte",
+        "portuguese": "Eis aí / É isso / Pois é",
+        "pronunciation": "ish-te",
+        "category": "Partículas",
+        "example": "İşte bu kadar! (Eis aí, é só isso!)"
+      },
+      {
+        "turkish": "Boş ver",
+        "portuguese": "Deixa pra lá / Não liga",
+        "pronunciation": "bosh ver",
+        "category": "Expressões",
+        "example": "Boş ver, canını sıkma. (Deixa pra lá, não esquenta a cabeça.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Ahmet",
+        "turkish": "Yine mi otobüsü kaçırdın?",
+        "portuguese": "Você perdeu o ônibus de novo?"
+      },
+      {
+        "speaker": "Selim",
+        "turkish": "Trafik tıkandı işte, ne yapayım ki!",
+        "portuguese": "O trânsito travou todo, fazer o quê, o que você queria que eu fizesse?!"
+      }
+    ],
+    "tips": [
+      "'İşte' e 'boş ver' são o oxigênio da conversação informal turca. Usadas no momento certo, mostram intimidade absoluta com a cultura."
+    ]
+  },
+  {
+    "id": "lesson-c2-06-linguagem-juridica-diplomatica",
+    "level": "C2",
+    "levelLabel": "Maestria C2",
+    "title": "Registro Diplomático, Tratados Internacionais e Chancelaria",
+    "category": "Linguagem Técnica & Alta Política",
+    "readTimeMinutes": 13,
+    "summary": "Analise notas diplomáticas oficiais, tratados bilaterais e o vocabulário das relações internacionais da Turquia.",
+    "theory": "O turco diplomático (*Diplomatik Türkçe*) é marcado pela máxima cortesia e fórmulas consagradas no Ministério das Relações Exteriores (*Dışişleri Bakanlığı*):\n\n### Fórmulas Protocolares:\n- `Ekselansları` = Vossa Excelência.\n- `Nota vermek` = Emitir nota diplomática de protesto.\n- `İki ülke arasındaki dostane ilişkiler` = As relações amigáveis entre os dois países.\n- `Egemenlik ve toprak bütünlüğü` = Soberania e integridade territorial.\n- `Derin endişe duymaktayız` = Expressamos profunda preocupação (fórmula padrão de censura diplomática).",
+    "tables": [
+      {
+        "title": "Vocabulário da Alta Chancelaria Turca",
+        "headers": [
+          "Termo Diplomático",
+          "Pronúncia",
+          "Equivalente em Português"
+        ],
+        "rows": [
+          [
+            "Büyükelçi",
+            "byu-yük-el-tçi",
+            "Embaixador"
+          ],
+          [
+            "Konsolosluk",
+            "kon-so-los-luk",
+            "Consulado"
+          ],
+          [
+            "Müzakere",
+            "myu-zaa-ke-re",
+            "Negociação / Tratativas"
+          ],
+          [
+            "Mutabakat Zaptı",
+            "mu-ta-ba-kat zap-tu",
+            "Memorando de Entendimento (MoU)"
+          ],
+          [
+            "Ateşkes",
+            "a-tesh-kes",
+            "Cessar-fogo"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Büyükelçi",
+        "portuguese": "Embaixador(a)",
+        "pronunciation": "byu-yük-el-tçi",
+        "category": "Diplomacia",
+        "example": "Brezilya'nın Ankara Büyükelçisi. (O Embaixador do Brasil em Ancara.)"
+      },
+      {
+        "turkish": "Müzakere",
+        "portuguese": "Negociação bilateral",
+        "pronunciation": "myu-za-ke-re",
+        "category": "Diplomacia",
+        "example": "Barış müzakereleri başladı. (Começaram as negociações de paz.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Diplomat",
+        "turkish": "İki ülke heyetleri arasında verimli müzakereler gerçekleştirildi.",
+        "portuguese": "Foram realizadas negociações produtivas entre as delegações de ambos os países."
+      },
+      {
+        "speaker": "Bakan",
+        "turkish": "Stratejik ortaklığımızı derinleştirmek konusunda mutabık kaldık.",
+        "portuguese": "Concordamos plenamente em aprofundar nossa parceria estratégica."
+      }
+    ],
+    "tips": [
+      "Para 'Embaixada', usa-se 'Büyükelçilik'; para o cargo de embaixador, 'Büyükelçi'."
+    ]
+  },
+  {
+    "id": "lesson-c2-07-girias-istanbul-coloquial",
+    "level": "C2",
+    "levelLabel": "Maestria C2",
+    "title": "Gírias Urbanas de Istambul, Linguagem Juvenil e Turco da Internet",
+    "category": "Socioleto Urbano & Slang",
+    "readTimeMinutes": 11,
+    "summary": "Compreenda o humor das ruas de Kadıköy e Beşiktaş, os memes das redes sociais e as gírias do turco contemporâneo.",
+    "theory": "Para transitar com naturalidade entre os jovens turcos nos cafés e na internet:\n\n### 1. Gírias de Chamamento e Amizade:\n- `Kanka` (de *kan kardeşi* = irmão de sangue) = Parça / Mano / Irmão.\n- `Hocam` (literal: meu professor) = Meu caro / Mestre (usado para qualquer pessoa na rua!).\n- `Aynen!` = Exatamente! / Com certeza! / Concordo plenamente! (a palavra mais dita pelos jovens).\n\n### 2. Gírias de Reação e Expressão:\n- `Çakmak` (gíria: entender/sacar): *Çaktın mı köfteyi?* = Sacou o lance?\n- `Kafayı yemek` = Ficar maluco / Enlouquecer (Lit: comer a própria cabeça).\n- `Trolllemek` = Trollar na internet.\n- `Helal olsun!` = Parabéns! / Mandou muito bem!",
+    "tables": [
+      {
+        "title": "Dicionário de Gírias Urbanas de Istambul",
+        "headers": [
+          "Gíria",
+          "Origem Literal",
+          "Sentido Real",
+          "Equivalente Brasileiro"
+        ],
+        "rows": [
+          [
+            "Kanka",
+            "Kan kardeşi (irmão de sangue)",
+            "Melhor amigo",
+            "Mano / Parça / Brother"
+          ],
+          [
+            "Aynen",
+            "Aynen öyle (exatamente assim)",
+            "Concordância instantânea",
+            "Total / Com certeza / Isso mesmo"
+          ],
+          [
+            "Kafayı yemek",
+            "Comer a cabeça",
+            "Perder a sanidade / Estressar",
+            "Ficar pirado / Perder o juízo"
+          ],
+          [
+            "Hadi be!",
+            "Vá embora",
+            "Incredulidade / Mentira!",
+            "Não me diga! / Sério?!"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Kanka",
+        "portuguese": "Mano / Irmão / Parça",
+        "pronunciation": "kan-ka",
+        "category": "Gírias",
+        "example": "Naber kanka? (E aí mano, beleza?)"
+      },
+      {
+        "turkish": "Aynen",
+        "portuguese": "Total / Exatamente / Concordo",
+        "pronunciation": "ay-nen",
+        "category": "Gírias",
+        "example": "- Çok sıcak değil mi? - Aynen ya! (- Não está quente demais? - Total, cara!)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Burak",
+        "turkish": "Kanka akşam Kadıköy'e akıyoruz mu?",
+        "portuguese": "Mano, vamos colar em Kadıköy hoje à noite?"
+      },
+      {
+        "speaker": "Ozan",
+        "turkish": "Aynen kardeşim, sekiz gibi oradayım.",
+        "portuguese": "Total, meu irmão, lá pelas oito estou por lá."
+      }
+    ],
+    "tips": [
+      "'Aynen' é o verdadeiro coringa da conversação jovem na Turquia: se você não sabe o que responder, diga 'Aynen ya!' e você parecerá 100% nativo."
+    ]
+  },
+  {
+    "id": "lesson-c2-08-critica-ensaio",
+    "level": "C2",
+    "levelLabel": "Maestria C2",
+    "title": "Produção Textual Superior: Ensaios Críticos e Argumentação Dissertativa",
+    "category": "Composição Avançada",
+    "readTimeMinutes": 14,
+    "summary": "Estruture ensaios argumentativos de padrão acadêmico com teses, antíteses, conectivos lógicos e síntese magistral.",
+    "theory": "A redação no nível C2 exige coesão textual, vocabulário abstrato e argumentação encadeada:\n\n### Estrutura de um Ensaio Crítico Turco:\n1. **Giriş (Introdução):** Apresentação do tema e tese principal:\n   - `Giriş mahiyetinde belirtmek gerekir ki...` = A título de introdução, convém ressaltar que...\n   - `Günümüz dünyasında giderek önem kazanan...` = Ganhando cada vez mais relevância no mundo contemporâneo...\n\n2. **Gelişme (Desenvolvimento):** Confronto dialético de ideias:\n   - `Bir yandan ... öte yandan ise ...` = Por um lado ... por outro lado ...\n   - `Nitekim yapılan araştırmalar göstermektedir ki...` = De fato, pesquisas demonstram que...\n   - `Bununla birlikte göz ardı edilmemelidir ki...` = Não obstante, não se deve desconsiderar que...\n\n3. **Sonuç (Conclusão):** Síntese magistral da argumentação:\n   - `Hülasa etmek gerekirse...` = Em síntese...\n   - `Netice itibarıyla...` = Em última análise / Em conclusão...",
+    "tables": [
+      {
+        "title": "Conectores Lógicos para Dissertações de Nível C2",
+        "headers": [
+          "Função Lógica",
+          "Expressão Turca",
+          "Tradução em Português"
+        ],
+        "rows": [
+          [
+            "Introduzir tese",
+            "Öncelikle vurgulamak icap eder ki",
+            "Primeiramente, cumpre enfatizar que"
+          ],
+          [
+            "Confronto de teses",
+            "Buna mukabil / Bilakis",
+            "Em contrapartida / Pelo contrário"
+          ],
+          [
+            "Confirmação empírica",
+            "Nitekim",
+            "Com efeito / De fato"
+          ],
+          [
+            "Conclusão / Desfecho",
+            "Sonuç olarak / Netice itibarıyla",
+            "Em conclusão / Por conseguinte"
+          ]
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "turkish": "Nitekim",
+        "portuguese": "Com efeito / De fato / Como esperado",
+        "pronunciation": "ni-te-kim",
+        "category": "Conectivos Lógicos",
+        "example": "Nitekim öngörülerimiz doğru çıktı. (Com efeito, nossas previsões provaram-se corretas.)"
+      },
+      {
+        "turkish": "Hülasa",
+        "portuguese": "Em suma / Resumo",
+        "pronunciation": "hyu-laa-sa",
+        "category": "Conectivos Lógicos",
+        "example": "Hülasa, kararlılıkla devam etmeliyiz. (Em suma, devemos continuar com determinação.)"
+      }
+    ],
+    "dialogues": [
+      {
+        "speaker": "Profesör",
+        "turkish": "Makalenizin sonuç bölümü oldukça ikna edici olmuş.",
+        "portuguese": "A seção conclusiva do seu artigo ficou bastante convincente."
+      },
+      {
+        "speaker": "Doktorant",
+        "turkish": "Teşekkür ederim hocam, tezin zayıf noktalarını nitekim bu şekilde güçlendirdim.",
+        "portuguese": "Muito obrigado professor, de fato fortaleci os pontos vulneráveis da tese dessa maneira."
+      }
+    ],
+    "tips": [
+      "O uso de 'Nitekim' em redações acadêmicas turcas demonstra raciocínio de alta classe e fluência madura."
+    ]
+  }
+]

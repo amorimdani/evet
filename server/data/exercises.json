@@ -1,0 +1,2117 @@
+[
+  {
+    "id": "ex-a1-01",
+    "level": "A1",
+    "topic": "Harmonia Vocálica & Plural",
+    "title": "Plural com Harmonia de 2 Vias (-lar / -ler)",
+    "instructions": "Selecione a forma plural correta de acordo com a harmonia vocálica de 2 vias.",
+    "type": "multiple_choice",
+    "question": "Qual é a forma plural correta da palavra 'Ev' (Casa)?",
+    "options": [
+      "Evler",
+      "Evlar",
+      "Evlir",
+      "Evlor"
+    ],
+    "correctAnswer": "Evler",
+    "acceptedAnswers": [
+      "Evler",
+      "evler"
+    ],
+    "explanation": "'Ev' possui a vogal anterior 'e'. Pela regra de harmonia vocálica de 2 vias, vogais anteriores (e, i, ö, ü) recebem o sufixo '-ler'.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-02",
+    "level": "A1",
+    "topic": "Harmonia Vocálica & Plural",
+    "title": "Plural de Palavras com Vogais Posteriores",
+    "instructions": "Escolha a forma plural adequada para a palavra dada.",
+    "type": "multiple_choice",
+    "question": "Qual é o plural correto da palavra 'Araba' (Carro)?",
+    "options": [
+      "Arabalar",
+      "Arabaler",
+      "Arabıler",
+      "Arabalarız"
+    ],
+    "correctAnswer": "Arabalar",
+    "acceptedAnswers": [
+      "Arabalar",
+      "arabalar"
+    ],
+    "explanation": "'Araba' termina com a vogal posterior 'a'. Vogais posteriores (a, ı, o, u) exigem o sufixo plural '-lar'.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-03",
+    "level": "A1",
+    "topic": "Fonética & Letras Especiais",
+    "title": "O Caractere 'Ç' em Turco",
+    "instructions": "Identifique a pronúncia correta da letra Ç.",
+    "type": "multiple_choice",
+    "question": "Como se pronuncia a letra 'Ç' na palavra turca 'Çay' (Chá)?",
+    "options": [
+      "Como 'tch' em tchau",
+      "Como 's' em sapo",
+      "Como 'k' em casa",
+      "Como 'dj' em jeans"
+    ],
+    "correctAnswer": "Como 'tch' em tchau",
+    "acceptedAnswers": [
+      "Como 'tch' em tchau"
+    ],
+    "explanation": "A letra Ç em turco tem som idêntico ao 'tch' do português brasileiro (ex: tchau, tcheco). 'Çay' pronuncia-se 'Tchái'.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-04",
+    "level": "A1",
+    "topic": "Fonética & Letras Especiais",
+    "title": "A Função do 'Ğ' (Yumuşak G)",
+    "instructions": "Selecione a regra verdadeira sobre a letra Ğ.",
+    "type": "multiple_choice",
+    "question": "Qual é o papel da letra 'Ğ' (yumuşak g) na palavra 'Dağ' (Montanha)?",
+    "options": [
+      "Alonga o som da vogal anterior 'a' (pronuncia-se 'Daá')",
+      "Tem som duro de gato",
+      "Tem som de 'r' aspirado",
+      "É pronunciada como 'dj'"
+    ],
+    "correctAnswer": "Alonga o som da vogal anterior 'a' (pronuncia-se 'Daá')",
+    "acceptedAnswers": [
+      "Alonga o som da vogal anterior 'a' (pronuncia-se 'Daá')"
+    ],
+    "explanation": "O yumuşak G (Ğ) nunca inicia palavras. Após vogais posteriores (a, ı, o, u), ele não tem som consonantal próprio e alonga a vogal anterior: 'Dağ' lê-se [daá].",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-05",
+    "level": "A1",
+    "topic": "Cumprimentos & Cortesia",
+    "title": "Expressão de Agradecimento",
+    "instructions": "Escolha a tradução correta para a fórmula de agradecimento.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Muito obrigado' em turco?",
+    "options": [
+      "Çok teşekkür ederim",
+      "Görüşürüz",
+      "Günaydın",
+      "Hoş geldiniz"
+    ],
+    "correctAnswer": "Çok teşekkür ederim",
+    "acceptedAnswers": [
+      "Çok teşekkür ederim",
+      "teşekkür ederim"
+    ],
+    "explanation": "'Çok teşekkür ederim' significa literalmente 'Agradeço muito' / 'Muito obrigado(a)'.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-06",
+    "level": "A1",
+    "topic": "Cumprimentos & Cortesia",
+    "title": "Saudação Matinal",
+    "instructions": "Identifique a saudação utilizada pela manhã.",
+    "type": "multiple_choice",
+    "question": "Como se deseja 'Bom dia' em turco?",
+    "options": [
+      "Günaydın",
+      "İyi geceler",
+      "İyi akşamlar",
+      "Güle güle"
+    ],
+    "correctAnswer": "Günaydın",
+    "acceptedAnswers": [
+      "Günaydın",
+      "gunaydin"
+    ],
+    "explanation": "'Günaydın' é a saudação matinal padrão do turco (de 'gün' = dia + 'aydın' = iluminado/claro).",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-07",
+    "level": "A1",
+    "topic": "Pronomes & Verbo Ser",
+    "title": "Conjugação Predicativa: 'Eu sou professor'",
+    "instructions": "Complete a frase com o sufixo pessoal correto para 'Ben'.",
+    "type": "multiple_choice",
+    "question": "Qual é a frase correta para 'Eu sou professor'?",
+    "options": [
+      "Ben öğretmenim",
+      "Ben öğretmensin",
+      "Ben öğretmeniz",
+      "Ben öğretmen"
+    ],
+    "correctAnswer": "Ben öğretmenim",
+    "acceptedAnswers": [
+      "Ben öğretmenim",
+      "ogretmenim"
+    ],
+    "explanation": "O pronome 'Ben' (Eu) exige o sufixo predicativo '-(y)im' obedecendo à harmonia vocálica de 4 vias: öğretmen + im = öğretmenim.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-08",
+    "level": "A1",
+    "topic": "Pronomes & Verbo Ser",
+    "title": "Negação Predicativa com 'Değil'",
+    "instructions": "Selecione a forma negativa correta.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Eu não sou médico' em turco?",
+    "options": [
+      "Doktor değilim",
+      "Doktor yokum",
+      "Doktor hayırım",
+      "Doktor değil"
+    ],
+    "correctAnswer": "Doktor değilim",
+    "acceptedAnswers": [
+      "Doktor değilim"
+    ],
+    "explanation": "A negação de adjetivos e substantivos no presente é feita com a palavra 'değil' acompanhada do sufixo pessoal: değil + im = değilim.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-09",
+    "level": "A1",
+    "topic": "Caso Locativo & Existência",
+    "title": "Uso do Caso Locativo (-de/-da)",
+    "instructions": "Complete com o sufixo locativo correto.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Em casa' em turco?",
+    "options": [
+      "Evde",
+      "Evda",
+      "Evte",
+      "Eve"
+    ],
+    "correctAnswer": "Evde",
+    "acceptedAnswers": [
+      "Evde",
+      "evde"
+    ],
+    "explanation": "'Ev' possui vogal anterior 'e' e termina na consoante suave 'v', recebendo o sufixo '-de'.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-10",
+    "level": "A1",
+    "topic": "Caso Locativo & Existência",
+    "title": "Regra do Fıstıkçı Şahap no Locativo",
+    "instructions": "Identifique a forma com assimilação consonantal para consoantes surdas.",
+    "type": "multiple_choice",
+    "question": "Qual é a forma correta para 'Na rua' (palavra base: 'Sokak')?",
+    "options": [
+      "Sokakta",
+      "Sokakda",
+      "Sokakte",
+      "Sokaka"
+    ],
+    "correctAnswer": "Sokakta",
+    "acceptedAnswers": [
+      "Sokakta"
+    ],
+    "explanation": "'Sokak' termina na consoante surda 'k' (da regra do Fıstıkçı Şahap), o que força o 'd' do locativo a endurecer para 't': sokak + ta = sokakta.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-11",
+    "level": "A1",
+    "topic": "Existência & Posse",
+    "title": "Existência com 'Var'",
+    "instructions": "Selecione a tradução correta para a presença de algo.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Há leite na cozinha' em turco?",
+    "options": [
+      "Mutfakta süt var",
+      "Mutfakta süt yok",
+      "Mutfakta süt değil",
+      "Mutfak süt var"
+    ],
+    "correctAnswer": "Mutfakta süt var",
+    "acceptedAnswers": [
+      "Mutfakta süt var"
+    ],
+    "explanation": "'Mutfakta' (na cozinha) + 'süt' (leite) + 'var' (existe / há).",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-12",
+    "level": "A1",
+    "topic": "Existência & Posse",
+    "title": "Expressando Falta / Inexistência com 'Yok'",
+    "instructions": "Identifique a oração negativa de existência.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Não há açúcar' em turco?",
+    "options": [
+      "Şeker yok",
+      "Şeker var",
+      "Şeker değil",
+      "Şeker hayır"
+    ],
+    "correctAnswer": "Şeker yok",
+    "acceptedAnswers": [
+      "Şeker yok"
+    ],
+    "explanation": "'Yok' expressa inexistência ou ausência ('não há' / 'não tem').",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-13",
+    "level": "A1",
+    "topic": "Caso Dativo (Destino)",
+    "title": "Movimento em Direção a um Local",
+    "instructions": "Escolha a forma correta para expressar destino.",
+    "type": "multiple_choice",
+    "question": "Qual é a frase correta para 'Estou indo para a escola' (Okul)?",
+    "options": [
+      "Okula gidiyorum",
+      "Okulda gidiyorum",
+      "Okuldan gidiyorum",
+      "Okulu gidiyorum"
+    ],
+    "correctAnswer": "Okula gidiyorum",
+    "acceptedAnswers": [
+      "Okula gidiyorum"
+    ],
+    "explanation": "O verbo 'gitmek' (ir) rege o caso dativo `-(y)a / -(y)e`. Como 'Okul' tem última vogal posterior 'u', recebe '-a': Okula gidiyorum.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-14",
+    "level": "A1",
+    "topic": "Caso Dativo (Irregulares)",
+    "title": "Pronomes Pessoais no Dativo: 'Para mim'",
+    "instructions": "Identifique a forma irregular do pronome 'Ben' no caso dativo.",
+    "type": "multiple_choice",
+    "question": "Qual é a forma correta de 'Para mim' em turco?",
+    "options": [
+      "Bana",
+      "Bene",
+      "Beni",
+      "Bende"
+    ],
+    "correctAnswer": "Bana",
+    "acceptedAnswers": [
+      "Bana",
+      "bana"
+    ],
+    "explanation": "A junção de 'Ben' (eu) com o sufixo dativo '-e' é irregular e torna-se 'Bana' (e 'Sen' + '-e' torna-se 'Sana').",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-15",
+    "level": "A1",
+    "topic": "Caso Ablativo (Origem)",
+    "title": "Ponto de Partida e Procedência",
+    "instructions": "Identifique a oração com o caso ablativo (-den/-dan).",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Estou saindo de casa' em turco?",
+    "options": [
+      "Evden çıkıyorum",
+      "Evde çıkıyorum",
+      "Eve çıkıyorum",
+      "Evi çıkıyorum"
+    ],
+    "correctAnswer": "Evden çıkıyorum",
+    "acceptedAnswers": [
+      "Evden çıkıyorum"
+    ],
+    "explanation": "O verbo 'çıkmak' (sair) rege o caso ablativo `-den / -dan` (de onde se sai): ev + den = evden.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-16",
+    "level": "A1",
+    "topic": "Caso Acusativo Definido",
+    "title": "Objeto Direto Determinado vs Indeterminado",
+    "instructions": "Identifique a frase com objeto direto específico.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Estou lendo O livro' (um livro específico, determinado)?",
+    "options": [
+      "Kitabı okuyorum",
+      "Kitap okuyorum",
+      "Kitapta okuyorum",
+      "Kitaba okuyorum"
+    ],
+    "correctAnswer": "Kitabı okuyorum",
+    "acceptedAnswers": [
+      "Kitabı okuyorum"
+    ],
+    "explanation": "Para objetos diretos determinados (O livro), usa-se o caso acusativo. Pela regra do Ketçap, o 'p' de kitap suaviza para 'b': kitap + ı = kitabı.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-17",
+    "level": "A1",
+    "topic": "Caso Acusativo Definido",
+    "title": "Declaração de Afeto: 'Eu te amo'",
+    "instructions": "Identifique a construção acusativa do pronome 'Sen'.",
+    "type": "multiple_choice",
+    "question": "Qual é a famosa frase para 'Eu te amo' em turco?",
+    "options": [
+      "Seni seviyorum",
+      "Sana seviyorum",
+      "Sende seviyorum",
+      "Sen seviyorum"
+    ],
+    "correctAnswer": "Seni seviyorum",
+    "acceptedAnswers": [
+      "Seni seviyorum"
+    ],
+    "explanation": "O verbo 'sevmek' (amar) exige acusativo direto no pronome 'Sen', gerando 'Seni' (a ti / te): Seni seviyorum.",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-18",
+    "level": "A1",
+    "topic": "Numerais & Quantidade",
+    "title": "Regra Gramatical de Numerais e Substantivos",
+    "instructions": "Selecione a regra verdadeira sobre numerais em turco.",
+    "type": "multiple_choice",
+    "question": "Qual é a forma correta para 'Três maçãs' em turco?",
+    "options": [
+      "Üç elma",
+      "Üç elmalar",
+      "Üçler elma",
+      "Üçlü elma"
+    ],
+    "correctAnswer": "Üç elma",
+    "acceptedAnswers": [
+      "Üç elma"
+    ],
+    "explanation": "Regra fundamental do turco: substantivos acompanhados de numerais JAMAIS vão para o plural. Diga 'üç elma' (três maçã).",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-19",
+    "level": "A1",
+    "topic": "Horas e Horários",
+    "title": "Perguntando as Horas",
+    "instructions": "Escolha a pergunta padrão de horário.",
+    "type": "multiple_choice",
+    "question": "Como se pergunta 'Que horas são?' em turco?",
+    "options": [
+      "Saat kaç?",
+      "Saat ne?",
+      "Saat nerede?",
+      "Saat kim?"
+    ],
+    "correctAnswer": "Saat kaç?",
+    "acceptedAnswers": [
+      "Saat kaç?",
+      "saat kac"
+    ],
+    "explanation": "'Saat kaç?' é a expressão exata (Lit: Quantas horas?).",
+    "points": 10
+  },
+  {
+    "id": "ex-a1-20",
+    "level": "A1",
+    "topic": "Dias da Semana",
+    "title": "Identificação dos Dias",
+    "instructions": "Identifique a tradução do primeiro dia útil da semana.",
+    "type": "multiple_choice",
+    "question": "Qual dia da semana corresponde a 'Pazartesi'?",
+    "options": [
+      "Segunda-feira",
+      "Domingo",
+      "Sexta-feira",
+      "Quarta-feira"
+    ],
+    "correctAnswer": "Segunda-feira",
+    "acceptedAnswers": [
+      "Segunda-feira",
+      "segunda"
+    ],
+    "explanation": "'Pazar' é domingo; 'Pazartesi' (ertesi = seguinte) é o dia seguinte ao domingo, ou seja, segunda-feira.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-01",
+    "level": "A2",
+    "topic": "Presente Contínuo (Şimdiki Zaman)",
+    "title": "Conjugação no Presente Contínuo: 'Eu venho / estou vindo'",
+    "instructions": "Selecione a forma verbal correta para o verbo 'gelmek'.",
+    "type": "multiple_choice",
+    "question": "Qual é a forma correta para 'Eu estou vindo' (Gelmek)?",
+    "options": [
+      "Geliyorum",
+      "Gelecegim",
+      "Geldim",
+      "Gelirim"
+    ],
+    "correctAnswer": "Geliyorum",
+    "acceptedAnswers": [
+      "Geliyorum"
+    ],
+    "explanation": "Radical 'gel-' + vogal de ligação 'i' + sufixo de presente contínuo '-yor' + sufixo de pessoa 'um' = Geliyorum.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-02",
+    "level": "A2",
+    "topic": "Presente Contínuo",
+    "title": "Negação do Şimdiki Zaman",
+    "instructions": "Identifique a forma negativa do presente contínuo.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Eu não entendo' em turco?",
+    "options": [
+      "Anlamıyorum",
+      "Anlamadım",
+      "Anlamam",
+      "Anlamayacağım"
+    ],
+    "correctAnswer": "Anlamıyorum",
+    "acceptedAnswers": [
+      "Anlamıyorum"
+    ],
+    "explanation": "Radical 'anla-' + negação '-m-' + vogal 'ı' + '-yor' + 'um' = Anlamıyorum.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-03",
+    "level": "A2",
+    "topic": "Sufixos Possessivos",
+    "title": "Expressando 'Minha casa'",
+    "instructions": "Complete o substantivo com o sufixo possessivo de 1ª pessoa.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Minha casa' em turco?",
+    "options": [
+      "Evim",
+      "Evin",
+      "Evi",
+      "Evimiz"
+    ],
+    "correctAnswer": "Evim",
+    "acceptedAnswers": [
+      "Evim"
+    ],
+    "explanation": "O sufixo possessivo de 1ª pessoa do singular após consoante com harmonia 'e' é '-im': ev + im = evim.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-04",
+    "level": "A2",
+    "topic": "Construções Nominais (İzafe)",
+    "title": "O Genitivo e a Posse: 'O carro de Ali'",
+    "instructions": "Identifique a construção correta de posse definida.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'O carro de Ali' em turco?",
+    "options": [
+      "Ali'nin arabası",
+      "Ali araba",
+      "Ali'de araba",
+      "Ali'ye araba"
+    ],
+    "correctAnswer": "Ali'nin arabası",
+    "acceptedAnswers": [
+      "Ali'nin arabası"
+    ],
+    "explanation": "Genitivo '-(n)in' no possuidor ('Ali'nin') + possessivo de 3ª pessoa '-(s)i' no possuído ('arabası').",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-05",
+    "level": "A2",
+    "topic": "Construção Qualificativa",
+    "title": "İzafe Indefinido: 'Café Turco'",
+    "instructions": "Identifique a composição nominal correta.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Café turco' em turco?",
+    "options": [
+      "Türk kahvesi",
+      "Türk kahve",
+      "Türk'ün kahvesi",
+      "Türk kahvede"
+    ],
+    "correctAnswer": "Türk kahvesi",
+    "acceptedAnswers": [
+      "Türk kahvesi"
+    ],
+    "explanation": "No İzafe indefinido/qualificativo, o primeiro termo fica sem sufixo e o segundo recebe o sufixo possessivo de 3ª pessoa: Türk + kahve + si = Türk kahvesi.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-06",
+    "level": "A2",
+    "topic": "Modo Imperativo",
+    "title": "Comando Informal: 'Venha!'",
+    "instructions": "Identifique a forma imperativa para a 2ª pessoa do singular (Sen).",
+    "type": "multiple_choice",
+    "question": "Qual é a forma imperativa direta de 'Venha!' (tu/você)?",
+    "options": [
+      "Gel!",
+      "Gelin!",
+      "Geliniz!",
+      "Gelsin!"
+    ],
+    "correctAnswer": "Gel!",
+    "acceptedAnswers": [
+      "Gel!",
+      "gel"
+    ],
+    "explanation": "O imperativo da 2ª pessoa do singular é o próprio radical puro do verbo sem nenhum sufixo: Gel!",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-07",
+    "level": "A2",
+    "topic": "Modo Optativo / Sugestões",
+    "title": "Convite Coletivo: 'Vamos tomar um chá!'",
+    "instructions": "Identifique o sufixo de sugestão na 1ª pessoa do plural (-(y)elim).",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Vamos beber chá!' em turco?",
+    "options": [
+      "Çay içelim!",
+      "Çay içiniz!",
+      "Çay içti!",
+      "Çay içeriz!"
+    ],
+    "correctAnswer": "Çay içelim!",
+    "acceptedAnswers": [
+      "Çay içelim!"
+    ],
+    "explanation": "O sufixo '-(y)elim / -(y)alım' expressa convite ou sugestão coletiva ('vamos fazer algo'): iç + elim = içelim!",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-08",
+    "level": "A2",
+    "topic": "Habilidade & Potencialidade",
+    "title": "Sufixo '-(y)ebilmek': 'Consigo falar'",
+    "instructions": "Complete a oração expressando capacidade.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Eu consigo falar turco'?",
+    "options": [
+      "Türkçe konuşabiliyorum",
+      "Türkçe konuşuyorum",
+      "Türkçe konuştum",
+      "Türkçe konuşmalıyım"
+    ],
+    "correctAnswer": "Türkçe konuşabiliyorum",
+    "acceptedAnswers": [
+      "Türkçe konuşabiliyorum"
+    ],
+    "explanation": "O sufixo de potencialidade '-(y)ebil / -(y)abil' indica capacidade/habilidade: konuş- + abil + iyor + um = konuşabiliyorum.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-09",
+    "level": "A2",
+    "topic": "Habilidade (Negativa)",
+    "title": "Incapacidade vs Desejo",
+    "instructions": "Diferencie a falta de capacidade da negação simples.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Eu não consigo vir' (impossibilidade)?",
+    "options": [
+      "Gelemiyorum",
+      "Gelmiyorum",
+      "Gelmem",
+      "Gelmedim"
+    ],
+    "correctAnswer": "Gelemiyorum",
+    "acceptedAnswers": [
+      "Gelemiyorum"
+    ],
+    "explanation": "A negativa de potencialidade mantém a vogal '-e' antes do marcador negativo: gel + e + mi + yor + um = Gelemiyorum (não consigo vir; já 'gelmiyorum' = não venho por escolha).",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-10",
+    "level": "A2",
+    "topic": "Comparações",
+    "title": "Comparativo com 'Daha'",
+    "instructions": "Identifique a frase com grau comparativo de superioridade.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Esta casa é mais bonita' em turco?",
+    "options": [
+      "Bu ev daha güzel",
+      "Bu ev en güzel",
+      "Bu ev güzel kadar",
+      "Bu ev çok güzel"
+    ],
+    "correctAnswer": "Bu ev daha güzel",
+    "acceptedAnswers": [
+      "Bu ev daha güzel"
+    ],
+    "explanation": "'Daha' antes de um adjetivo expressa superioridade comparativa ('mais bonito').",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-11",
+    "level": "A2",
+    "topic": "Superlativos",
+    "title": "Superlativo com 'En'",
+    "instructions": "Identifique a oração com o superlativo absoluto.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'A cidade mais bonita é Istambul'?",
+    "options": [
+      "En güzel şehir İstanbul",
+      "Daha güzel şehir İstanbul",
+      "Çok güzel şehir İstanbul",
+      "Büyük şehir İstanbul"
+    ],
+    "correctAnswer": "En güzel şehir İstanbul",
+    "acceptedAnswers": [
+      "En güzel şehir İstanbul"
+    ],
+    "explanation": "'En' antes de adjetivo expressa o grau superlativo ('o mais / a mais').",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-12",
+    "level": "A2",
+    "topic": "Conjunções",
+    "title": "Causa com 'Çünkü'",
+    "instructions": "Escolha a conjunção explicativa adequada.",
+    "type": "multiple_choice",
+    "question": "Qual conjunção completa a frase: 'Eve gittim _____ çok yorgundum' (Fui para casa porque estava cansado)?",
+    "options": [
+      "Çünkü",
+      "Ama",
+      "Veya",
+      "Ancak"
+    ],
+    "correctAnswer": "Çünkü",
+    "acceptedAnswers": [
+      "Çünkü",
+      "cunku"
+    ],
+    "explanation": "'Çünkü' significa 'porque / pois' e introduz a causa de uma ação.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-13",
+    "level": "A2",
+    "topic": "Conjunções",
+    "title": "Consequência com 'Bu yüzden'",
+    "instructions": "Identifique o conectivo de conclusão/consequência.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Por isso / Portanto' em turco?",
+    "options": [
+      "Bu yüzden",
+      "Çünkü",
+      "Ama",
+      "İle"
+    ],
+    "correctAnswer": "Bu yüzden",
+    "acceptedAnswers": [
+      "Bu yüzden"
+    ],
+    "explanation": "'Bu yüzden' significa 'por esta razão / por isso'.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-14",
+    "level": "A2",
+    "topic": "Verbos Compostos",
+    "title": "Uso do Auxiliar 'Etmek'",
+    "instructions": "Identifique a expressão de ajuda com 'etmek'.",
+    "type": "multiple_choice",
+    "question": "Como se expressa 'Ajudar' em turco?",
+    "options": [
+      "Yardım etmek",
+      "Yardım yapmak",
+      "Yardım olmak",
+      "Yardım bilmek"
+    ],
+    "correctAnswer": "Yardım etmek",
+    "acceptedAnswers": [
+      "Yardım etmek"
+    ],
+    "explanation": "Substantivos abstratos e de cortesia compõem-se habitualmente com o auxiliar 'etmek': yardım etmek.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-15",
+    "level": "A2",
+    "topic": "Verbos Compostos",
+    "title": "Uso do Auxiliar 'Yapmak'",
+    "instructions": "Identifique a expressão concreta com 'yapmak'.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Fazer compras' em turco?",
+    "options": [
+      "Alışveriş yapmak",
+      "Alışveriş etmek",
+      "Alışveriş olmak",
+      "Alışveriş gitmek"
+    ],
+    "correctAnswer": "Alışveriş yapmak",
+    "acceptedAnswers": [
+      "Alışveriş yapmak"
+    ],
+    "explanation": "'Alışveriş yapmak' é a expressão fixa e natural para fazer compras no mercado ou shopping.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-16",
+    "level": "A2",
+    "topic": "Restaurante & Gastronomia",
+    "title": "Pedindo a Conta no Restaurante",
+    "instructions": "Escolha a frase clássica para pedir a conta ao garçom.",
+    "type": "multiple_choice",
+    "question": "Como se pede 'A conta, por favor!'?",
+    "options": [
+      "Hesap lütfen!",
+      "Menü lütfen!",
+      "Su lütfen!",
+      "Para lütfen!"
+    ],
+    "correctAnswer": "Hesap lütfen!",
+    "acceptedAnswers": [
+      "Hesap lütfen!"
+    ],
+    "explanation": "'Hesap' é a conta do restaurante; 'Hesap lütfen!' é a forma polida consagrada.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-17",
+    "level": "A2",
+    "topic": "Cortesia Cultural",
+    "title": "Elogio ao Cozinheiro / Anfitrião",
+    "instructions": "Identifique a expressão de afeto gastronômico.",
+    "type": "multiple_choice",
+    "question": "O que se diz ao terminar uma refeição deliciosa para agradecer a quem cozinhou?",
+    "options": [
+      "Elinize sağlık!",
+      "Geçmiş olsun!",
+      "Hayırlı olsun!",
+      "Kolay gelsin!"
+    ],
+    "correctAnswer": "Elinize sağlık!",
+    "acceptedAnswers": [
+      "Elinize sağlık!"
+    ],
+    "explanation": "'Elinize sağlık' significa literalmente 'Saúde para suas mãos' e agradece ao cozinheiro pelo esforço e carinho da comida.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-18",
+    "level": "A2",
+    "topic": "Transporte Urbano",
+    "title": "Descendo do Táxi ou Micro-ônibus (Dolmuş)",
+    "instructions": "Identifique a frase usada para pedir parada no transporte.",
+    "type": "multiple_choice",
+    "question": "Como avisar ao motorista de Dolmuş que você quer descer?",
+    "options": [
+      "Müsait bir yerde inebilir miyim?",
+      "Burada durma lütfen",
+      "Saat kaç oldu?",
+      "Bilet var mı?"
+    ],
+    "correctAnswer": "Müsait bir yerde inebilir miyim?",
+    "acceptedAnswers": [
+      "Müsait bir yerde inebilir miyim?"
+    ],
+    "explanation": "'Müsait bir yerde...' significa 'Poderia descer num lugar propício / conveniente?'",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-19",
+    "level": "A2",
+    "topic": "Direções & Navegação",
+    "title": "Orientação Espacial: 'Siga reto'",
+    "instructions": "Escolha a instrução de direção correta.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Siga reto' em turco?",
+    "options": [
+      "Düz gidin",
+      "Sağa dönün",
+      "Sola dönün",
+      "Geri dönün"
+    ],
+    "correctAnswer": "Düz gidin",
+    "acceptedAnswers": [
+      "Düz gidin"
+    ],
+    "explanation": "'Düz' significa reto/em linha reta; 'Düz gidin' = siga reto.",
+    "points": 10
+  },
+  {
+    "id": "ex-a2-20",
+    "level": "A2",
+    "topic": "Compras & Negociação",
+    "title": "Pedindo Desconto no Grande Bazar",
+    "instructions": "Identifique a frase polida para negociar preços.",
+    "type": "multiple_choice",
+    "question": "Como perguntar se há um desconto disponível?",
+    "options": [
+      "İndirim var mı?",
+      "Para var mı?",
+      "Pahalı değil mi?",
+      "Kaç lira yok?"
+    ],
+    "correctAnswer": "İndirim var mı?",
+    "acceptedAnswers": [
+      "İndirim var mı?"
+    ],
+    "explanation": "'İndirim' significa desconto; 'İndirim var mı?' = Há algum desconto?",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-01",
+    "level": "B1",
+    "topic": "Passado Definido (-di)",
+    "title": "Ação Passada Testemunhada",
+    "instructions": "Conjugue no passado definido para a 1ª pessoa.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Eu vi o filme ontem' (Görmek)?",
+    "options": [
+      "Dün filmi gördüm",
+      "Dün filmi görmüşüm",
+      "Dün filmi görüyorum",
+      "Dün filmi göreceğim"
+    ],
+    "correctAnswer": "Dün filmi gördüm",
+    "acceptedAnswers": [
+      "Dün filmi gördüm"
+    ],
+    "explanation": "O passado testemunhado direto usa o sufixo '-di': gör + dü + m = gördüm.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-02",
+    "level": "B1",
+    "topic": "Passado Evidencial (-miş)",
+    "title": "Relato Indireto e Notícia",
+    "instructions": "Identifique o verbo no passado evidencial/ouvir dizer.",
+    "type": "multiple_choice",
+    "question": "Qual frase indica que você SOUBE por terceiros que Ali ficou doente?",
+    "options": [
+      "Ali hastalanmış",
+      "Ali hastalandı",
+      "Ali hastalanıyor",
+      "Ali hastalanacak"
+    ],
+    "correctAnswer": "Ali hastalanmış",
+    "acceptedAnswers": [
+      "Ali hastalanmış"
+    ],
+    "explanation": "O sufixo '-miş' expressa informação obtida de segunda mão ou descoberta tardia sem presenciamento direto.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-03",
+    "level": "B1",
+    "topic": "Passado Evidencial",
+    "title": "Constatação Tardia de Surpresa",
+    "instructions": "Identifique a surpresa ao notar um fato consumado.",
+    "type": "multiple_choice",
+    "question": "Ao olhar pela janela e ver poças d'água de surpresa, o que o turco exclama?",
+    "options": [
+      "Yağmur yağmış!",
+      "Yağmur yağdı!",
+      "Yağmur yağıyor!",
+      "Yağmur yağacak!"
+    ],
+    "correctAnswer": "Yağmur yağmış!",
+    "acceptedAnswers": [
+      "Yağmur yağmış!"
+    ],
+    "explanation": "A descoberta de um fato já consumado desperta a evidencialidade sensorial com '-miş': Yağmur yağmış!",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-04",
+    "level": "B1",
+    "topic": "Tempo Futuro (Gelecek Zaman)",
+    "title": "Mutação do 'K' para 'Ğ' no Futuro",
+    "instructions": "Identifique a grafia correta da 1ª pessoa do futuro para 'gelmek'.",
+    "type": "multiple_choice",
+    "question": "Qual é a forma correta para 'Eu virei / Vou vir'?",
+    "options": [
+      "Geleceğim",
+      "Gelecekim",
+      "Gelecim",
+      "Geleceksin"
+    ],
+    "correctAnswer": "Geleceğim",
+    "acceptedAnswers": [
+      "Geleceğim"
+    ],
+    "explanation": "O 'k' do sufixo futuro '-ecek' suaviza obrigatoriamente para 'ğ' diante da vogal do pronome 'im': Geleceğim.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-05",
+    "level": "B1",
+    "topic": "Presente Amplo / Aoristo (Geniş Zaman)",
+    "title": "Fórmula de Máxima Gentileza",
+    "instructions": "Selecione a forma mais educada de fazer um pedido.",
+    "type": "multiple_choice",
+    "question": "Como pedir um café com extrema polidez usando o Geniş Zaman?",
+    "options": [
+      "Bir kahve verir misiniz?",
+      "Bir kahve ver!",
+      "Bir kahve vermelisin!",
+      "Bir kahve verdin mi?"
+    ],
+    "correctAnswer": "Bir kahve verir misiniz?",
+    "acceptedAnswers": [
+      "Bir kahve verir misiniz?"
+    ],
+    "explanation": "A interrogação no Geniş Zaman ('verir misiniz?') é a fórmula turca mais nobre e elegante para pedidos gentis.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-06",
+    "level": "B1",
+    "topic": "Aoristo (Negativa)",
+    "title": "Negação no Geniş Zaman com '-mez / -mem'",
+    "instructions": "Identifique a negação de hábito permanente.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Eu nunca minto' em turco?",
+    "options": [
+      "Asla yalan söylemem",
+      "Asla yalan söylemiyorum",
+      "Asla yalan söylemedim",
+      "Asla yalan söylemeyeceğim"
+    ],
+    "correctAnswer": "Asla yalan söylemem",
+    "acceptedAnswers": [
+      "Asla yalan söylemem"
+    ],
+    "explanation": "Para princípios e hábitos imutáveis, a 1ª pessoa negativa do Geniş Zaman recebe '-mem / -mam': söylemem.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-07",
+    "level": "B1",
+    "topic": "Orações Temporais",
+    "title": "Sufixo '-(y)ince' (Quando...)",
+    "instructions": "Complete a oração temporal.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Quando você chegar em casa, me ligue'?",
+    "options": [
+      "Eve varınca beni ara",
+      "Eve vardığında beni ara",
+      "Eve varmadan beni ara",
+      "Eve varırken beni ara"
+    ],
+    "correctAnswer": "Eve varınca beni ara",
+    "acceptedAnswers": [
+      "Eve varınca beni ara"
+    ],
+    "explanation": "'-(y)ince' significa 'assim que / no momento em que': var + ınca = varınca.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-08",
+    "level": "B1",
+    "topic": "Orações Temporais",
+    "title": "Estrutura '-dikten sonra' (Depois de...)",
+    "instructions": "Identifique a construção de posterioridade temporal.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Depois de comer comida' em turco?",
+    "options": [
+      "Yemek yedikten sonra",
+      "Yemek yemeden önce",
+      "Yemek yiyince",
+      "Yemek yerken"
+    ],
+    "correctAnswer": "Yemek yedikten sonra",
+    "acceptedAnswers": [
+      "Yemek yedikten sonra"
+    ],
+    "explanation": "Radical do verbo + '-dik' + ablativo '-ten' + 'sonra' = yedikten sonra.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-09",
+    "level": "B1",
+    "topic": "Orações Temporais",
+    "title": "Estrutura '-meden önce' (Antes de...)",
+    "instructions": "Identifique a construção de anterioridade temporal.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Antes de dormir, leio livro'?",
+    "options": [
+      "Uyumadan önce kitap okurum",
+      "Uyuduktan sonra kitap okurum",
+      "Uyuyunca kitap okurum",
+      "Uyumak için kitap okurum"
+    ],
+    "correctAnswer": "Uyumadan önce kitap okurum",
+    "acceptedAnswers": [
+      "Uyumadan önce kitap okurum"
+    ],
+    "explanation": "Radical do verbo + '-meden / -madan' + 'önce' = uyumadan önce.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-10",
+    "level": "B1",
+    "topic": "Pós-posições & Casos",
+    "title": "Pós-posição 'Göre' (Segundo / Conforme)",
+    "instructions": "Identifique o caso exigido pela pós-posição 'göre'.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Na minha opinião' (Segundo eu)?",
+    "options": [
+      "Bana göre",
+      "Benden göre",
+      "Beni göre",
+      "Benim göre"
+    ],
+    "correctAnswer": "Bana göre",
+    "acceptedAnswers": [
+      "Bana göre"
+    ],
+    "explanation": "'Göre' exige obrigatoriamente o caso dativo no pronome: bana göre.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-11",
+    "level": "B1",
+    "topic": "Pós-posições & Casos",
+    "title": "Pós-posição 'Rağmen' (Apesar de)",
+    "instructions": "Identifique a oração com 'rağmen'.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Apesar da chuva' em turco?",
+    "options": [
+      "Yağmura rağmen",
+      "Yağmurdan rağmen",
+      "Yağmuru rağmen",
+      "Yağmurla rağmen"
+    ],
+    "correctAnswer": "Yağmura rağmen",
+    "acceptedAnswers": [
+      "Yağmura rağmen"
+    ],
+    "explanation": "'Rağmen' exige que o substantivo antecedente esteja no caso dativo: yağmur + a = yağmura rağmen.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-12",
+    "level": "B1",
+    "topic": "Discurso Indireto & Conector",
+    "title": "Uso de 'Diye' para Propósito",
+    "instructions": "Identifique a finalidade expressa com 'diye'.",
+    "type": "multiple_choice",
+    "question": "Qual frase significa 'Corri para não me atrasar'?",
+    "options": [
+      "Geç kalmayayım diye koştum",
+      "Geç kaldım diye koştum",
+      "Geç kalırken koştum",
+      "Geç kalmadan koştum"
+    ],
+    "correctAnswer": "Geç kalmayayım diye koştum",
+    "acceptedAnswers": [
+      "Geç kalmayayım diye koştum"
+    ],
+    "explanation": "O verbo no optativo de 1ª pessoa ('kalmayayım') + 'diye' expressa intenção deliberada ('com a meta de não me atrasar').",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-13",
+    "level": "B1",
+    "topic": "Necessidade & Obrigação",
+    "title": "Obrigação Moral com '-malı / -meli'",
+    "instructions": "Identifique o dever moral ou conselho.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Você deveria se alimentar com saúde'?",
+    "options": [
+      "Sağlıklı beslenmelisin",
+      "Sağlıklı besleniyorsun",
+      "Sağlıklı beslendin",
+      "Sağlıklı beslen"
+    ],
+    "correctAnswer": "Sağlıklı beslenmelisin",
+    "acceptedAnswers": [
+      "Sağlıklı beslenmelisin"
+    ],
+    "explanation": "'-malı / -meli' expressa recomendação ética e dever ('deveria fazer'): beslen + meli + sin.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-14",
+    "level": "B1",
+    "topic": "Necessidade Cotidiana",
+    "title": "Estrutura '-mem lazım' (Preciso...)",
+    "instructions": "Identifique a fórmula informal mais usada para necessidades diárias.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Preciso ir agora' em turco coloquial?",
+    "options": [
+      "Şimdi gitmem lazım",
+      "Şimdi gitmeliyim",
+      "Şimdi gitmek zorundayım",
+      "Şimdi giderim"
+    ],
+    "correctAnswer": "Şimdi gitmem lazım",
+    "acceptedAnswers": [
+      "Şimdi gitmem lazım"
+    ],
+    "explanation": "Infinitivo abreviado com possessivo ('gitme-m') + 'lazım' é a estrutura cotidiana padrão para 'preciso ir'.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-15",
+    "level": "B1",
+    "topic": "Passado Contínuo (-iyordu)",
+    "title": "Ação em Progresso no Passado",
+    "instructions": "Identifique o pretérito imperfeito contínuo.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Eu estava esperando' em turco?",
+    "options": [
+      "Bekliyordum",
+      "Bekledim",
+      "Beklemişim",
+      "Bekleyeceğim"
+    ],
+    "correctAnswer": "Bekliyordum",
+    "acceptedAnswers": [
+      "Bekliyordum"
+    ],
+    "explanation": "Radical 'bekle-' + '-i-' + '-yor' + '-du-' + '-m' = Bekliyordum.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-16",
+    "level": "B1",
+    "topic": "Comparativo Avançado",
+    "title": "Comparação com Ablativo",
+    "instructions": "Complete a oração comparativa.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Ahmet é mais alto que Mehmet'?",
+    "options": [
+      "Ahmet, Mehmet'ten daha uzun",
+      "Ahmet, Mehmet'e daha uzun",
+      "Ahmet, Mehmet'i daha uzun",
+      "Ahmet, Mehmet'te daha uzun"
+    ],
+    "correctAnswer": "Ahmet, Mehmet'ten daha uzun",
+    "acceptedAnswers": [
+      "Ahmet, Mehmet'ten daha uzun"
+    ],
+    "explanation": "O termo de comparação exige o caso ablativo '-ten': Mehmet'ten daha uzun.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-17",
+    "level": "B1",
+    "topic": "Pós-posições",
+    "title": "Pós-posição 'İçin' (Para / Por causa de)",
+    "instructions": "Identifique o uso da pós-posição causal e final.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Fiz isto por você' em turco?",
+    "options": [
+      "Bunu senin için yaptım",
+      "Bunu sana için yaptım",
+      "Bunu senden için yaptım",
+      "Bunu seni için yaptım"
+    ],
+    "correctAnswer": "Bunu senin için yaptım",
+    "acceptedAnswers": [
+      "Bunu senin için yaptım"
+    ],
+    "explanation": "'İçin' exige os pronomes pessoais no genitivo: senin için (por ti / para ti), benim için (para mim).",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-18",
+    "level": "B1",
+    "topic": "Frequência & Rotina",
+    "title": "Advérbio 'Bazen' vs 'Her gün'",
+    "instructions": "Identifique a frequência de uma ação.",
+    "type": "multiple_choice",
+    "question": "O que significa 'Bazen sinemaya giderim'?",
+    "options": [
+      "Às vezes vou ao cinema",
+      "Sempre vou ao cinema",
+      "Nunca vou ao cinema",
+      "Amanhã vou ao cinema"
+    ],
+    "correctAnswer": "Às vezes vou ao cinema",
+    "acceptedAnswers": [
+      "Às vezes vou ao cinema"
+    ],
+    "explanation": "'Bazen' significa 'às vezes / de vez em quando'.",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-19",
+    "level": "B1",
+    "topic": "Futuro (Interrogação)",
+    "title": "Pergunta de Futuro",
+    "instructions": "Identifique a pergunta formulada no tempo futuro.",
+    "type": "multiple_choice",
+    "question": "Como se pergunta 'Você virá amanhã?'?",
+    "options": [
+      "Yarın gelecek misin?",
+      "Yarın gelir misin?",
+      "Yarın geldin mi?",
+      "Yarın geliyor musun?"
+    ],
+    "correctAnswer": "Yarın gelecek misin?",
+    "acceptedAnswers": [
+      "Yarın gelecek misin?"
+    ],
+    "explanation": "Raiz 'gel-' + futuro '-ecek' + partícula interrogativa flexionada 'misin' = Gelecek misin?",
+    "points": 10
+  },
+  {
+    "id": "ex-b1-20",
+    "level": "B1",
+    "topic": "Expressões Práticas",
+    "title": "Desejo de Melhoras (Saúde)",
+    "instructions": "Identifique a frase afetuosa dita a quem está doente ou passou por um susto.",
+    "type": "multiple_choice",
+    "question": "O que se diz a alguém que está doente na Turquia?",
+    "options": [
+      "Geçmiş olsun!",
+      "Hayırlı olsun!",
+      "Elinize sağlık!",
+      "Kolay gelsin!"
+    ],
+    "correctAnswer": "Geçmiş olsun!",
+    "acceptedAnswers": [
+      "Geçmiş olsun!"
+    ],
+    "explanation": "'Geçmiş olsun' significa 'Que passe logo' / 'Melhoras!' e é dito para doenças, cirurgias e acidentes.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-01",
+    "level": "B2",
+    "topic": "Particípio do Sujeito (-en/-an)",
+    "title": "Oração Relativa de Sujeito",
+    "instructions": "Transforme a frase com o particípio que executa a ação.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'O homem que fala turco' em turco?",
+    "options": [
+      "Türkçe konuşan adam",
+      "Türkçe konuştuğu adam",
+      "Adam ki Türkçe konuşur",
+      "Türkçe konuş adam"
+    ],
+    "correctAnswer": "Türkçe konuşan adam",
+    "acceptedAnswers": [
+      "Türkçe konuşan adam"
+    ],
+    "explanation": "Quando o sujeito da oração relativa é o próprio termo modificado ('o homem fala'), usa-se o particípio '-en / -an': konuşan adam.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-02",
+    "level": "B2",
+    "topic": "Particípio do Objeto (-dik)",
+    "title": "Oração Relativa de Objeto: 'O livro que li'",
+    "instructions": "Identifique a oração com o particípio -dik e possessivo.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'O livro que eu li' em turco?",
+    "options": [
+      "Okuduğum kitap",
+      "Okuyan kitap",
+      "Kitap okudum",
+      "Okuduğun kitap"
+    ],
+    "correctAnswer": "Okuduğum kitap",
+    "acceptedAnswers": [
+      "Okuduğum kitap"
+    ],
+    "explanation": "Radical 'oku-' + particípio '-dik' (suavizado para 'duğ') + possessivo de 1ª pessoa 'um' + substantivo = Okuduğum kitap.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-03",
+    "level": "B2",
+    "topic": "Particípio do Objeto (Futuro)",
+    "title": "Oração Relativa Futura: 'O que faremos'",
+    "instructions": "Identifique o particípio futuro relativo com possessivo.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'O plano que nós faremos'?",
+    "options": [
+      "Yapacağımız plan",
+      "Yaptığımız plan",
+      "Yapan plan",
+      "Plan yapacağız"
+    ],
+    "correctAnswer": "Yapacağımız plan",
+    "acceptedAnswers": [
+      "Yapacağımız plan"
+    ],
+    "explanation": "Radical 'yap-' + particípio futuro '-acak' (suavizado para 'acağ') + possessivo de 'biz' ('ımız') = Yapacağımız plan.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-04",
+    "level": "B2",
+    "topic": "Modo Condicional Real",
+    "title": "Condição Simples no Presente (-se/-sa)",
+    "instructions": "Identifique a oração condicional real.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Se o tempo estiver bom, iremos'?",
+    "options": [
+      "Hava güzelse gideriz",
+      "Hava güzel olsaydı giderdik",
+      "Hava güzel olunca gideriz",
+      "Hava güzel olmadan gitmeyiz"
+    ],
+    "correctAnswer": "Hava güzelse gideriz",
+    "acceptedAnswers": [
+      "Hava güzelse gideriz"
+    ],
+    "explanation": "Condição real e aberta: adjetivo + sufixo condicional '-se': güzelse gideriz.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-05",
+    "level": "B2",
+    "topic": "Condicional Contrafactual (-seydi)",
+    "title": "Hipotético / Irreal no Passado",
+    "instructions": "Identifique a condição hipotética contrafactual.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Se eu soubesse, teria te avisado'?",
+    "options": [
+      "Bilseydim sana söylerdim",
+      "Bilirsem sana söylerim",
+      "Bildim sana söyledim",
+      "Bilince sana söylerim"
+    ],
+    "correctAnswer": "Bilseydim sana söylerdim",
+    "acceptedAnswers": [
+      "Bilseydim sana söylerdim"
+    ],
+    "explanation": "A condição contrafactual passada exige '-seydi' na hipótese e '-rdi' na oração principal: Bilseydim söylerdim.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-06",
+    "level": "B2",
+    "topic": "Voz Passiva (Edilgen)",
+    "title": "Formação da Voz Passiva com -(i)l",
+    "instructions": "Identifique o verbo na voz passiva.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'A carta foi escrita' (Yazmak)?",
+    "options": [
+      "Mektup yazıldı",
+      "Mektup yazdı",
+      "Mektup yazındı",
+      "Mektup yazdırdı"
+    ],
+    "correctAnswer": "Mektup yazıldı",
+    "acceptedAnswers": [
+      "Mektup yazıldı"
+    ],
+    "explanation": "O radical 'yaz-' recebe o afixo passivo '-ıl-' + passado '-dı' = yazıldı.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-07",
+    "level": "B2",
+    "topic": "Voz Passiva",
+    "title": "Agente da Passiva com 'Tarafından'",
+    "instructions": "Identifique a frase com o agente da passiva explícito.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'O livro foi escrito por Atatürk'?",
+    "options": [
+      "Kitap Atatürk tarafından yazıldı",
+      "Kitap Atatürk'e yazıldı",
+      "Kitap Atatürk'ten yazıldı",
+      "Kitap Atatürk ile yazıldı"
+    ],
+    "correctAnswer": "Kitap Atatürk tarafından yazıldı",
+    "acceptedAnswers": [
+      "Kitap Atatürk tarafından yazıldı"
+    ],
+    "explanation": "'Tarafından' é a pós-posição equivalente a 'por / da parte de' na voz passiva formal.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-08",
+    "level": "B2",
+    "topic": "Voz Causativa (Ettirgen)",
+    "title": "Mandar Fazer com Sufixo Causativo",
+    "instructions": "Identifique a frase onde o sujeito manda alguém realizar a ação.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Mandei consertar meu carro' (Tamir etmek)?",
+    "options": [
+      "Arabamı tamir ettirdim",
+      "Arabamı tamir ettim",
+      "Arabam tamir edildi",
+      "Arabamı tamir ettik"
+    ],
+    "correctAnswer": "Arabamı tamir ettirdim",
+    "acceptedAnswers": [
+      "Arabamı tamir ettirdim"
+    ],
+    "explanation": "O sufixo causativo '-tir-' transforma o verbo em 'mandar fazer': tamir et + tir + di + m = tamir ettirdim.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-09",
+    "level": "B2",
+    "topic": "Voz Causativa",
+    "title": "Causativo de 'Kesmek' (Cortar o Cabelo)",
+    "instructions": "Selecione a expressão correta para cortar cabelo no salão/barbeiro.",
+    "type": "multiple_choice",
+    "question": "Como um turco diz 'Cortei o cabelo' (no barbeiro)?",
+    "options": [
+      "Saçımı kestirdim",
+      "Saçımı kestim",
+      "Saçım kesildi",
+      "Saçımı kesiyorum"
+    ],
+    "correctAnswer": "Saçımı kestirdim",
+    "acceptedAnswers": [
+      "Saçımı kestirdim"
+    ],
+    "explanation": "Como foi o barbeiro quem cortou, usa-se a forma causativa 'kestirdim' (mandei cortar).",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-10",
+    "level": "B2",
+    "topic": "Voz Recíproca (İşteş)",
+    "title": "Ação Mútua com o Sufixo -(i)ş",
+    "instructions": "Identifique o verbo recíproco de ação mútua.",
+    "type": "multiple_choice",
+    "question": "Qual é a origem morfológica do verbo 'Görüşmek' (Encontrar-se / Dialogar)?",
+    "options": [
+      "Görmek (ver) + -üş (reciprocidade mútua)",
+      "Görmek + passivo",
+      "Görmek + causativo",
+      "Görmek + reflexivo"
+    ],
+    "correctAnswer": "Görmek (ver) + -üş (reciprocidade mútua)",
+    "acceptedAnswers": [
+      "Görmek (ver) + -üş (reciprocidade mútua)"
+    ],
+    "explanation": "O afixo '-(i)ş' indica que duas ou mais pessoas praticam a ação mutuamente: görmüşmek = verem-se mutuamente.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-11",
+    "level": "B2",
+    "topic": "Gerúndio Modal (-(y)erek)",
+    "title": "Modo de Realização da Ação",
+    "instructions": "Identifique a oração com gerúndio de simultaneidade modal.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Ele veio correndo'?",
+    "options": [
+      "Koşarak geldi",
+      "Koşunca geldi",
+      "Koştuktan sonra geldi",
+      "Koşarken geldi"
+    ],
+    "correctAnswer": "Koşarak geldi",
+    "acceptedAnswers": [
+      "Koşarak geldi"
+    ],
+    "explanation": "'-(y)arak / -(y)erek' expressa a maneira ou modo pelo qual o verbo principal se realizou: koşarak (correndo).",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-12",
+    "level": "B2",
+    "topic": "Sufixo Derivacional -lik",
+    "title": "Derivação de Substantivos e Objetos",
+    "instructions": "Identifique o substantivo derivado com '-lik'.",
+    "type": "multiple_choice",
+    "question": "Qual palavra derivada a partir de 'Göz' (Olho) significa 'Óculos'?",
+    "options": [
+      "Gözlük",
+      "Gözcü",
+      "Gözlem",
+      "Gözsüz"
+    ],
+    "correctAnswer": "Gözlük",
+    "acceptedAnswers": [
+      "Gözlük",
+      "gozluk"
+    ],
+    "explanation": "O sufixo '-lik / -lük' cria recipientes e instrumentos associados: göz (olho) ➔ gözlük (óculos).",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-13",
+    "level": "B2",
+    "topic": "Sufixo Derivacional -ci",
+    "title": "Profissões e Ofícios",
+    "instructions": "Identifique a palavra para quem vende ou prepara chá.",
+    "type": "multiple_choice",
+    "question": "Como se chama a pessoa que serve e prepara chá na Turquia?",
+    "options": [
+      "Çaycı",
+      "Çaylık",
+      "Çaysız",
+      "Çaydaş"
+    ],
+    "correctAnswer": "Çaycı",
+    "acceptedAnswers": [
+      "Çaycı",
+      "cayci"
+    ],
+    "explanation": "O sufixo '-ci / -cı / -cu / -cü' designa o profissional ou vendedor: çay (chá) ➔ çaycı.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-14",
+    "level": "B2",
+    "topic": "Sufixo Privativo -siz",
+    "title": "Privação e Ausência",
+    "instructions": "Identifique a palavra correspondente a 'sem açúcar'.",
+    "type": "multiple_choice",
+    "question": "Como se pede um café sem açúcar em turco?",
+    "options": [
+      "Şekersiz",
+      "Şekerli",
+      "Şekerlik",
+      "Şekerci"
+    ],
+    "correctAnswer": "Şekersiz",
+    "acceptedAnswers": [
+      "Şekersiz",
+      "sekersiz"
+    ],
+    "explanation": "'-siz / -süz' é o sufixo privativo ('sem'): şeker (açúcar) ➔ şekersiz (sem açúcar).",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-15",
+    "level": "B2",
+    "topic": "Gerúndio Negativo (-meksizin)",
+    "title": "Ação Contínua sem Parar",
+    "instructions": "Identifique a oração com o gerúndio formal de negação.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Ele trabalhou ininterruptamente (sem parar)'?",
+    "options": [
+      "Durmaksızın çalıştı",
+      "Durarak çalıştı",
+      "Durduktan sonra çalıştı",
+      "Durunca çalıştı"
+    ],
+    "correctAnswer": "Durmaksızın çalıştı",
+    "acceptedAnswers": [
+      "Durmaksızın çalıştı"
+    ],
+    "explanation": "'-meksizin / -maksızın' é a forma literária e refinada para 'sem fazer': durmaksızın = sem parar.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-16",
+    "level": "B2",
+    "topic": "Provérbios e Ditados",
+    "title": "A Sabedoria da Economia",
+    "instructions": "Identifique o provérbio clássico sobre persistência e acumulação.",
+    "type": "multiple_choice",
+    "question": "Qual é a tradução do provérbio 'Damlaya damlaya göl olur'?",
+    "options": [
+      "Gota a gota se forma um lago (De grão em grão a galinha enche o papo)",
+      "A água que corre não volta",
+      "Quem tem sede bebe água da fonte",
+      "O lago é mais profundo que o rio"
+    ],
+    "correctAnswer": "Gota a gota se forma um lago (De grão em grão a galinha enche o papo)",
+    "acceptedAnswers": [
+      "Gota a gota se forma um lago (De grão em grão a galinha enche o papo)"
+    ],
+    "explanation": "'Damlaya damlaya göl olur' ensina que pequenas economias diárias constroem grande segurança e fortuna.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-17",
+    "level": "B2",
+    "topic": "Particípios",
+    "title": "Expressão Fixa 'Bildiğim kadarıyla'",
+    "instructions": "Identifique a frase de ressalva informativa.",
+    "type": "multiple_choice",
+    "question": "O que significa 'Bildiğim kadarıyla'?",
+    "options": [
+      "Até onde eu sei / Ao que me consta",
+      "Se eu soubesse",
+      "Quem sabe disso",
+      "Depois que soube"
+    ],
+    "correctAnswer": "Até onde eu sei / Ao que me consta",
+    "acceptedAnswers": [
+      "Até onde eu sei / Ao que me consta"
+    ],
+    "explanation": "Particípio de objeto 'bildiğim' (o que sei) + 'kadarıyla' (na medida de) = até onde eu sei.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-18",
+    "level": "B2",
+    "topic": "Voz Reflexiva",
+    "title": "Ação sobre Si Mesmo",
+    "instructions": "Identifique a ação reflexiva em oposição à ação transitiva direta.",
+    "type": "multiple_choice",
+    "question": "Qual é a diferença entre 'Yıkamak' e 'Yıkanmak'?",
+    "options": [
+      "Yıkamak é lavar algo externo; Yıkanmak é lavar-se / tomar banho",
+      "Yıkamak é tomar banho; Yıkanmak é lavar louça",
+      "São sinônimos idênticos",
+      "Yıkanmak é mandar lavar"
+    ],
+    "correctAnswer": "Yıkamak é lavar algo externo; Yıkanmak é lavar-se / tomar banho",
+    "acceptedAnswers": [
+      "Yıkamak é lavar algo externo; Yıkanmak é lavar-se / tomar banho"
+    ],
+    "explanation": "O sufixo '-(i)n' torna o verbo reflexivo: yıkamak (lavar carro/louça) ➔ yıkanmak (lavar a si mesmo / banhar-se).",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-19",
+    "level": "B2",
+    "topic": "Condicional Desiderativo",
+    "title": "Expressão de Saudade com 'Keşke'",
+    "instructions": "Identifique a expressão que denota 'Quem dera / Oxalá'.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Quem dera você estivesse aqui!'?",
+    "options": [
+      "Keşke burada olsaydın!",
+      "Burada olmalısın!",
+      "Burada olacaksın!",
+      "Burada mısın?"
+    ],
+    "correctAnswer": "Keşke burada olsaydın!",
+    "acceptedAnswers": [
+      "Keşke burada olsaydın!"
+    ],
+    "explanation": "'Keşke' acompanhado do pretérito condicional ('olsaydın') expressa desejo nostálgico irrealizável ou tardio.",
+    "points": 10
+  },
+  {
+    "id": "ex-b2-20",
+    "level": "B2",
+    "topic": "Derivação -daş",
+    "title": "Compartilhamento com '-daş'",
+    "instructions": "Identifique a etimologia da palavra 'Vatandaş' (Cidadão).",
+    "type": "multiple_choice",
+    "question": "De quais elementos se compõe a palavra 'Vatandaş' (Cidadão)?",
+    "options": [
+      "Vatan (Pátria) + -daş (sufixo de compartilhador)",
+      "Vatan + locativo",
+      "Vatan + possessivo",
+      "Vatan + aumentativo"
+    ],
+    "correctAnswer": "Vatan (Pátria) + -daş (sufixo de compartilhador)",
+    "acceptedAnswers": [
+      "Vatan (Pátria) + -daş (sufixo de compartilhador)"
+    ],
+    "explanation": "O sufixo '-daş / -deş' indica quem compartilha algo: vatan (pátria) ➔ vatandaş (compatriota / cidadão).",
+    "points": 10
+  },
+  {
+    "id": "ex-c1-01",
+    "level": "C1",
+    "topic": "Mais-que-perfeito (-mişti)",
+    "title": "Anterioridade no Passado",
+    "instructions": "Identifique a oração no mais-que-perfeito.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Quando cheguei à estação, o trem já havia partido'?",
+    "options": [
+      "İstasyona vardığımda tren çoktan gitmişti",
+      "İstasyona varınca tren gidiyordu",
+      "İstasyona vardım tren gitti",
+      "İstasyona varırken tren gidecekti"
+    ],
+    "correctAnswer": "İstasyona vardığımda tren çoktan gitmişti",
+    "acceptedAnswers": [
+      "İstasyona vardığımda tren çoktan gitmişti"
+    ],
+    "explanation": "O mais-que-perfeito '-mişti' denota que a partida do trem ocorreu e se completou antes da chegada à estação.",
+    "points": 10
+  },
+  {
+    "id": "ex-c1-02",
+    "level": "C1",
+    "topic": "Futuro do Pretérito (-ecekti)",
+    "title": "Intenção Passada não Concretizada",
+    "instructions": "Identifique a oração com intenção frustrada no passado.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Eu ia te ligar, mas a bateria acabou'?",
+    "options": [
+      "Seni arayacaktım ama şarjım bitti",
+      "Seni aradım ama şarjım bitti",
+      "Seni arıyordum ama şarjım bitti",
+      "Seni ararım ama şarjım bitti"
+    ],
+    "correctAnswer": "Seni arayacaktım ama şarjım bitti",
+    "acceptedAnswers": [
+      "Seni arayacaktım ama şarjım bitti"
+    ],
+    "explanation": "'-ecekti' expressa o futuro no pretérito ('ia fazer' / 'faria'): arayacaktım.",
+    "points": 10
+  },
+  {
+    "id": "ex-c1-03",
+    "level": "C1",
+    "topic": "Duplo Evidencial (-mişmiş)",
+    "title": "Ironia e Descrédito Epistêmico",
+    "instructions": "Identifique a nuance sarcástica do duplo -miş.",
+    "type": "multiple_choice",
+    "question": "Qual é a intenção da frase 'Sınavı birinci bitirmişmiş'?",
+    "options": [
+      "Duvidar ou ironizar a alegação de que ele terminou em primeiro",
+      "Confirmar com certeza que ele venceu",
+      "Parabenizar calorosamente o aluno",
+      "Narrar um fato científico comprovado"
+    ],
+    "correctAnswer": "Duvidar ou ironizar a alegação de que ele terminou em primeiro",
+    "acceptedAnswers": [
+      "Duvidar ou ironizar a alegação de que ele terminou em primeiro"
+    ],
+    "explanation": "O duplo sufixo '-mişmiş' carrega carga irônica ou de ceticismo absoluto perante a fala de outrem ('disse ele que...').",
+    "points": 10
+  },
+  {
+    "id": "ex-c1-04",
+    "level": "C1",
+    "topic": "Orações Concessivas Complexas",
+    "title": "Estrutura '-mesine rağmen'",
+    "instructions": "Identifique a oração concessiva culta.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Apesar de ele ter estudado muito, não foi aprovado'?",
+    "options": [
+      "Çok çalışmasına rağmen başarılı olamadı",
+      "Çok çalıştı ve başarılı olamadı",
+      "Çok çalıştığı için başarılı olamadı",
+      "Çok çalışırken başarılı olamadı"
+    ],
+    "correctAnswer": "Çok çalışmasına rağmen başarılı olamadı",
+    "acceptedAnswers": [
+      "Çok çalışmasına rağmen başarılı olamadı"
+    ],
+    "explanation": "'-mesine / -masına rağmen' é a forma padrão da oração concessiva sofisticada em turco.",
+    "points": 10
+  },
+  {
+    "id": "ex-c1-05",
+    "level": "C1",
+    "topic": "Concessivas Enfáticas",
+    "title": "Estrutura '-(y)se bile'",
+    "instructions": "Identifique a oração correspondente a 'mesmo se...'.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Mesmo se chover, não cancelaremos o evento'?",
+    "options": [
+      "Yağmur yağsa bile etkinliği iptal etmeyeceğiz",
+      "Yağmur yağarsa etkinliği iptal edeceğiz",
+      "Yağmur yağınca etkinliği iptal ettik",
+      "Yağmur yağmadan etkinliği yaptık"
+    ],
+    "correctAnswer": "Yağmur yağsa bile etkinliği iptal etmeyeceğiz",
+    "acceptedAnswers": [
+      "Yağmur yağsa bile etkinliği iptal etmeyeceğiz"
+    ],
+    "explanation": "'-se bile' expressa concessão extrema ('mesmo que' / 'ainda que').",
+    "points": 10
+  },
+  {
+    "id": "ex-c1-06",
+    "level": "C1",
+    "topic": "Nominalização de Estilo -(y)ış",
+    "title": "O Modo e Estilo da Ação",
+    "instructions": "Diferencie a nominalização de estilo da nominalização comum.",
+    "type": "multiple_choice",
+    "question": "Qual palavra expressa a beleza poética do 'pôr do sol'?",
+    "options": [
+      "Güneşin batışı",
+      "Güneşin batması",
+      "Güneşin batmak",
+      "Güneşin batan"
+    ],
+    "correctAnswer": "Güneşin batışı",
+    "acceptedAnswers": [
+      "Güneşin batışı"
+    ],
+    "explanation": "'-(y)ış' expressa o estilo, a cadência e a estética com que o ato ocorre: batış (o declínio poético / poente).",
+    "points": 10
+  },
+  {
+    "id": "ex-c1-07",
+    "level": "C1",
+    "topic": "Correspondência Formal (Dilekçe)",
+    "title": "Fórmula de Fechamento Protocolar",
+    "instructions": "Identifique o fechamento de um cidadão para uma autoridade pública.",
+    "type": "multiple_choice",
+    "question": "Qual é a fórmula de encerramento inviolável de uma petição formal (Dilekçe)?",
+    "options": [
+      "Bilgilerinize arz ederim",
+      "Gereğini rica ederim",
+      "Öpüyorum seni",
+      "Görüşmek üzere"
+    ],
+    "correctAnswer": "Bilgilerinize arz ederim",
+    "acceptedAnswers": [
+      "Bilgilerinize arz ederim"
+    ],
+    "explanation": "'Arz ederim' é o termo protocolar com que um cidadão submete respeitosamente uma solicitação à autoridade pública.",
+    "points": 10
+  },
+  {
+    "id": "ex-c1-08",
+    "level": "C1",
+    "topic": "Regência Verbal Contrastiva",
+    "title": "Verbo 'Güvenmek' (Confiar)",
+    "instructions": "Identifique o caso gramatical regido pelo verbo 'güvenmek'.",
+    "type": "multiple_choice",
+    "question": "Qual caso o verbo 'Güvenmek' (confiar) exige em turco?",
+    "options": [
+      "Dativo (-(y)e): 'Sana güveniyorum'",
+      "Acusativo (-(y)i): 'Seni güveniyorum'",
+      "Ablativo (-den): 'Senden güveniyorum'",
+      "Locativo (-de): 'Sende güveniyorum'"
+    ],
+    "correctAnswer": "Dativo (-(y)e): 'Sana güveniyorum'",
+    "acceptedAnswers": [
+      "Dativo (-(y)e): 'Sana güveniyorum'"
+    ],
+    "explanation": "Em turco, confia-se 'A' alguém (caso dativo): Sana güveniyorum (e nunca acusativo como no inglês ou em outras línguas).",
+    "points": 10
+  },
+  {
+    "id": "ex-c1-09",
+    "level": "C1",
+    "topic": "Regência Verbal Contrastiva",
+    "title": "Verbo 'Korkmak' (Ter medo)",
+    "instructions": "Identifique o caso gramatical do objeto do medo.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Tenho medo do escuro' em turco?",
+    "options": [
+      "Karanlıktan korkarım",
+      "Karanlığa korkarım",
+      "Karanlığı korkarım",
+      "Karanlıkta korkarım"
+    ],
+    "correctAnswer": "Karanlıktan korkarım",
+    "acceptedAnswers": [
+      "Karanlıktan korkarım"
+    ],
+    "explanation": "O verbo 'korkmak' exige ablativo (-den/-dan): karanlıktan korkarım.",
+    "points": 10
+  },
+  {
+    "id": "ex-c1-10",
+    "level": "C1",
+    "topic": "Conceitos Culturais Literários",
+    "title": "O Conceito de 'Hüzün' em Orhan Pamuk",
+    "instructions": "Identifique a definição correta do termo cultural 'Hüzün'.",
+    "type": "multiple_choice",
+    "question": "O que representa o sentimento de 'Hüzün' consagrado na literatura de Istambul?",
+    "options": [
+      "Uma melancolia poética coletiva e estética compartilhada pela cidade",
+      "Uma raiva passageira diante da burocracia",
+      "A alegria incontida das festas populares",
+      "O pânico diante das tempestades do mar"
+    ],
+    "correctAnswer": "Uma melancolia poética coletiva e estética compartilhada pela cidade",
+    "acceptedAnswers": [
+      "Uma melancolia poética coletiva e estética compartilhada pela cidade"
+    ],
+    "explanation": "'Hüzün' é a melancolia existencial, refinada e lírica imortalizada por Orhan Pamuk e Yahya Kemal.",
+    "points": 10
+  },
+  {
+    "id": "ex-c2-01",
+    "level": "C2",
+    "topic": "Etimologia & Reforma de 1928",
+    "title": "Substituição Lexical de Atatürk",
+    "instructions": "Identifique o neologismo geométrico criado por Atatürk.",
+    "type": "multiple_choice",
+    "question": "Qual palavra moderna do turco republicano Atatürk cunhou para substituir o otomano 'Müselles'?",
+    "options": [
+      "Üçgen (Triângulo)",
+      "Dörtgen",
+      "Daire",
+      "Açı"
+    ],
+    "correctAnswer": "Üçgen (Triângulo)",
+    "acceptedAnswers": [
+      "Üçgen (Triângulo)",
+      "ucgen"
+    ],
+    "explanation": "Atatürk cunhou 'üçgen' a partir da raiz turca 'üç' (três) + sufixo '-gen', substituindo o termo árabe-otomano 'müselles'.",
+    "points": 10
+  },
+  {
+    "id": "ex-c2-02",
+    "level": "C2",
+    "topic": "Estilística: Frase Invertida (Devrik Cümle)",
+    "title": "Efeito Retórico e Poético da Inversão",
+    "instructions": "Identifique a frase com estrutura 'Devrik Cümle'.",
+    "type": "multiple_choice",
+    "question": "Qual das frases abaixo apresenta uma 'Devrik Cümle' de estilo literário?",
+    "options": [
+      "Açıldı nihayet kapılar ardına kadar.",
+      "Nihayet kapılar ardına kadar açıldı.",
+      "Kapılar ardına kadar açıldı nihayet.",
+      "Kapıların açıldığını gördüm."
+    ],
+    "correctAnswer": "Açıldı nihayet kapılar ardına kadar.",
+    "acceptedAnswers": [
+      "Açıldı nihayet kapılar ardına kadar."
+    ],
+    "explanation": "Colocar o verbo 'açıldı' no início da oração cria suspense e ênfase sensorial dramática, caracterizando a 'devrik cümle'.",
+    "points": 10
+  },
+  {
+    "id": "ex-c2-03",
+    "level": "C2",
+    "topic": "Pragmática & Partículas de Matiz",
+    "title": "A Partícula 'Ki' Enfática",
+    "instructions": "Identifique a nuance expressiva da partícula 'ki'.",
+    "type": "multiple_choice",
+    "question": "O que transmite a exclamação 'Ben nereden bileyim ki!'?",
+    "options": [
+      "Indignação e impossibilidade de saber algo óbvio",
+      "Uma dúvida sincera que aguarda resposta",
+      "Um elogio à inteligência do ouvinte",
+      "Uma ordem militar direta"
+    ],
+    "correctAnswer": "Indignação e impossibilidade de saber algo óbvio",
+    "acceptedAnswers": [
+      "Indignação e impossibilidade de saber algo óbvio"
+    ],
+    "explanation": "A partícula 'ki' enfática denota espanto e desabafo ('Como é que eu iria adivinhar isso?!').",
+    "points": 10
+  },
+  {
+    "id": "ex-c2-04",
+    "level": "C2",
+    "topic": "Sabedoria Ancestral Sufi",
+    "title": "Yunus Emre e a Filosofia Anatólica",
+    "instructions": "Identifique o verso mais célebre da mística de Yunus Emre.",
+    "type": "multiple_choice",
+    "question": "Qual é a célebre máxima de Yunus Emre sobre a efemeridade da vida terrena?",
+    "options": [
+      "Sevelim, sevilelim; dünya kimseye kalmaz",
+      "Gözden ırak olan gönülden ırak olur",
+      "Ağır taş yerinden oynamaz",
+      "Damlaya damlaya göl olur"
+    ],
+    "correctAnswer": "Sevelim, sevilelim; dünya kimseye kalmaz",
+    "acceptedAnswers": [
+      "Sevelim, sevilelim; dünya kimseye kalmaz"
+    ],
+    "explanation": "'Sevelim, sevilelim; dünya kimseye kalmaz' (Amemos e sejamos amados; o mundo não fica para ninguém) é o ápice da lírica humanista turca.",
+    "points": 10
+  },
+  {
+    "id": "ex-c2-05",
+    "level": "C2",
+    "topic": "Conectivos Lógicos de Dissertação",
+    "title": "O Conectivo Argumentativo 'Nitekim'",
+    "instructions": "Identifique o papel do conectivo dissertativo 'nitekim'.",
+    "type": "multiple_choice",
+    "question": "Em que contexto se emprega o conectivo formal 'Nitekim' em um ensaio acadêmico?",
+    "options": [
+      "Para comprovar que uma premissa ou previsão se confirmou na realidade ('com efeito / de fato')",
+      "Para mudar de assunto abruptamente",
+      "Para pedir desculpas ao leitor",
+      "Para negar o argumento anterior"
+    ],
+    "correctAnswer": "Para comprovar que uma premissa ou previsão se confirmou na realidade ('com efeito / de fato')",
+    "acceptedAnswers": [
+      "Para comprovar que uma premissa ou previsão se confirmou na realidade ('com efeito / de fato')"
+    ],
+    "explanation": "'Nitekim' significa 'como era de se esperar / com efeito / de fato' e introduz dados empíricos que corroboram a tese.",
+    "points": 10
+  },
+  {
+    "id": "ex-c2-06",
+    "level": "C2",
+    "topic": "Socioleto Urbano & Gírias de Istambul",
+    "title": "O Fenômeno do 'Aynen'",
+    "instructions": "Identifique o uso conversacional da gíria 'Aynen'.",
+    "type": "multiple_choice",
+    "question": "Como os jovens de Istambul usam a palavra 'Aynen' nos cafés e redes sociais?",
+    "options": [
+      "Como concordância plena e imediata ('Total!' / 'Com certeza!' / 'Isso mesmo!')",
+      "Como saudação de despedida formal",
+      "Para demonstrar revolta e discordância",
+      "Para perguntar as horas"
+    ],
+    "correctAnswer": "Como concordância plena e imediata ('Total!' / 'Com certeza!' / 'Isso mesmo!')",
+    "acceptedAnswers": [
+      "Como concordância plena e imediata ('Total!' / 'Com certeza!' / 'Isso mesmo!')"
+    ],
+    "explanation": "'Aynen' tornou-se o principal marcador discursivo de anuência imediata no socioleto urbano jovem turco.",
+    "points": 10
+  },
+  {
+    "id": "ex-c2-07",
+    "level": "C2",
+    "topic": "Alta Chancelaria & Diplomacia",
+    "title": "Fórmula Diplomática de Nota de Protesto",
+    "instructions": "Identifique a expressão diplomática para censura e preocupação oficial.",
+    "type": "multiple_choice",
+    "question": "Qual fórmula o Ministério das Relações Exteriores turco emprega para externar preocupação oficial solene?",
+    "options": [
+      "Derin endişe duymaktayız",
+      "Çok korkuyoruz",
+      "Kafayı yedik",
+      "Boş veriyoruz"
+    ],
+    "correctAnswer": "Derin endişe duymaktayız",
+    "acceptedAnswers": [
+      "Derin endişe duymaktayız"
+    ],
+    "explanation": "'Derin endişe duymaktayız' (Expressamos profunda preocupação) é o padrão ouro da diplomacia internacional turca.",
+    "points": 10
+  },
+  {
+    "id": "ex-c2-08",
+    "level": "C2",
+    "topic": "Provérbios e Filosofia",
+    "title": "Provérbio 'Ağır taş yerinden oynamaz'",
+    "instructions": "Identifique a lição moral sobre firmeza e compostura.",
+    "type": "multiple_choice",
+    "question": "O que ensina o provérbio ancestral 'Ağır taş yerinden oynamaz' (Pedra pesada não sai do lugar)?",
+    "options": [
+      "Pessoas de integridade moral e peso de caráter mantêm a serenidade inabalável",
+      "Não se deve carregar peso excessivo",
+      "As rochas da Anatólia são perigosas",
+      "Quem não se move fica para trás"
+    ],
+    "correctAnswer": "Pessoas de integridade moral e peso de caráter mantêm a serenidade inabalável",
+    "acceptedAnswers": [
+      "Pessoas de integridade moral e peso de caráter mantêm a serenidade inabalável"
+    ],
+    "explanation": "O provérbio elogia a maturidade e a gravitas moral: quem tem peso interior não é abalado por fofocas ou ventos passageiros.",
+    "points": 10
+  },
+  {
+    "id": "ex-c2-09",
+    "level": "C2",
+    "topic": "Etimologia de Palavras Republicanas",
+    "title": "Criação da Palavra 'Bilgisayar'",
+    "instructions": "Identifique a engenharia linguística por trás do termo turco para computador.",
+    "type": "multiple_choice",
+    "question": "Qual é a formação etimológica da palavra turca para computador ('Bilgisayar')?",
+    "options": [
+      "Bilgi (informação) + sayar (aquele que conta / processador numérico)",
+      "Bilgisiz (sem saber) + yar (amigo)",
+      "Bileşen (componente) + ayar (ajuste)",
+      "Empréstimo direto do latim"
+    ],
+    "correctAnswer": "Bilgi (informação) + sayar (aquele que conta / processador numérico)",
+    "acceptedAnswers": [
+      "Bilgi (informação) + sayar (aquele que conta / processador numérico)"
+    ],
+    "explanation": "Cunhada nos anos 1970 pelo linguista Aydın Köksal, 'bilgisayar' uniu 'bilgi' (informação) com o particípio de 'saymak' (contar).",
+    "points": 10
+  },
+  {
+    "id": "ex-c2-10",
+    "level": "C2",
+    "topic": "Estilística de Fecho Dissertativo",
+    "title": "Fórmula 'Netice İtibarıyla'",
+    "instructions": "Identifique o conectivo de conclusão de alta erudição.",
+    "type": "multiple_choice",
+    "question": "Como se diz 'Em última análise / Em conclusão' em turco acadêmico refinado?",
+    "options": [
+      "Netice itibarıyla",
+      "Ama işte",
+      "Bakar mısınız",
+      "İlk olarak"
+    ],
+    "correctAnswer": "Netice itibarıyla",
+    "acceptedAnswers": [
+      "Netice itibarıyla"
+    ],
+    "explanation": "'Netice itibarıyla' (ou 'Sonuç olarak') coroa o parágrafo final de uma dissertação acadêmica de nível C2.",
+    "points": 10
+  }
+]
