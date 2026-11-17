@@ -1,12 +1,14 @@
 import React, { useState, useEffect } from 'react';
-import { Compass, Landmark, Coffee, History, Sparkles, MapPin, UtensilsCrossed } from 'lucide-react';
+import { Compass, Landmark, Coffee, History, Sparkles, MapPin, UtensilsCrossed, Map, Globe } from 'lucide-react';
 import AudioButton from './AudioButton';
 import TurkeyMap from './TurkeyMap';
+import GoogleMapsViewer from './GoogleMapsViewer';
 
 export default function CultureTab() {
   const [cultureData, setCultureData] = useState(null);
   const [activeSection, setActiveSection] = useState('traditions');
   const [selectedRegion, setSelectedRegion] = useState(null);
+  const [mapMode, setMapMode] = useState('google');
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -130,15 +132,55 @@ export default function CultureTab() {
 
       {/* SEÇÃO 2: AS 7 REGIÕES */}
       {activeSection === 'regions' && (
-        <div className="space-y-8 animate-fadeIn">
-          {/* Mapa Geográfico Interativo da Turquia */}
-          <TurkeyMap
-            selectedRegionId={selectedRegion?.id}
-            onSelectRegion={(regionId) => {
-              const target = cultureData.regions.find(r => r.id === regionId);
-              if (target) setSelectedRegion(target);
-            }}
-          />
+        <div className="space-y-6 animate-fadeIn">
+          {/* Seletor do Tipo de Visualização Cartográfica / Satélite */}
+          <div className="flex flex-wrap items-center justify-between gap-3 bg-zinc-100 dark:bg-zinc-900/80 p-2 rounded-2xl border border-zinc-200 dark:border-zinc-800">
+            <span className="text-xs font-bold text-zinc-500 dark:text-zinc-400 px-3 uppercase tracking-wider font-mono">
+              Modo de Visualização:
+            </span>
+            <div className="flex items-center gap-2">
+              <button
+                onClick={() => setMapMode('google')}
+                className={`flex items-center gap-2 px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all ${
+                  mapMode === 'google'
+                    ? 'bg-blue-600 text-white shadow-sm'
+                    : 'text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white hover:bg-zinc-200 dark:hover:bg-zinc-800'
+                }`}
+              >
+                <Globe className="w-3.5 h-3.5" />
+                <span>Google Maps (Satélite & Relevo)</span>
+              </button>
+
+              <button
+                onClick={() => setMapMode('cartographic')}
+                className={`flex items-center gap-2 px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all ${
+                  mapMode === 'cartographic'
+                    ? 'bg-[#C8102E] text-white shadow-sm'
+                    : 'text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white hover:bg-zinc-200 dark:hover:bg-zinc-800'
+                }`}
+              >
+                <Compass className="w-3.5 h-3.5" />
+                <span>Mapa 7 Regiões (Vetorial)</span>
+              </button>
+            </div>
+          </div>
+
+          {/* Renderização do Mapa Ativo */}
+          {mapMode === 'google' ? (
+            <GoogleMapsViewer
+              regionId={selectedRegion?.id || 'marmara'}
+              regionName={selectedRegion?.name || 'Turquia'}
+              defaultCity={selectedRegion?.capitalCity}
+            />
+          ) : (
+            <TurkeyMap
+              selectedRegionId={selectedRegion?.id}
+              onSelectRegion={(regionId) => {
+                const target = cultureData.regions.find(r => r.id === regionId);
+                if (target) setSelectedRegion(target);
+              }}
+            />
+          )}
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             {/* Menu Lateral das Regiões */}
